@@ -1,0 +1,239 @@
+I"tJ<p>Os alunos de graduação do Demar participam regularmente de atividades de extensão, seja por meio da empresa júnior <em>“EEL Jr”,</em> seja por meio de participação individual ou em grupos de projetos de extensão e consultoria. A partir de 2013, com o início do Mestrado Profissional em Projetos Educacionais de Ciências os alunos da graduação têm dado apoio às atividades de extensão junto às escolas de ensino básico de Lorena. Além dessas, podem ser destacadas algumas atividades de extensão oferecidas e organizadas por funcionários e/ou alunos do Demar:</p>
+
+<div id="accordion">
+
+  
+
+    <div class="alert text-light bg-dark my-1 collapsed" id="headCAEF" data-toggle="collapse" data-target="#CAEF" aria-expanded="false" aria-controls="CAEF" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> CAEF
+    </div>
+    <div id="CAEF" class="card collapse" aria-labelledby="headCAEF" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title">Centro Acadêmico da Engenharia Física</h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/assets/images/demar/caef.webp" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              O Centro Acadêmico de Engenharia Física (C.A.E.F.) da Escola de Engenharia de Lorena da Universidade de São Paulo - EEL-USP tem por finalidade representar os estudantes do curso de Engenharia Física da EEL-USP, promover a aproximação dos alunos com os corpos docente, discente e técnico-administrativo, organizar eventos ou excursões de caráter científico, cultural ou recreativo, além de garantir a excelência do curso. Para isso, além de outras ações, o CAEF proporciona espaço para sugestões, elogios ou críticas, assim como uma referência aos estudantes ingressantes e veteranos, com materiais de estudo diversos.
+            </p>
+            <p>:earth_americas: <a href="https://caefusp.wixsite.com/caef" target="_blank">https://caefusp.wixsite.com/caef</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#CAEF').on('shown.bs.collapse', function () {
+      $('#headCAEF').html('<svg class="octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> CAEF');
+    })
+
+    $('#CAEF').on('hidden.bs.collapse', function () {
+      $('#headCAEF').html('<svg class="octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> CAEF');
+    })
+    </script>
+
+
+
+
+    <div class="alert text-light bg-dark my-1 collapsed" id="headCAEM" data-toggle="collapse" data-target="#CAEM" aria-expanded="false" aria-controls="CAEM" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> CAEM
+    </div>
+    <div id="CAEM" class="card collapse" aria-labelledby="headCAEM" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title">Centro Acadêmico da Engenharia de Materiais</h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/assets/images/demar/caem.jpg" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              
+            </p>
+            <p>:earth_americas: <a href="https://www.facebook.com/caem.demar" target="_blank">https://www.facebook.com/caem.demar</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#CAEM').on('shown.bs.collapse', function () {
+      $('#headCAEM').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> CAEM');
+    })
+
+    $('#CAEM').on('hidden.bs.collapse', function () {
+      $('#headCAEM').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> CAEM');
+    })
+    </script>
+
+
+
+
+    <div class="alert text-light bg-dark my-1 collapsed" id="headGammaJr" data-toggle="collapse" data-target="#GammaJr" aria-expanded="false" aria-controls="GammaJr" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Gamma Jr. Engenharia
+    </div>
+    <div id="GammaJr" class="card collapse" aria-labelledby="headGammaJr" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/assets/images/demar/gammajr.jpg" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              A Gamma Jr foi criada em 2017 pelos alunos de engenharia física da USP de Lorena com a missão de incrementar a formação dos engenheiros físicos habilidades que não são desenvolvidas dentro da sala de aula. As empresas juniores buscam por meio da vivencia empresarial, desenvolver um perfil empreendedor nos alunos, preparando-os melhor para o mercado de trabalho e impactando na sociedade e no meio onde atuam. Além de impactar diretamente os alunos nós, temos a visão de disseminar o nome e a qualidade do curso de engenharia física nas empresas. Aproveitando a multidisciplinaridade do curso de engenharia física, nossa empresa possui um portfólio variado, atuando nas áreas de eletrônica, automação e controle de processos e desenvolvimento de sistemas.
+            </p>
+            <p>:earth_americas: <a href="https://www.facebook.com/gammajrengenharia/" target="_blank">https://www.facebook.com/gammajrengenharia/</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#GammaJr').on('shown.bs.collapse', function () {
+      $('#headGammaJr').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> Gamma Jr. Engenharia');
+    })
+
+    $('#GammaJr').on('hidden.bs.collapse', function () {
+      $('#headGammaJr').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Gamma Jr. Engenharia');
+    })
+    </script>
+
+
+
+
+    <div class="alert text-light bg-dark my-1 collapsed" id="headEELRacing" data-toggle="collapse" data-target="#EELRacing" aria-expanded="false" aria-controls="EELRacing" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> EELRacing
+    </div>
+    <div id="EELRacing" class="card collapse" aria-labelledby="headEELRacing" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/assets/images/demar/EELRacing.jpg" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              A Equipe EEL Racing existe desde 2012 com participação de alunos dos cursos de graduação da Escola de Engenharia de Lorena (EEL) da USP. Os alunos são oriundos dos cursos de Engenharia Química, Física, de Materiais, Bioquímica, de Produção e Ambiental. A EEL-USP não tem cursos tradicionalmente ligados às atividades automobilísticas, como Mecânica e Elétrica, mostrando mais fortemente o interesse e dinamismo dos alunos envolvidos.
+            </p>
+            <p>:earth_americas: <a href="https://www.facebook.com/eelracing.fsae.usp/" target="_blank">https://www.facebook.com/eelracing.fsae.usp/</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#EELRacing').on('shown.bs.collapse', function () {
+      $('#headEELRacing').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> EELRacing');
+    })
+
+    $('#EELRacing').on('hidden.bs.collapse', function () {
+      $('#headEELRacing').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> EELRacing');
+    })
+    </script>
+
+
+
+
+    <div class="alert text-light bg-dark my-1 collapsed" id="headAeroEEL" data-toggle="collapse" data-target="#AeroEEL" aria-expanded="false" aria-controls="AeroEEL" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> AeroEEL
+    </div>
+    <div id="AeroEEL" class="card collapse" aria-labelledby="headAeroEEL" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/assets/images/demar/aeroeel.png" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              A AEROEEL é uma entidade estudantil  que conta com uma equipe de alunos de Engenharia envolvidos em projetos de AeroDesign. O programa SAE tem como objetivo fomentar conhecimentos de Engenharia Aeronáutica por meio de aplicações práticas na construção de um aeromodelo de acordo com requisitos pré-estabelecidos e bem especificados. Ao participar desse tipo de evento, o aluno de Engenharia passa por um contato direto com a realização de um projeto de Engenharia, realização de trabalho em grupo, levantamento de recursos, desenvolvimento de habilidades de gestão e de lidar com problemas. Portanto, desde o processo de construção e de projeto do aeromodelo até os quatro dias de competição, os integrantes da Equipe adquirem muitas experiências importantes que certamente os ajudarão a crescer como engenheiros. A equipe AEROEEL visa desenvolver uma aeronave otimizada, em que são criados e ampliados os conhecimentos em várias áreas: Aerodinâmica: Fluidodinâmica Computacional (CFD); Estruturas: Desenvolvimento/Aplicação e manuseio de novos materiais e posterior análise por elementos finitos e testes característicos; Elétrica e Eletrônica: otimização de nossos sistemas, por meio de telemetria obtida através de microcontroladores (Arduino); Gestão de Pessoas: Avaliações Pessoais de Desempenho, Cultura Organizacional, Gestão de Informação e Marketing.
+            </p>
+            <p>:earth_americas: <a href="https://www.facebook.com/aeroeel/" target="_blank">https://www.facebook.com/aeroeel/</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#AeroEEL').on('shown.bs.collapse', function () {
+      $('#headAeroEEL').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> AeroEEL');
+    })
+
+    $('#AeroEEL').on('hidden.bs.collapse', function () {
+      $('#headAeroEEL').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> AeroEEL');
+    })
+    </script>
+
+
+
+
+    <div class="alert text-light bg-dark my-1 collapsed" id="headPCF" data-toggle="collapse" data-target="#PCF" aria-expanded="false" aria-controls="PCF" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Projeto Criança Feliz
+    </div>
+    <div id="PCF" class="card collapse" aria-labelledby="headPCF" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/assets/images/demar/pcf.jpg" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              O PCF é uma iniciativa de alunos e funcionários da Escola de Engenharia de Lorena, fundada com o intuito de levar cidadania e educação para comunidades carentes de Lorena.<br /> O “Projeto Criança Feliz - PCF” é um projeto social sem fins lucrativos, com sede no Campus II da EEL que atende a 93 crianças com idade entre 03 e 18 anos, todos os sábados, no período matutino, ministrando aulas de reforço escolar, recreação e passeios culturais. Os voluntários são, em sua maioria, universitários da EEL e de outras instituições de ensino da região, que se dedicam a programar aulas, eventos e outras atividades para oferecer uma opção de crescimento intelectual e social às crianças dos bairros Santa Lucrécia, Fazenda Mondezir e Novo Horizonte. Em nossa página é possível encontrar fotos e conhecer um pouco mais de nossos trabalhos.
+            </p>
+            <p>:earth_americas: <a href="https://www.facebook.com/projetocriancafeliz.pcf/" target="_blank">https://www.facebook.com/projetocriancafeliz.pcf/</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#PCF').on('shown.bs.collapse', function () {
+      $('#headPCF').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> Projeto Criança Feliz');
+    })
+
+    $('#PCF').on('hidden.bs.collapse', function () {
+      $('#headPCF').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Projeto Criança Feliz');
+    })
+    </script>
+
+
+
+
+    <div class="alert text-light bg-dark my-1 collapsed" id="headShowCiencias" data-toggle="collapse" data-target="#ShowCiencias" aria-expanded="false" aria-controls="ShowCiencias" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Show de Ciências
+    </div>
+    <div id="ShowCiencias" class="card collapse" aria-labelledby="headShowCiencias" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/assets/images/demar/show-de-ciencias.jpg" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              O Show de Ciências é uma apresentação teatral divertida onde elementos científicos são apresentados ao público de uma forma simples e coloquial. O objetivo deste projeto é a disseminação da ciência entre jovens e adultos da região. O Grupo é composto por estudantes da EEL que fazem uma apresentação interativa com a plateia.
+            </p>
+            <p>:earth_americas: <a href="https://site.eel.usp.br/eventos/show-de-ciencias-da-eel" target="_blank">https://site.eel.usp.br/eventos/show-de-ciencias-da-eel</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#ShowCiencias').on('shown.bs.collapse', function () {
+      $('#headShowCiencias').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> Show de Ciências');
+    })
+
+    $('#ShowCiencias').on('hidden.bs.collapse', function () {
+      $('#headShowCiencias').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Show de Ciências');
+    })
+    </script>
+
+
+
+
+</div>
+:ET

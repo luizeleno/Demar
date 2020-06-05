@@ -1,0 +1,56 @@
+grupos_de_pesquisa:
+
+  - nome:
+      br: Ciência dos Materiais Computacional
+      en: Computational Materials Science
+    responsavel: eleno
+
+  - nome:
+      br: Materiais Cerâmicos
+      en: Ceramic Materials
+    responsavel: tiao
+
+  - nome:
+      br: Biomateriais
+      en: Biomaterials
+    responsavel: durval
+
+  - nome:
+      br: Soldagem - SOLDAEEL
+      en: Welding - SOLDAEEL
+    responsavel: ismenia
+
+  - nome:
+      br: Diagrama de Fases, Termodinâmica Computacional e Materiais Estruturais para Altas Temperaturas
+      en: Phase diagrams, Computational Thermodynamics and High-Temperature Structural Materials
+    responsavel: jacare
+
+  - nome:
+      br: Mecânica dos Materiais
+      en: Mechanics of Materials
+    responsavel: baptista
+
+  - nome:
+      br: "Materiais Magnéticos: Propriedades Magnéticas e Microestrutura"
+      en: "Magnetic Materials: Magnetic Properties and Microstructure"
+    responsavel: cristina
+
+  - nome:
+      br: Supercondutores e Condutores Anisotrópicos
+      en: Superconductors and Anisotropic Conductors
+    responsavel: jeff
+
+  - nome:
+      br: Supercondutividade Aplicada
+      en: Applied Superconductivity
+    responsavel: durval
+
+  - nome:
+      br: Pesquisa em Ensino de Engenharia
+      en: Research in Engineering Education
+    responsavel: susto
+
+  - nome:
+      br: Pesquisas em Temas Interdisciplinares em Engenharia, Física e Química
+      en: Research in Interdisciplinary Topics in Engineering, Physics and Chemistry
+    responsavel: fabio

@@ -1,0 +1,26 @@
+---
+layout: post
+title:
+  br: Seleção para monitoria 01/2020
+  en: Selection of students for tutoring
+image: /assets/images/noticias/monitoria.webp
+caption:
+  br: "Monitoria 01/2020"
+  en: "Tutoring 01/2020"
+---
+
+{% contentfor br %}
+
+Entre 19 e 26/02/2020, acontece o período de seleção de estudantes para monitoria de disciplinas selecionadas nos vários cursos da EEL. 
+
+A lista de disciplinas do Demar encontra-se na página de [Seleção para monitoria]({{site.baseurl}}/monitoria/).
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+Between 19 and 26/02/2020, there is the period of selection of students for tutoring selected classes in the various courses of EEL.
+
+Demar's list of courses can be found on the [Selection for monitoring page]({{site.baseurl}}/en/monitoria/).
+
+{% endcontentfor %}

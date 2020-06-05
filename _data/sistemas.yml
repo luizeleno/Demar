@@ -1,0 +1,31 @@
+sistemas:
+
+  - nome:
+      br: Sistemas USP
+      en: USP Systems
+    url: https://uspdigital.usp.br
+
+  - nome:
+      br: Serviços EEL
+      en: EEL Services
+    url: http://www.ci.eel.usp.br/servicos
+
+  - nome:
+      br: Sistemas EEL (requer login)
+      en: EEL Systems (login required)
+    url: http://sistemas.eel.usp.br/sistemas
+
+  - nome:
+      br: Página dos professores (material didático)
+      en: Faculty area (teaching material)
+    url: https://site.eel.usp.br/alunos/pg-professores
+
+  - nome:
+      br: Moodle (e-disciplinas)
+      en: Moodle (e-disciplinas)
+    url: https://edisciplinas.usp.br/
+    
+  - nome:
+      br: Ouvidoria Geral da USP
+      en: USP Ombusdman
+    url: https://www6.usp.br/ouvidoria/ouvidoria-geral-da-usp-registre-sua-reclamacao/

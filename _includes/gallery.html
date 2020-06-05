@@ -1,0 +1,38 @@
+<style>
+  /* .image-gallery {overflow: auto; margin-left: -1%!important;} */
+  /* .image-gallery a {float: left; display: block; margin: 0 0 1% 1%; width: 19%; text-align: center; text-decoration: none!important;} */
+  /* .image-gallery a span {display: block; text-overflow: ellipsis; overflow: hidden; white-space: nowrap; padding: 3px 0;} */
+  /* .image-gallery a img {width: 100%; display: block;} */
+</style>
+
+<div class="image-gallery">
+
+  {% for file in include.data %}
+
+  <div class="text-center">
+    <figure class="figure">
+      <a href="#" data-toggle="modal" data-target="#{{ file.id }}">
+        <img class="figure-img img-fluid rounded" src="{{ file.url }}">
+      </a>
+      <figcaption class="figure-caption">
+        {{ file.caption }}
+      </figcaption>
+
+      <!-- Modal -->
+      <div class="modal fade" id="{{ file.id }}" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+          <div class="modal-content">
+            <div class="modal-body">
+              <img class="figure-img img-fluid rounded" src="{{ file.url }}">
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+
+    </figure>
+  </div>
+  {% endfor %}
+</div>

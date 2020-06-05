@@ -1,0 +1,340 @@
+abrasivos:
+
+  - url: "/assets/images/labs/abrasivos/estufa.jpg"
+    title: "Estufa com circulação de ar (250°C)"
+    caption: "Estufa com circulação de ar (250°C)"
+    link:
+    id: estufa
+
+  - url: "/assets/images/labs/abrasivos/balancas.jpg"
+    title: "Balanças digitais"
+    caption: "Balanças digitais"
+    link:
+    id: balanca
+
+  - url: "/assets/images/labs/abrasivos/prensa70.jpg"
+    title: "Prensa hidráulica 70ton"
+    caption: "Prensa hidráulica 70ton"
+    link:
+    id: prensa70
+
+  - url: "/assets/images/labs/abrasivos/matrizes-rebolo.jpg"
+    title: "Matrizes para rebolos"
+    caption: "Matrizes para rebolos"
+    link:
+    id: matrizes-rebolo
+
+  - url: "/assets/images/labs/abrasivos/erosimetro.jpg"
+    title: "Erosímetro"
+    caption: "Erosímetro"
+    link:
+    id: erosimetro
+
+  - url: "/assets/images/labs/abrasivos/matrizes.jpg"
+    title: "Matrizes"
+    caption: "Matrizes"
+    link:
+    id: matrizes
+
+  - url: "/assets/images/labs/abrasivos/rugosimetro.jpg"
+    title: "Rugosímetro SurfTest SJ210"
+    caption: "Rugosímetro SurfTest SJ210"
+    link:
+    id: rugosimetro
+
+  - url: "/assets/images/labs/abrasivos/durometro.jpg"
+    title: "Durômetro superfície Hockwell"
+    caption: "Durômetro superfície Hockwell"
+    link:
+    id: durometro
+
+  - url: "/assets/images/labs/abrasivos/banho.jpg"
+    title: "Banho de aquecimento"
+    caption: "Banho de aquecimento"
+    link:
+    id: banho
+
+  - url: "/assets/images/labs/abrasivos/prensa30.jpg"
+    title: "Prensa hidráulica 30ton"
+    caption: "Prensa hidráulica 30ton"
+    link:
+    id: prensa30
+
+sonelastic:
+
+  - url: /assets/images/labs/sonelastic/sonelastic.jpg
+    title: "Sonelastic"
+    caption: "Sonelastic"
+    link:
+    id: sonelastic
+
+  - url: /assets/images/labs/sonelastic/suporte-peq.jpg
+    title: "Sonelastic - suporte de amostras pequenas"
+    caption: "Sonelastic - suporte de amostras pequenas"
+    link:
+    id: suporte-pequeno
+
+  - url: /assets/images/labs/sonelastic/suporte-disc.jpg
+    caption: "Sonelastic - suporte de discos"
+    title: "Sonelastic - suporte de discos"
+    link:
+    id: suporte-discos
+
+  - url: /assets/images/labs/sonelastic/suporte-med.jpg
+    title: "Sonelastic - suporte de amostras médias"
+    caption: "Sonelastic - suporte de amostras médias"
+    link:
+    id: suporte-medias
+
+imp3d:
+
+  # - url: "/assets/images/labs/imp3d/Trinus_01.jpg"
+  #   title: "Impressora 3D Trinus (Kodama)"
+  #   caption: "Impressora 3D Trinus (Kodama)"
+  #   link:
+  #   id: trina
+  # 
+  # - url: "/assets/images/labs/imp3d/Trinus_02.jpg"
+  #   title: "Impressora 3D Trinus (Kodama)"
+  #   caption: "Impressora 3D Trinus (Kodama)"
+  #   link:
+  #   id: trinb
+
+  - url: "/assets/images/labs/imp3d/Trinus_03.jpg"
+    title: "Impressora 3D Trinus (Kodama)"
+    caption: "Impressora 3D Trinus (Kodama)"
+    link:
+    id: trina
+
+  - url: "/assets/images/labs/imp3d/Trinus_04.jpg"
+    title: "Impressora 3D Trinus (Kodama)"
+    caption: "Impressora 3D Trinus (Kodama)"
+    link:
+    id: trinb
+
+  - url: "/assets/images/labs/imp3d/GTMax-core-A3.jpg"
+    title: "Impressora GTMax-core-A3"
+    caption: "Impressora GTMax-core-A3"
+    link:
+    id: trinc
+
+
+espaco-labore:
+
+  - url: "/assets/images/labs/imp3d/Espaco-Labore.jpg-web.jpg"
+    title: "Espaço Labore"
+    caption: "Espaço Labore"
+    link:
+    id: labor
+
+  - url: "/assets/images/labs/imp3d/Espaco-Labore1.jpg-web.jpg"
+    title: "Espaço Labore"
+    caption: "Espaço Labore"
+    link:
+    id: laborone
+
+  - url: "/assets/images/labs/imp3d/Espaco-Labore2.jpg-web.jpg"
+    title: "Espaço Labore"
+    caption: "Espaço Labore"
+    link:
+    id: laboretwo
+
+fabrica-exemplos:
+
+  - title: 
+    url: /assets/images/labs/fabrica-exemplos/IMG_20190613_101420545.jpg-web.jpg
+    caption: Projetos do laboratório
+    link: 
+    id: exa
+
+  - title: 
+    url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162039263.jpg-web.jpg
+    caption: Projetos do laboratório
+    link: 
+    id: exb
+
+  - title: 
+    url: /assets/images/labs/fabrica-exemplos/IMG_20190613_101105607_HDR.jpg-web.jpg
+    caption: Projetos do laboratório
+    link: 
+    id: exc
+
+  - title: 
+    url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162223338.jpg-web.jpg
+    caption: Projetos do laboratório
+    link: 
+    id: exd
+
+  - title: 
+    url: /assets/images/labs/fabrica-exemplos/IMG_20190613_100819974_HDR.jpg-web.jpg
+    caption: Projetos do laboratório
+    link: 
+    id: exe
+
+  - title: 
+    url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162112315.jpg-web.jpg
+    caption: Projetos do laboratório
+    link: 
+    id: exf
+
+  - title: 
+    url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162129150.jpg-web.jpg
+    caption: Projetos do laboratório
+    link: 
+    id: exg
+
+  - title: 
+    url: /assets/images/labs/fabrica-exemplos/IMG_20190613_101131903_HDR.jpg-web.jpg
+    caption: Projetos do laboratório
+    link: 
+    id: exh
+
+  - title: 
+    url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162102985.jpg-web.jpg
+    caption: Projetos do laboratório
+    link: 
+    id: exi
+
+  - title: 
+    url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162257355.jpg-web.jpg
+    caption: Projetos do laboratório
+    link: 
+    id: exj
+
+  - title: 
+    url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162050866.jpg-web.jpg
+    caption: Projetos do laboratório
+    link: 
+    id: exk
+
+fabrica:
+
+  - title: 
+    url: /assets/images/labs/fabrica/Serra-Tico Tico-GST65BE-Bosch.png
+    caption: Serra-Tico Tico-GST65BE-Bosch.png
+    link: 
+    id: fa
+
+  - title: 
+    url: /assets/images/labs/fabrica/Policorte-GCO2000-Bosch.png
+    caption: Policorte-GCO2000-Bosch.png
+    link: 
+    id: fb
+
+  - title: 
+    url: /assets/images/labs/fabrica/Esmerilhadeira-GWS12-125CI-Bosch.png
+    caption: Esmerilhadeira-GWS12-125CI-Bosch.png
+    link: 
+    id: fc
+
+  - title: 
+    url: /assets/images/labs/fabrica/Furadeira-GBM13-2-Bosch.jpg
+    caption: Furadeira-GBM13-2-Bosch
+    link: 
+    id: fd
+
+  - title: 
+    url: /assets/images/labs/fabrica/Serra-mármrore-4100NH2Z-Makita.jpg
+    caption: Serra-mármrore-4100NH2Z-Makita
+    link: 
+    id: fe
+
+  - title: 
+    url: /assets/images/labs/fabrica/Furadeira-HP1630K-Makita.jpg
+    caption: Furadeira-HP1630K-Makita
+    link: 
+    id: ff
+
+  - title: 
+    url: /assets/images/labs/fabrica/kit-de-ferramentas-102peaçs-P-90342-Makita.jpg
+    caption: kit-de-ferramentas-102peaçs-P-90342-Makita
+    link: 
+    id: fg
+
+  - title: 
+    url: /assets/images/labs/fabrica/Retificadeira-GD0800C-Makita.jpg
+    caption: Retificadeira-GD0800C-Makita
+    link: 
+    id: fh
+
+cortelaser:
+
+  - title: 
+    url: /assets/images/labs/corte-laser/KATTO-Laser-130W.jpg
+    caption: KATTO-Laser (130W)
+    link: 
+    id: cla
+
+  - title: 
+    url: /assets/images/labs/corte-laser/KATTO-Laser-130W-detalhe-web.jpg
+    caption: KATTO-Laser (130W) - detalhe
+    link: 
+    id: clb
+
+imp3d-exemplos:
+
+  - title: 
+    url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115629820.jpg-web.jpg
+    caption: 
+    link: 
+    id: 3dexa
+
+  - title: 
+    url: /assets/images/labs/imp3d-exemplos/IMG_20190731_120348888.jpg-web.jpg
+    caption: 
+    link: 
+    id: 3dexb
+
+  - title: 
+    url: /assets/images/labs/imp3d-exemplos/IMG_20190731_114911357.jpg-web.jpg
+    caption: 
+    link: 
+    id: 3dexc
+
+  - title: 
+    url: /assets/images/labs/imp3d-exemplos/IMG_20190731_120305992.jpg-web.jpg
+    caption: 
+    link: 
+    id: 3dexd
+
+  - title: 
+    url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115728572.jpg-web.jpg
+    caption: 
+    link: 
+    id: 3dexe
+
+  - title: 
+    url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115616194.jpg-web.jpg
+    caption: 
+    link: 
+    id: 3dexf
+
+  - title: 
+    url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115954152.jpg-web.jpg
+    caption:
+    link: 
+    id: 3dexg
+
+  - title: 
+    url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115919515.jpg-web.jpg
+    caption: 
+    link: 
+    id: 3dexh
+
+  - title: 
+    url: /assets/images/labs/imp3d-exemplos/IMG_20190731_120215077.jpg-web.jpg
+    caption: 
+    link: 
+    id: 3dexi
+
+  - title: 
+    url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115701049.jpg-web.jpg
+    caption: 
+    link: 
+    id: 3dexj
+
+  - title: 
+    url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115947435.jpg-web.jpg
+    caption:
+    link: 
+    id: 3dexk

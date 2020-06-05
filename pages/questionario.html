@@ -1,0 +1,216 @@
+---
+title: Formulário &mdash; Dados do docente
+permalink: /questionario/
+---
+
+{% assign p = site.docentes | where: 'short_name', 'eleno' %}
+{% assign pen = site.faculty | where: 'short_name', 'eleno' %}
+{% assign jac = site.docentes | where: 'short_name', 'jacare' %}
+{% assign jacen = site.faculty | where: 'short_name', 'jacare' %}
+
+<form method="POST" action="https://formspree.io/computeel@usp.br">
+
+  <!-- <form name="submit-to-google-sheet"> -->
+
+  <div class="card mb-2">
+    <div class="card-body">
+
+      <p>Por favor, preencha os campos abaixo com seus dados pessoais. Recomendo que preencha sem falta os campos identificados em <span class="text-danger">vermelho</span>. Os demais campos, relativos a agregadores e redes sociais, podem ser
+        informados posteriormente, mas apenas se você quiser.</p>
+
+      <p>Assim que possível, alimentarei este site provisório com os dados fornecidos. Quando isso acontecer, enviarei um email lhe informando para que você possa conferir as informações. Se houver algum problema, basta me enviar por email (<a
+          href="mailto:{{p[0].email}}" target="_blank">{{p[0].email}}</a>) as informações corrigidas que eu faço as alterações necessárias.</p>
+
+      <p><b>Obrigado pela colaboração!</b><br />
+      {{site.author}}</p>
+
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-body">
+      <h1 class="card-title alert bg-dark text-light w-100">Dados pessoais</h1>
+
+      <div class="form-group">
+        <label for="nome" class="text-danger">Nome:</label>
+        <input type="text" class="form-control" id="nome" name="nome" aria-describedby="emailHelp" placeholder="Nome completo" required>
+      </div>
+
+      <div class="row">
+        <div class="col">
+          <label for="email" class="text-danger">Email: </label>
+          <input type="email" class="form-control" id="email" name="email" aria-describedby="emailHelp" placeholder="Digite seu email" required>
+        </div>
+        <div class="col">
+          <label for="fone" class="text-danger">Telefone: </label>
+          <input type="text" class="form-control" id="fone" name="fone" aria-describedby="emailHelp" placeholder="seu telefone (o ramal é suficiente)" required>
+        </div>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-body">
+      <h1 class="card-title alert bg-dark text-light w-100">Agregadores e redes sociais</h1>
+
+      <h2 class="card-title alert alert-secondary w-100">Agregadores científicos</h2>
+
+      <p>Caso já tenha preenchido seus dados no <a href="https://uspdigital.usp.br/datausp" target="_blank">Sistema DataUSP</a>, acesse-o, clique em <i>Perfil docente</i> na aba lateral e forneça abaixo as informações lá encontradas. Caso ainda não
+        tenha acessado o Sistema DataUSP, é uma boa oportunidade para fazê-lo!</p>
+
+      <p>Como indicação do que você deve fornecer, valores para os meus (Luiz Eleno) agregadores são fornecidos como exemplo.</p>
+
+      <div class="form-group">
+        <label for="Lattes" class="text-danger">Lattes: </label>
+        <input type="text" class="form-control" id="Lattes" name="Lattes" aria-describedby="emailHelp" placeholder="exemplo: {{p[0].Lattes}}" required>
+      </div>
+
+      <div class="form-group">
+        <label for="RID">Researcher ID: </label>
+        <input type="text" class="form-control" id="RID" name="ResearcherID" aria-describedby="emailHelp" placeholder="exemplo: {{p[0].ResearcherID}}">
+      </div>
+
+      <div class="form-group">
+        <label for="Scholar">Google Scholar: </label>
+        <input type="text" class="form-control" id="Scholar" name="Scholar" aria-describedby="emailHelp" placeholder="exemplo: {{p[0].GoogleScholar}}">
+      </div>
+
+      <div class="form-group">
+        <label for="Scopus">Scopus: </label>
+        <input type="text" class="form-control" id="Scopus" name="Scopus" aria-describedby="emailHelp" placeholder="exemplo: {{p[0].Scopus}}">
+      </div>
+
+      <div class="form-group">
+        <label for="ORCID">ORCID: </label>
+        <input type="text" class="form-control" id="ORCID" name="ORCID" aria-describedby="emailHelp" placeholder="exemplo: {{p[0].ORCID}}">
+      </div>
+
+      <h2 class="card-title alert alert-secondary w-100">Redes sociais</h2>
+      <p>Links para redes sociais apenas aparecerão na sua página se você os fornecer aqui. A inclusão de links para esses sites na página do Demar ainda é uma discussão em aberto.</p>
+
+      <div class="form-group">
+        <label for="ResearchGate">Research Gate: </label>
+        <input type="text" class="form-control" id="ResearchGate" name="ResearchGate" aria-describedby="emailHelp" placeholder="exemplo: {{p[0].ResearchGate}}">
+      </div>
+
+      <div class="form-group">
+        <label for="Linkedin">Linkedin: </label>
+        <input type="text" class="form-control" id="Linkedin" name="Linkedin" aria-describedby="emailHelp" placeholder="exemplo: {{p[0].Linkedin}}">
+      </div>
+
+      <div class="form-group">
+        <label for="Github">Github: </label>
+        <input type="text" class="form-control" id="Github" name="Github" aria-describedby="emailHelp" placeholder="exemplo: {{p[0].Github}}">
+      </div>
+
+      <div class="form-group">
+        <label for="Facebook">Facebook: </label>
+        <input type="text" class="form-control" id="Facebook" name="Facebook" aria-describedby="emailHelp" placeholder="exemplo: {{p[0].Facebook}}">
+      </div>
+
+      <div class="form-group">
+        <label for="Twitter">Twitter: </label>
+        <input type="text" class="form-control" id="Twitter" name="Twitter" aria-describedby="emailHelp" placeholder="exemplo: {{p[0].Twitter}}">
+      </div>
+
+      <div class="form-group">
+        <label for="Instagram">Instagram: </label>
+        <input type="text" class="form-control" id="Instagram" name="Instagram" aria-describedby="emailHelp" placeholder="exemplo: {{p[0].Instagram}}">
+      </div>
+
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-body">
+      <h1 class="card-title alert bg-dark text-light w-100">Perfil</h1>
+
+      <div class="form-group">
+        <label for="perfilbr"><span class="text-danger">Perfil do docente:</span> informe o texto que aparecerá na primeira aba da sua página. Se preferir, copie e cole a descrição do currículo Lattes. Veja exemplos na minha página (<a
+            href="{{p[0].url}}" target="_blank">Luiz Eleno</a>) e na página do <a href="{{jac[0].url}}" target="_blank">Jacaré</a>.</label>
+        <textarea class="form-control" id="perfilbr" name="perfilbr" rows="8" required></textarea>
+      </div>
+
+      <div class="form-group">
+        <label for="perfilen"><span class="text-danger">Faculty profile:</span> provide a personal description of your academic and professional career, preferably a translation of the text in portuguese. See examples in my page (<a
+            href="{{pen[0].url}}" target="_blank">Luiz Eleno</a>) and in <a href="{{jacen[0].url}}" target="_blank">Jacare's</a> page</label>
+        <textarea class="form-control" id="perfilen" name="perfilen" rows="8" required></textarea>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-body">
+      <h1 class="card-title alert bg-dark text-light w-100">Aba Ensino</h1>
+
+      <p>Forneça abaixo apenas as siglas das disciplinas, separadas por vírgulas (,). Todas as disciplinas de EEL de graduação e pós-graduação, e não apenas as disciplinas de responsabilidade do Demar, podem ser inseridas nos campos correspondentes.</p>
+
+      <div class="form-group">
+        <label for="grad" class="text-danger">Graduação: </label>
+        <textarea class="form-control" id="grad" name="grad" rows="2" required></textarea>
+      </div>
+
+      <div class="form-group">
+        <label for="posgrad" class="text-danger">Pós-Graduação: </label>
+        <textarea class="form-control" id="posgrad" name="posgrad" rows="2" required></textarea>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-body">
+      <h1 class="card-title alert bg-dark text-light w-100">Aba Pesquisa</h1>
+
+      <div class="form-group">
+        <label for="areasbr"><span class="text-danger">Linhas de pesquisa:</span> forneça aqui algumas linhas ou áreas de pesquisa, separadas por ponto e vírgula (;). Para um exemplo, acesse a minha página (<a href="{{p[0].url}}" target="_blank">Luiz
+            Eleno</a>) e clique na aba <i>Pesquisa</i>.</label>
+        <textarea class="form-control" id="areasbr" name="areasbr" rows="3" required></textarea>
+      </div>
+
+      <div class="form-group">
+        <label for="areasen"><span class="text-danger">Research topics:</span> include here some research topics or fields, separated by semicolons (;), preferably a translation of the text in portuguese. For an example, go to my page (<a
+            href="{{pen[0].url}}" target="_blank">Luiz Eleno</a>) and click on the <i>Research</i> tab.</label>
+        <textarea class="form-control" id="areasen" name="areasen" rows="3" required></textarea>
+      </div>
+
+    </div>
+  </div>
+
+  <div class="card mb-2">
+    <div class="card-body">
+      <h1 class="card-title alert bg-dark text-light w-100">Laboratórios</h1>
+
+      <div class="form-group">
+        <label for="labsbr">Laboratórios: caso seja o coordenador de algum laboratório, informe aqui seu nome (separe-os com ponto e vírgula, caso haja mais de um). Há uma <a href="/labs/" target="_blank">Lista de laboratórios</a> para consulta, mas
+          fique à vontade para incluir outros, se não o encontrar lá.</label>
+        <textarea class="form-control" id="labsbr" name="labsbr" rows="3"></textarea>
+      </div>
+
+      <div class="form-group">
+        <label for="labsen">Laboratories: if you are a Lab coordinator, insert its name in the field below (use semicolons to separate more than one entry). There is a <a href="/en/labs/" target="_blank">Lab list</a> available, but feel free to add
+          other labs, in case you don't find yours there.</label>
+        <textarea class="form-control" id="labsen" name="labsen" rows="3"></textarea>
+      </div>
+
+    </div>
+  </div>
+
+  <label for="submit">
+    <button type="submit" id="submit" class="btn btn-primary">Enviar</button>
+
+</form>
+
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbwwENeZzL_ava3qv5N24yeVThwwYoti2kLdRvLvTwi75KivaEM/exec'
+  const form = document.forms['submit-to-google-sheet']
+
+  form.addEventListener('submit', e => {
+    e.preventDefault()
+    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+      .then(window.open("/thankyou/","_self"))
+      .catch(error => alert('Error!', error.message))
+  })
+</script>

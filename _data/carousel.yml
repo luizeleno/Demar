@@ -1,0 +1,175 @@
+
+main:
+
+  - title:
+    url: /assets/images/carousel/mainpage/mainpage-01.jpg
+    caption:
+    link:
+    id: foto1
+
+  - title:
+    url: /assets/images/carousel/mainpage/mainpage-07.jpg
+    caption:
+    link:
+    id: foto2
+
+  - title:
+    url: /assets/images/carousel/mainpage/mainpage-03.jpg
+    caption:
+    link:
+    id: foto3
+
+  - title:
+    url: /assets/images/carousel/mainpage/mainpage-06.jpg
+    caption:
+    link:
+    id: foto4
+
+  - title:
+    url: /assets/images/carousel/mainpage/mainpage-05.jpg
+    caption:
+    link:
+    id: foto5
+
+  - title:
+    url: /assets/images/carousel/mainpage/mainpage-04.jpg
+    caption:
+    link:
+    id: foto6
+
+  - title:
+    url: /assets/images/carousel/mainpage/mainpage-02.jpg
+    caption:
+    link:
+    id: foto7
+
+  - title:
+    url: /assets/images/carousel/mainpage/mainpage-08.jpg
+    caption:
+    link:
+    id: foto8
+
+biblioteca:
+
+  - title:
+    url: /assets/images/carousel/biblioteca/biblioteca-07.jpg
+    caption:
+    link:
+    id: foto1
+
+  - title:
+    url: /assets/images/carousel/biblioteca/biblioteca-02.jpg
+    caption:
+    link:
+    id: foto2
+
+  - title:
+    url: /assets/images/carousel/biblioteca/biblioteca-03.jpg
+    caption:
+    link:
+    id: foto3
+
+  # - title:
+  #   url: /assets/images/carousel/biblioteca/biblioteca-04.jpg
+  #   caption:
+  #   link:
+  #   id: foto4
+  #
+  # - title:
+  #   url: /assets/images/carousel/biblioteca/biblioteca-05.jpg
+  #   caption:
+  #   link:
+  #   id: foto5
+  #
+  # - title:
+  #   url: /assets/images/carousel/biblioteca/biblioteca-06.jpg
+  #   caption:
+  #   link:
+  #   id: foto6
+
+  - title:
+    url: /assets/images/carousel/biblioteca/biblioteca-01.jpg
+    caption:
+    link:
+    id: foto7
+
+  - title:
+    url: /assets/images/carousel/biblioteca/biblioteca-08.jpg
+    caption:
+    link:
+    id: foto8
+
+  - title:
+    url: /assets/images/carousel/biblioteca/biblioteca-09.jpg
+    caption:
+    link:
+    id: foto9
+
+
+computeel:
+
+  - title: "ComputEEL/MatSci"
+    url: /assets/images/labs/computeel/computeel-logo.jpeg
+    caption: "ComputEEL/MatSci"
+    link: "https://computeel.org"
+    id: foto1
+
+  - title: "ZrV2Ga4 Young modulus"
+    url: /assets/images/labs/computeel/E-3Dplot.png
+    caption: Materialia 4 (2018) 529
+    link: "http://doi.org/10.1016/j.mtla.2018.11.008"
+    id: foto2
+
+  - title: HfV2Ga3 electronic density in (001) planes
+    url: /assets/images/labs/computeel/HfV2Ga-dens.png
+    caption: PRB 98 (2018) 045126
+    link: "http://doi.org/10.1103/PhysRevB.98.045126"
+    id: foto3
+
+  - title: Ni-In phase diagram
+    url: /assets/images/labs/computeel/NiIn-PhD.png
+    caption: Calphad 62 (2018) 42
+    link: "http://doi.org/10.1016/j.calphad.2018.05.004"
+    id: foto4
+
+  - title: NiTiTe2 band structure
+    url: /assets/images/labs/computeel/NiTiTe2-bands.png
+    caption: SSC 283 (2018) 27
+    link: "http://doi.org/10.1016/j.ssc.2018.08.014"
+    id: foto5
+
+reciclapolimer:
+
+  - title:
+    url: /assets/images/labs/reciclapolimer/reciclapolimer01.jpg
+    id: reciclapolimer01
+
+  - title:
+    url: /assets/images/labs/reciclapolimer/reciclapolimer03.jpg
+    id: reciclapolimer03
+
+  - title:
+    url: /assets/images/labs/reciclapolimer/reciclapolimer02.jpg
+    id: reciclapolimer02
+
+  - title:
+    url: /assets/images/labs/reciclapolimer/reciclapolimer04.jpg
+    id: reciclapolimer04
+
+  - title:
+    url: /assets/images/labs/reciclapolimer/reciclapolimer05.jpg
+    id: reciclapolimer05
+
+analisetermica:
+
+  - title:
+    url: /assets/images/labs/analisetermica//analisetermica03.jpg
+    id: analisetermica03
+
+  - title:
+    url: /assets/images/labs/analisetermica//analisetermica01.jpg
+    id: analisetermica01
+
+  - title:
+    url: /assets/images/labs/analisetermica//analisetermica02.jpg
+    id: analisetermica02

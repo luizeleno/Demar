@@ -1,0 +1,100 @@
+menu:
+
+  - title:
+      br: Institucional
+      en: Institutional
+    sublinks:
+      - title:
+          br: Missão
+          en: Mission
+        url: /missao/
+      - title:
+          br: Nossa História
+          en: Our Story
+        url: /historico/
+      - title:
+          br: Administração
+          en: Administration
+        url: /adm/
+
+  - title:
+      br: Equipe
+      en: Team
+    sublinks:
+      - title:
+          br: Docentes
+          en: Faculty
+        url: /docentes/
+      - title:
+          br: Equipe de Apoio
+          en: Supporting Staff
+        url: /staff/
+
+  - title:
+      br: Ensino
+      en: Teaching
+    sublinks:
+      - title:
+          br: Graduação
+          en: Undergraduate
+        url: /grad/
+      # - title:
+          # br: Oportunidades de Monitoria
+          # en: Tutoring opportunities
+        #url: /monitoria/
+      - title:
+          br: Pós-Graduação
+          en: Graduate
+        url: /posgrad/
+
+  - title:
+      br: Pesquisa
+      en: Research
+    sublinks:
+      - title:
+          br: Grupos de Pesquisa
+          en: Research Groups
+        url: /linhas-de-pesquisa/
+      - title:
+          br: Laboratórios
+          en: Laboratories
+        url: /labs/
+      - title:
+          br: Indicadores
+          en: Indicators
+        url: /indicadores/
+
+  - title:
+      br: Links
+      en: Links
+    sublinks:
+      - title:
+          br: Biblioteca
+          en: Library
+        url: /biblioteca/
+      - title:
+          br: Cultura e Extensão
+          en: Culture and community
+        url: /extensao/
+      - title:
+          br: Sistemas Online
+          en: Online Systems
+        url: /sistemas/
+      - title:
+          br: "Fronteiras Tecnológicas em Engenharia" 
+          en: "Technological Frontiers in Engineering"
+        url: /fronteiras/
+      - title:
+          br: Vídeos
+          en: Videos
+        url: /videos/
+
+  - title:
+      br: Notícias
+      en: News
+    url: /noticias/
+
+  - title:
+      br: Contato
+      en: Contact
+    url: /contact/

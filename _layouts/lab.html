@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="well">
+
+  <nav class="shadow-sm" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      {% if page.lang == site.def_lang %}
+        <li class="breadcrumb-item"><a class="badge badge-info" href="{{ site.baseurl}}/">{{ site.title | escape }}</a></li>
+        <li class="breadcrumb-item"><a class="badge badge-info" href="{{ site.baseurl}}/labs/">Laboratórios</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><span class="badge badge-secondary">{{page.title.br}}</span></li>
+      {% else %}
+        <li class="breadcrumb-item"><a class="badge badge-info" href="{{ site.baseurl}}/en/">{{ site.title | escape }}</a></li>
+        <li class="breadcrumb-item"><a class="badge badge-info" href="{{site.baseurl}}/en/labs/">Labs</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><span class="badge badge-secondary">{{page.title.en}}</span></li>
+      {% endif %}
+    </ol>
+  </nav>
+
+{% if page.lang == site.def_lang %}
+  <h1 class="alert bg-dark text-light w-100 mb-1" style="text-align:left">{{ page.title.br }}</h1>
+{% else %}
+  <h1 class="alert bg-dark text-light w-100 mb-1" style="text-align:left">{{ page.title.en }}</h1>
+{% endif %}
+
+{% if page.lang == site.def_lang %}
+  {% assign resp = "Responsável: " %}
+{% else %}
+  {% assign resp = "Coordinator: " %}
+{% endif %}
+
+<h2>{{resp}}
+  {% for docente in page.responsavel %}
+    {% assign prof = site.docentes | where:"short_name", docente %}
+    {% assign prof = prof[0] %}
+      {% if page.lang == site.def_lang %}
+        <a href="{{ site.baseurl }}{{ prof.url }}">
+      {% else %}
+        <a href="{{ site.baseurl }}/en{{ prof.url }}">
+      {% endif %}
+      {{ prof.abrev }} {{ prof.nome }}</a>
+      {% unless forloop.last %}, {% endunless %}
+  {% endfor %}
+</h2>
+
+<hr>
+
+  <div class="clearfix">
+
+    {% unless page.page %}
+      <img class="w-50 mx-auto" src="/assets/images/clipart/en-construction.gif">
+    {% endunless %}
+
+    {{ content }}
+    {% contentblock top %}
+    {% if page.lang == site.def_lang %}
+      {% contentblock br %}
+    {% else %}
+      {% contentblock en %}
+    {% endif%}
+    {% contentblock bottom %}
+
+  </div>
+
+</div>

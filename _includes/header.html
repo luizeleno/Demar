@@ -1,0 +1,90 @@
+
+<div class="fixed-top">
+
+  <!-- <div class="py-0 my-0 py-0"> -->
+  <!-- barra usp -->
+  <!-- <script type="text/javascript" src="//www.ccs.usp.br/uspbarra/barra2.js"  charset="utf-8"></script> -->
+  <!-- fim barra -->
+  <!-- </div> -->
+
+<nav class="navbar navbar-expand-xl navbar-dark bg-dark py-0 my-0">
+
+  {% if page.lang == site.def_lang %}
+    <a class="navbar-brand" href="{{site.baseurl}}/">
+      <img src="{{site.baseurl}}/assets/images/logos/eel-logo.png" height="30px" title="{{site.name}} &mdash; {{site.unidade.sigla}}/{{site.universidade.sigla}}">
+      <span data-toggle="tooltip" data-placement="bottom" title="{{site.name}} &mdash; {{site.unidade.sigla}}/{{site.universidade.sigla}}">
+        {{site.title}}
+      </span>
+  {% else %}
+    <a class="navbar-brand" href="{{site.baseurl}}/en/">
+    <img src="{{site.baseurl}}/assets/images/logos/eel-logo.png" height="30px" title="{{site.name_en}} &mdash; {{site.unidade.sigla}}/{{site.universidade.sigla}}">
+    <span data-toggle="tooltip" data-placement="bottom" title="{{site.name_en}} &mdash; {{site.unidade.sigla}}/{{site.universidade.sigla}}">
+      {{site.title}}
+      </span>
+      {% endif %}
+  </a>
+
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+
+    <ul class="navbar-nav mr-auto">
+      {% for item in site.data.navigation.menu %}
+        {% if item.sublinks == nil %}
+          <li class="nav-item">
+            {% if page.lang == site.def_lang %}
+              <a class="nav-link" href="{{site.baseurl }}{{ item.url }}">{{ item['title'][page.lang] }}{{item.sublinks.size}}</a>
+            {% else %}
+              <a class="nav-link" href="{{site.baseurl}}/{{page.lang}}{{ item.url }}">{{ item['title'][page.lang] }}{{item.sublinks.size}}</a>
+            {% endif %}
+          </li>
+        {% else %}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              {{ item['title'][page.lang]}}
+            </a>
+            <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
+              {% for subitem in item.sublinks %}
+                {% if page.lang == site.def_lang%}
+                  <a class="dropdown-item text-light bg-dark" href="{{site.baseurl}}{{ subitem.url }}">{{ subitem['title'][page.lang] }}</a>
+                {% else %}
+                  <a class="dropdown-item text-light bg-dark" href="{{site.baseurl}}/{{page.lang}}{{ subitem.url }}">{{ subitem['title'][page.lang] }}</a>
+                {% endif %}
+              {% endfor%}
+            </div>
+          </li>
+        {% endif %}
+      {% endfor %}
+    </ul>
+
+    <div class="my-2 mr-2 my-lg-0">
+      <a id="no-ext-link" href="https://www5.usp.br/" title="Universidade de São Paulo - USP" target="_blank"><img src="{{site.baseurl}}/assets/images/logos/usp-2018-logo.png" height="30px"></a>
+    </div>
+
+    <div class="my-2 mr-4 my-lg-0">
+      <a id="no-ext-link" href="https://site.eel.usp.br/" title="Escola de Engenharia de Lorena - EEL" target="_blank"><img src="{{site.baseurl}}/assets/images/logos/logo_eel_2017.png" height="30px"></a>
+    </div>
+
+    <div class="my-2 my-lg-0">
+      {% assign p = page.url | replace_first: '/en/', ''  %}
+      {% if page.lang == site.def_lang %}
+        <a href="{{ site.baseurl }}/{{ site.language[1] }}{{p}}"><img src="{{site.baseurl}}/assets/images/clipart/{{site.language[1]}}.svg" height="20px" title="English version"></a>
+      {% else %}
+        <a href="{{ site.baseurl }}/{{ p }}"><img src="{{site.baseurl}}/assets/images/clipart/{{site.def_lang}}.svg" height="20px" title="Versão em português"></a>
+      {% endif %}
+    </div>
+  </div>
+
+</nav>
+
+  <hr class="top-color-bar" style="background-color:#fcb421;">
+  <hr class="top-color-bar" style="background-color:#64c4d2;">
+  <hr class="top-color-bar" style="background-color:#1094ab;">
+
+</div>
+
+<div class="my-0">
+  {% include carousel.html name='maincarousel' data=site.data.carousel.main modal=true %}
+</div>

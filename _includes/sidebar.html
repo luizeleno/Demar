@@ -1,0 +1,60 @@
+<div class="d-none d-lg-block">
+
+  <div class="sidebar well">
+
+    {% if page.lang == site.def_lang %}
+
+    <div class="clearfix">
+
+      <h1 class="alert bg-dark text-light w-100" style="text-align:left">Últimas notícias</h1>
+
+      {% assign newest = site.noticias | sort: 'date' | reverse%}
+      {% for news in newest limit:5 %}
+      <div class="card w-100 my-2">
+        <div class="card-body">
+          <div class="mx-auto mb-2">
+            <img class="shadow rounded w-100" src="{{site.baseurl}}{{ news.image }}" alt="{{ news.caption.en }}">
+          </div>
+          <a href="{{site.baseurl}}{{ news.url }}">
+            <h3 style="text-align:left">{{ news.title.br }}</h3>
+          </a>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="{{site.baseurl}}{{ news.url }}">Leia</a>
+          <h4>{{ news.date | date: "%d/%m/%Y" }}</h4>
+        </div>
+      </div>
+      {% endfor %}
+
+    <a class="btn btn-md btn-primary float-left" href="{{ site.baseurl}}/noticias/">Ver todas</a>
+
+  </div>
+
+    {% else %}
+
+    <div class="clearfix">
+
+      <h1 class="alert bg-dark text-light w-100" style="text-align:left">Breaking news</h1>
+
+      {% assign newest = site.news | sort: 'date' | reverse %}
+      {% for news in newest limit:5 %}
+      <div class="card w-100 my-2">
+        <div class="card-body">
+          <div class="mx-auto mb-2">
+            <img class="shadow rounded w-100" src="{{site.baseurl}}{{ news.image }}" alt="{{ news.caption.en }}">
+          </div>
+          <a href="{{site.baseurl}}{{ news.url }}">
+            <h3 style="text-align:left">{{ news.title.en }}</h3>
+          </a>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="{{site.baseurl}}{{ news.url }}">Read</a>
+          <h4>{{ news.date | date: "%m/%d/%Y" }}</h4>
+        </div>
+      </div>
+      {% endfor %}
+
+    <a class="btn btn-md btn-primary float-left" href="{{ site.baseurl}}/en/noticias/">See all</a>
+
+  </div>
+
+    {% endif %}
+
+  </div>
+</div>

@@ -1,0 +1,32 @@
+---
+layout: post
+title:
+  br: Engenharia Física da EEL - única cinco estrelas no Brasil!
+  en: EEL's Engineering Physics - the only five stars in Brasil!
+image: /assets/images/noticias/logo-guia-faculdades.png
+caption:
+  br: "Guia da Faculdade"
+  en: "Guia da Faculdade"
+---
+
+{% contentfor br %}
+
+É com grande satisfação que informo que o curso de Engenharia Física da EEL-USP foi o único a receber 5 estrelas na avaliação do **Guia da Faculdade** do jornal *O Estado de São Paulo*. Segundo este critério, portanto, podemos considerar que o curso de Engenharia Física da EEL-USP é o melhor do país neste tipo de bacharelado. Foi um sucesso de todos: docentes, discentes e servidores. Parabéns!
+
+Confira aqui: [Guia da Faculdade](http://publicacoes.estadao.com.br/guia-da-faculdade/?post_type=faculdades&order=estrelas_num&s=engenharia+f%C3%ADsica){: target="\_blank"}.
+
+*Prof. Durval  
+Coordenador do Curso de Engenharia Física da EEL-USP*
+ 
+{% endcontentfor %}
+
+{% contentfor en %}
+
+It is with great pleasure that I inform that the EEL-USP Engineering Physics course  was the only one to receive 5 stars in the evaluation of the **Guia da Faculdade** of the *O Estado de São Paulo* news agency. According to this criterion, therefore, we can consider that the EEL-USP Engineering Physics course is the best in the country in this type of bachelor's degree. This was a success for everyone: teachers, students and staff. Congratulations to all!
+
+Check out here: [Guia da Faculdade](http://publicacoes.estadao.com.br/guia-da-faculdade/?post_type=faculdades&order=estrelas_num&s=engenharia+f%C3%ADsica){: target="\_blank"}.
+
+*Prof. Durval  
+Coordinator of the Engineering Physics Course at EEL-USP*
+
+{% endcontentfor %}

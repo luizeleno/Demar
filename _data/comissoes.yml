@@ -1,0 +1,81 @@
+cg:
+  - titular: tiao
+    vice: ismenia
+  - titular: eleno
+    vice: katia
+
+cpg:
+  - membro: hugo
+    obs: presidente da CPG
+  - membro: cristina
+    obs: coordenadora do PPGPEM
+  - membro: jeff
+    obs: representante do PPGEM
+  - membro: shigue
+    obs: representante do PPGPE
+
+coc-em:
+  - membro: tiao
+    obs: coordenador
+  - membro: cassius
+    obs: vice-coordenador
+  - membro: miguel
+    obs: titular
+  - membro: baptista
+    obs: suplente
+  - membro: katia
+    obs: suplente
+  - membro: viktor
+    obs: suplente
+
+coc-ef:
+  - membro: eleno
+    obs: coordenador
+  - membro: katia
+    obs: vice-coordenadora
+  - membro: jeff
+    obs: titular
+  - membro: shigue
+    obs: suplente
+  - membro: durval
+    obs: suplente
+  - membro: mariajose
+    obs: suplente
+
+coc-eb:
+  - membro: pascon
+    obs: titular
+  - membro: viktor
+    obs: suplente
+
+coc-eqn:
+  - membro: angelo
+    obs: titular
+  - membro: sergio
+    obs: suplente
+
+coc-eqd:
+  - membro: tiao
+    obs: titular
+  - membro: viktor
+    obs: suplente
+
+ccp-ppgem:
+  - membro: cristina
+    obs: Cordenadora
+  - membro: fabio
+    obs: Vice-coordenador
+  - membro: jeff
+    obs: Representante na CPG
+  - membro: vernilli
+    obs: Suplente na CPG
+  - membro: clodoaldo
+    obs: suplente
+
+crint:
+  - membro: jacare
+    obs: presidente
+  - membro: fabio
+    obs: vice-presidente
+  - membro: hogo
+    obs: titular

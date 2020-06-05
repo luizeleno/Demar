@@ -1,0 +1,531 @@
+lom:
+
+  - sigla: LOB1003
+    title:
+      br: Cálculo I
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1003&verdis=1
+
+  - sigla: LOB1018
+    title:
+      br: Física I
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1018&verdis=1
+
+  - sigla: LOB1036
+    title:
+      br: Geometria Analítica
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1036&verdis=1
+
+  - sigla: LOB1038
+    title:
+      br: Física Experimental I
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1038&verdis=1
+
+  - sigla: LOM3218
+    title:
+      br: Introdução à Engenharia Física
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3218&verdis=1
+
+  - sigla: LOM3258
+    title:
+      br: Introdução à Eletrônica e Computação Física
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3258&verdis=1
+
+  - sigla: LOQ4031
+    title:
+      br: Química Geral I
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOQ4031&verdis=1
+
+  - sigla: LOB1004
+    title:
+      br: Cálculo II
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1004&verdis=1
+
+  - sigla: LOB1019
+    title:
+      br: Física II
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1019&verdis=1
+
+  - sigla: LOB1037
+    title:
+      br: Àlgebra Linear
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1037&verdis=1
+
+  - sigla: LOB1041
+    title:
+      br: Física Experimental II
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1041&verdis=1
+
+  - sigla: LOB1045
+    title:
+      br: Leitura e Produção de Textos Acadêmicos
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1045&verdis=1
+
+  - sigla: LOM3204
+    title:
+      br: Desenho Técnico e Projeto Assistido por Computador
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3204&verdis=1
+
+  - sigla: LOM3240
+    title:
+      br: Química Inorgânica Fundamental e Aplicada
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3240&verdis=1
+
+  - sigla: LOM3260
+    title:
+      br: Computação Científica em Python
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3260&verdis=1
+
+  - sigla: LOQ4095
+    title:
+      br: Química Geral Experimental
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOQ4095&verdis=1
+
+  - sigla: LOB1006
+    title:
+      br: Cálculo IV
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1006&verdis=1
+
+  - sigla: LOB1008
+    title:
+      br: Ciência, Tecnologia e Sociedade
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1008&verdis=1
+
+  - sigla: LOB1039
+    title:
+      br: Física Experimental III
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1039&verdis=1
+
+  - sigla: LOB1052
+    title:
+      br: Cálculo III
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1052&verdis=1
+
+  - sigla: LOB1053
+    title:
+      br: Física III
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1053&verdis=1
+
+  - sigla: LOM3016
+    title:
+      br: Introdução à  Ciência dos Materiais
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3016&verdis=1
+
+  - sigla: LOM3236
+    title:
+      br: Processos de Fabricação
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3236&verdis=1
+
+  - sigla: LOM3241
+    title:
+      br: Química de Materiais
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3241&verdis=1
+
+  - sigla: LOM3257
+    title:
+      br: Mecânica Clássica
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3257&verdis=1
+
+  - sigla: LOB1012
+    title:
+      br: Estatística
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1012&verdis=1
+
+  - sigla: LOB1021
+    title:
+      br: Física IV
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1021&verdis=1
+
+  - sigla: LOB1042
+    title:
+      br: Física Experimental IV
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1042&verdis=1
+
+  - sigla: LOM3081
+    title:
+      br: Introdução à Mecânica dos Sólidos
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3081&verdis=1
+
+  - sigla: LOM3202
+    title:
+      br: Circuitos Elétricos
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3202&verdis=1
+
+  - sigla: LOM3205
+    title:
+      br: Eletromagnetismo
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3205&verdis=1
+
+  - sigla: LOM3253
+    title:
+      br: Física Matemática
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3253&verdis=1
+
+  - sigla: LOM3254
+    title:
+      br: Laboratório de Circuitos Elétricos
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3254&verdis=1
+
+  - sigla: LOM3049
+    title:
+      br: Termodinâmica de Máquinas
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3049&verdis=1
+
+  - sigla: LOM3206
+    title:
+      br: Eletrônica
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3206&verdis=1
+
+  - sigla: LOM3217
+    title:
+      br: Física Estatística
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3217&verdis=1
+
+  - sigla: LOM3221
+    title:
+      br: Laboratório de Eletrônica
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3221&verdis=1
+
+  - sigla: LOM3226
+    title:
+      br: Mecânica Quântica
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3226&verdis=1
+
+  - sigla: LOM3227
+    title:
+      br: Métodos Computacionais da Física
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3227&verdis=1
+
+  - sigla: LOM3228
+    title:
+      br: Métodos Experimentais da Física I
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3228&verdis=1
+
+  - sigla: LOQ4234
+    title:
+      br: Empreendedorismo
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOQ4234&verdis=1
+
+  - sigla: LOM3212
+    title:
+      br: Fenômenos de Transporte A
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3212&verdis=1
+
+  - sigla: LOM3215
+    title:
+      br: Física do Estado Sólido
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3215&verdis=1
+
+  - sigla: LOM3229
+    title:
+      br: Métodos Experimentais da Física II
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3229&verdis=1
+
+  - sigla: LOM3233
+    title:
+      br: Microprocessadores
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3233&verdis=1
+
+  - sigla: LOM3234
+    title:
+      br: Óptica Física
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3234&verdis=1
+
+  - sigla: LOM3238
+    title:
+      br: Projeto Integrado I
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3238&verdis=1
+
+  - sigla: LOM3246
+    title:
+      br: Técnicas de Caracterização de Materiais
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3246&verdis=1
+
+  - sigla: LOM3203
+    title:
+      br: Controle e Automação
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3203&verdis=1
+
+  - sigla: LOM3213
+    title:
+      br: Fenômenos de Transporte B
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3213&verdis=1
+
+  - sigla: LOM3223
+    title:
+      br: Materiais e Dispositivos Magnéticos e Supercondutores
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3223&verdis=1
+
+  - sigla: LOM3230
+    title:
+      br: Métodos Experimentais da Física III
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3230&verdis=1
+
+  - sigla: LOQ4050
+    title:
+      br: Engenharia Econômica
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOQ4050&verdis=1
+
+  - sigla: LOQ4233
+    title:
+      br: Gestão de Negócios
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOQ4233&verdis=1
+
+  - sigla: LOM3216
+    title:
+      br: Física do Meio Ambiente
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3216&verdis=1
+
+  - sigla: LOM3231
+    title:
+      br: Métodos Experimentais da Física IV
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3231&verdis=1
+
+  - sigla: LOM3239
+    title:
+      br: Projeto Integrado II
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3239&verdis=1
+
+  - sigla: LOM3259
+    title:
+      br: Materiais e Dispositivos Eletrônicos
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3259&verdis=1
+
+  - sigla: LOQ4209
+    title:
+      br: Engenharia da Qualidade I
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOQ4209&verdis=1
+
+  - sigla: LOQ4250
+    title:
+      br: Fundamentos de Administração da Produção
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOQ4250&verdis=1
+
+  - sigla: LOB1010
+    title:
+      br: Direito  Aplicado à Engenharia
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1010&verdis=1
+
+  - sigla: LOB1031
+    title:
+      br: Psicologia Organizacional e do Trabalho
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOB1031&verdis=1
+
+  - sigla: LOM3243
+    title:
+      br: Seminários em Engenharia Física
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3243&verdis=1
+
+  - sigla: LOM3250
+    title:
+      br: Trabalho de Graduação
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3250&verdis=1
+
+  - sigla: LOM3210
+    title:
+      br: Estágio Supervisionado
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3210&verdis=1
+
+  - sigla: LOM3210
+    title:
+      br: Disciplinas Optativas
+                          Livres
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3210&verdis=1
+
+  - sigla: LOM3255
+    title:
+      br: Introdução a Projetos de Engenharia
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3255&verdis=1
+
+  - sigla: LOM3207
+    title:
+      br: Eletrônica de Potência
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3207&verdis=1
+
+  - sigla: LOM3208
+    title:
+      br: Eletroquímica
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3208&verdis=1
+
+  - sigla: LOM3211
+    title:
+      br: Estruturas e Propriedades de Materiais
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3211&verdis=1
+
+  - sigla: LOM3225
+    title:
+      br: Materiais e Dispositivos Semicondutores
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3225&verdis=1
+
+  - sigla: LOM3242
+    title:
+      br: Reologia
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3242&verdis=1
+
+  - sigla: LOM3248
+    title:
+      br: Tópicos Especiais em Engenharia Física I
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3248&verdis=1
+
+  - sigla: LOM3256
+    title:
+      br: Tópicos em Cálculo de Estrutura Eletrônica dos Materiais
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3256&verdis=1
+
+  - sigla: LOM3201
+    title:
+      br: Biofísica Molecular
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3201&verdis=1
+
+  - sigla: LOM3214
+    title:
+      br: Física de Superfícies
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3214&verdis=1
+
+  - sigla: LOM3222
+    title:
+      br: Materiais e Dispositivos Dielétricos e Piezelétricos
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3222&verdis=1
+
+  - sigla: LOM3235
+    title:
+      br: Processamento de Materiais
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3235&verdis=1
+
+  - sigla: LOM3244
+    title:
+      br: Sensores e Transdutores
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3244&verdis=1
+
+  - sigla: LOM3249
+    title:
+      br: Tópicos Especiais em Engenharia Física II
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3249&verdis=1
+
+  - sigla: LOM3209
+    title:
+      br: Ensaios não Destrutivos
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3209&verdis=1
+
+  - sigla: LOM3219
+    title:
+      br: Introdução à Nanotecnologia
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3219&verdis=1
+
+  - sigla: LOM3220
+    title:
+      br: Introdução à Spintrônica
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3220&verdis=1
+
+  - sigla: LOM3224
+    title:
+      br: Materiais e Dispositivos Ópticos e Fotônicos
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3224&verdis=1
+
+  - sigla: LOM3232
+    title:
+      br: Metrologia
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3232&verdis=1
+
+  - sigla: LOM3245
+    title:
+      br: Técnicas Avançadas de Caracterização de Materiais
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3245&verdis=1
+
+  - sigla: LOM3247
+    title:
+      br: Técnicas de Análises Espectroscópicas
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3247&verdis=1
+
+  - sigla: LOM3251
+    title:
+      br: Vibração e Acústica
+      en: 
+    url: https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3251&verdis=1
+

@@ -1,0 +1,54 @@
+---
+layout: post
+title:
+  br: Demar terá representante de IC no exterior
+  en: Demar to be represented by IC student abroad
+image: /assets/images/noticias/danilo.png
+caption:
+  br: "Danilo Alencar de Abreu"
+  en: "Danilo Alencar de Abreu"
+---
+
+{% contentfor br %}
+
+*Por Simone Colombo*
+
+(ver [notícia original](https://site.eel.usp.br/index.php/noticias/siicusp-eel-tera-02-representantes-da-iniciacao-cientifica-no-exterior))
+
+Ingressar no universo científico ainda na graduação é uma oportunidade que o programa de Iniciação Científica (IC) da USP oferece aos seus alunos.  Através do programa, os jovens são submersos no mundo da pesquisa e têm a oportunidade de aprender novas metodologias e buscar soluções para diversos problemas do mundo da ciência.  Fazer IC une a teoria com a prática e deixa os alunos com o pé na Pós-Graduação e com potencial de se tornarem novos cientistas.  E os frutos de toda sua dedicação, bem como o talento para buscar novas descobertas, podem ser colhidos antes mesmo de serem engenheiros. 
+
+É o caso de Danilo Alencar de Abreu (Engenharia de Materiais), parte de um grupo seleto de 10 estudantes da USP selecionados na Etapa Internacional do SIICUSP (Simpósio de Iniciação Científica e Tecnológica da USP) para representar o país no exterior. O SIICUSP, que visa divulgar e acompanhar resultados de projetos de IC realizados por estudantes de graduação da USP teve, em 2019, 3.760 inscritos.
+
+Na EEL foram apresentados 100 trabalhos na primeira fase do SIICUSP realizada na unidade no dia 08 de outubro de 2019.  Destes 100, 15 foram selecionados por um grupo de avaliadores para participar da Etapa Internacional em São Paulo, no dia 5 de novembro.
+
+De todas as unidades da USP, participaram da etapa internacional 560 estudantes. Ao final dessa etapa, 112 receberam menção honrosa e dentre esses 10 foram indicados pelo Comitê científico composto por docentes da USP para representar a USP em eventos no exterior.
+
+O trabalho apresentado pelo Danilo no SIICUSP busca uma nova base para o desenvolvimento de novas ligas metálicas (Titânio, alumínio, e zircônio) que possam ser usadas em altas temperaturas na indústria aeroespacial.  Danilo, que viajou no início de fevereiro pra França para realizar um intercâmbio, conta que começou sua iniciação científica em 2016 no segundo ano da graduação. O estudante em breve irá publicar um artigo em uma revista científica da área, o que não é tão comum para um aluno de graduação. Para o jovem de 24 anos, que está no penúltimo semestre do curso de Engenharia de Materiais, fazer IC foi sua melhor escolha: “Estou vivendo coisas que quando eu ingressei na graduação, não imaginaria estar vivendo tão cedo”.
+
+Danilo irá apresentar seu trabalho de iniciação científica nas universidades Rutgers e Ohio State, ambas nos Estados Unidos entre os meses de março e abril, em data ainda a ser definida. As despesas da viagem serão custeadas pela Pró-Reitoria de Pesquisa.  Ele terá o privilégio de realizar visitas aos laboratórios e de conhecer as pesquisas destas universidades.
+
+Sucesso para o Danilo e todos os envolvidos na pesquisa, em particular o seu orientador, o {% include docente.html docente='gilberto' %}.
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+*by Simone Colombo*
+
+(see [original news (in portuguese)](https://site.eel.usp.br/index.php/noticias/siicusp-eel-tera-02-representantes-da-iniciacao-cientifica-no-exterior))
+
+Entering the scientific universe while undergraduate is an opportunity that USP's Scientific Initiation (IC, *Iniciação Científica*) program offers its students. Through the program, young people are immersed in the world of research and have the opportunity to learn new methodologies and seek solutions to various problems in the world of science. Being a IC student means combining theory with practice, bringing the students closer to graduate school and with the potential to become new scientists. And the fruits of all their dedication, as well as the talent to seek new discoveries, can be harvested even before they are engineers.
+
+This is the case of Danilo Alencar de Abreu (Materials Engineering), part of a select group of 10 USP students selected in the International Stage of SIICUSP (USP Scientific and Technological Initiation Symposium) to represent the country abroad. In 2019, SIICUSP, which aims to disseminate and monitor the results of IC projects carried out by USP undergraduate students, had 3,760 participants.
+
+At EEL, 100 papers were presented in the first phase of SIICUSP held at the unit on October 8, 2019. Of these 100, 15 were selected by a group of evaluators to participate in the International Stage in São Paulo, on November 5.
+
+Of all USP units, 560 students participated in the international stage. At the end of this stage, 112 received an honorable mention and among these 10 were nominated by the Scientific Committee composed of professors from USP to represent USP at events abroad.
+
+The work presented by Danilo at SIICUSP seeks a new basis for the development of new metallic alloys (Titanium, aluminum, and zirconium) that can be used at high temperatures in the aerospace industry. Danilo, who traveled to France at the beginning of February to do an exchange,  started his IC in 2016 in the second year of graduation. The student will soon publish an article in a scientific journal in the area, which is not so common for an undergraduate student. For the 24-year-old, who is in the penultimate semester of the Materials Engineering course, being an IC student was his best choice: “I am living things that, before becoming an undergrad, I would bever have imagined I would be living so soon”.
+
+Danilo will present his scientific initiation work at Rutgers and Ohio State universities, both in the United States between March and April, at a date yet to be defined. Travel expenses will be covered by the university. He will have the privilege to make visits to the laboratories and to know about the research being done at these universities.
+
+Success for Danilo and everyone involved in the research, in particular his advisor, {% include faculty.html docente='gilberto'%}.
+
+{% endcontentfor %}

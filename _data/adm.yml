@@ -1,0 +1,62 @@
+chefia:
+
+  chefe: jacare
+  vice: hugo
+  eleicao: "06/06/18"
+  mandato: "18/06/18 --- 16/06/20"
+
+conselho:
+
+  titulares:
+
+    - jacare
+    - hugo
+    - durval
+
+  associados:
+
+    - titular: fabio
+      vice: cristina
+
+    - titular: tiao
+      vice: clodoaldo
+
+    - titular: miguel
+      vice: baptista
+
+    - titular: durval
+      vice: susto
+
+    - titular: cassius
+      vice: vernilli
+
+  doutores:
+
+    - titular: katia
+      vice: shigue
+
+    - titular: eleno
+      vice: paulo
+
+    - titular: jeff
+      vice: gilberto
+
+    - titular: ismenia
+      vice: mariajose
+
+  assistentes:
+
+    - priscila
+
+  discentes:
+
+    - nome: Enzo Matsumaga
+      NUSP: 10366178
+
+  mandatos:
+    docentes:
+      eleicao: "27/03/2019"
+      proclamacao: "29/03/2019"
+      mandato: "22/04/2019 --- 21/04/2021"
+    discentes:
+      mandato: "16/08/18 --- 15/08/19"

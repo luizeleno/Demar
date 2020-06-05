@@ -1,0 +1,51 @@
+---
+layout: default
+---
+
+<div class="well">
+
+  <nav class="shadow-sm" aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      {% if page.lang == site.def_lang %}
+        <li class="breadcrumb-item"><a class="badge badge-info" href="{{ site.baseurl}}/">{{ site.title | escape }}</a></li>
+        <li class="breadcrumb-item"><a class="badge badge-info" href="{{site.baseurl}}/noticias/">Notícias</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><span class="badge badge-secondary">{{page.title.br}}</span</li>
+      {% else %}
+        <li class="breadcrumb-item"><a class="badge badge-info" href="{{ site.baseurl}}/en/">{{ site.title | escape }}</a></li>
+        <li class="breadcrumb-item"><a class="badge badge-info" href="/en/noticias/">News</a></li>
+        <li class="breadcrumb-item active" aria-current="page"><span class="badge badge-secondary">{{page.title.en}}</span></li>
+      {% endif %}
+    </ol>
+  </nav>
+
+    {% if page.lang == site.def_lang %}
+      <h1 class="alert bg-dark text-light w-100 mb-1" style="text-align:left">{{ page.title.br }}</h1>
+      <p class="small mt-3 ml-3"><em>Publicado em {{ page.date | date: "%d/%m/%Y" }}</em></p>
+    {% else%}
+      <h1 class="alert bg-dark text-light w-100 mb-2" style="text-align:left">{{ page.title.en }}</h1>
+      <p class="small"><em>Posted in {{ page.date | date: "%m/%d/%Y" }}</em></p>
+    {% endif%}
+
+    <hr>
+
+    <div class="clearfix">
+    {% contentblock beginblock %}
+    {% if page.lang == site.def_lang %}
+      <div class="br">
+        <div class="col-md-5 float-md-right">
+          {% include figure.html image=page.image id='figure' caption=page.caption.br%}
+        </div>
+        {% contentblock br %}
+      </div>
+    {% else %}
+      <div class="en">
+        <div class="col-md-5 float-md-right">
+          {% include figure.html image=page.image id='figure' caption=page.caption.en%}
+        </div>
+        {% contentblock en %}
+      </div>
+    {% endif %}
+    {% contentblock endblock %}
+  </div>
+
+</div>

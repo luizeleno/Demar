@@ -1,0 +1,26 @@
+---
+layout: post
+title:
+  br: App do Diretório Acadêmico da EEL
+  en: EEL Academic Directory App
+image: /assets/images/noticias/app-DA.png
+caption:
+  br: "Diretório Acadêmico da EEL"
+  en: "EEL Academic Directory"
+---
+
+{% contentfor br %}
+
+O aplicativo do Diretório Acadêmico EEL-USP te oferece tudo aquilo que você precisa no dia-a-dia do nosso campus. Nele, você pode saber mais sobre o D.A., ter acesso à uma agenda unificada de eventos, garantir descontos em restaurantes e na lojinha do D.A., além de uma infinidade informações. Baixe e aproveite!
+
+[Baixe o app aqui](https://app.vc/d.a._eel_usp){: .btn .btn-primary target='\_blank'}
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+The app developed by the EEL-USP Academic Directory (AD) offers you everything you need in the day-to-day of our campus. Using the app you can learn more about the AD, have access to a unified agenda of events, ensure discounts in restaurants and in the AD store, in addition to a multitude of information. Download and enjoy!
+
+[Download the app](https://app.vc/d.a._eel_usp){: .btn .btn-primary target='\_blank'}
+
+{% endcontentfor %}

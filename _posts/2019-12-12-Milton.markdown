@@ -1,0 +1,36 @@
+---
+layout: post
+title:
+  br: Demar recebe o Prof. Milton Torikachvili
+  en: Demar to host Prof. Milton Torikachvili
+image: /assets/images/noticias/milton.jpeg
+caption:
+  br: "Prof. Milton Torikachvili"
+  en: "Prof. Milton Torikachvili"
+---
+
+{% contentfor br %}
+
+*Por Simone Colombo*
+
+(ver [notícia original](https://site.eel.usp.br/noticias/eel-recebe-especialista-em-fisica-extrema))
+
+O Demar está recebendo, por um período de quatro meses, o **Prof. Dr. Milton Torikachvili,** da *San Diego State University* (SDSU). O professor Torikachvili  é especialista na chamada **Física Extrema,** que consiste no estudo de  propriedades físicas de materiais supercondutores e magnéticos  submetidos a altíssimas pressões.
+
+ Torikachvili fará pesquisas junto ao  grupo de novos materiais supercondutores coordenado pelo {% include docente.html docente='jeff'%}. Neste projeto, supercondutores  topológicos descobertos em Lorena serão avaliados por suas  propriedades em regimes de altíssimas pressões, superiores a 10 GPa.  (Fapesp 2019/17878-5).  O pesquisador visitante tem índice-h 37 com  mais de 150 trabalhos publicados em revistas de extrema importância na  área de Física da Matéria Condensada.   "*Torikachvili certamente trará uma contribuição muito grande para o grupo*" afirma o professor Jefferson Machado. 
+
+O pesquisador  fez seu mestrado e doutoramento na  Unicamp sob orientação do {% include docente.html docente='pinatti' %} no período  compreendido entre 1979 e 1981. Seu Pós-Doutorado foi realizado na  Universidade da Califórnia em San Diego UCSD (sob a supervisão do Prof.  Dr. Brian Maple) onde atuou como pesquisador na até 1987.  Em 1987 o  Prof. Milton assumiu uma posição de professor na San Diego State  University SDSU, permanecendo até hoje.
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+Demar is receiving, for a period of four months, **Prof. Dr. Milton Torikachvili,** from San Diego State University (SDSU). Professor Torikachvili specializes in the so-called **Extreme Physics,** which consists in studying the physical properties of superconducting and magnetic materials subjected to extremely high pressures.
+
+ Torikachvili will conduct research with the group of new superconducting materials coordinated by {% include faculty.html docente='jeff' %}. In this project, topological superconductors discovered in Lorena will be evaluated for their properties in very high pressure regimes above 10 GPa. (Fapesp 2019 / 17878-5). The visiting researcher has an h-index of 37 with more than 150 papers published in extremely important journals in the field of Condensed Matter Physics.  "*Torikachvili will certainly make a huge contribution to the group*" says Prof. Jefferson Machado.
+
+The researcher did his master's and doctorate at Unicamp under the guidance of {% include faculty.html docente='pinatti' %} in the period between 1979 and 1981. His Post-Doctorate was held at the University of California at San Diego UCSD (under the supervision of Prof. Dr. Brian Maple) where he worked as a researcher until 1987. In 1987 Prof. Milton took up a teaching position at San Diego State University SDSU, where he remains to this day.
+
+
+
+{% endcontentfor %}

@@ -1,0 +1,225 @@
+demar:
+
+  - setor:
+    nome:
+      br: Laboratório de Análises Térmicas
+      en: Thermal Analysis Lab
+    pessoal:
+      - nome: Bento Ferreira
+        email: ferreira@demar.eel.usp.br
+        ramal: 59 9956
+
+  - setor:
+    nome:
+      br: Laboratório de Baixas Temperaturas
+      en: Low temperature Lab
+    pessoal:
+      - nome: Bento Geraldo da Silva
+        email: bentao@demar.eel.usp.br
+        ramal: 59 9925
+      - nome: Domingos Sávio dos Santos Figueira
+        email: savio@demar.eel.usp.br
+        ramal: 59 9925
+
+  - setor:
+    nome:
+      br: Laboratório de Corrosão
+      en: Corrosion Lab
+    pessoal:
+      - nome: Jorge Luiz Rosa
+        email: jlrosa@demar.eel.usp.br
+        ramal: 59 9940
+
+  - setor:
+    nome:
+      br: Laboratório de Eletrônica
+      en: Electronics Lab
+    pessoal:
+      - nome: Rodolfo José Lopes
+        email: rodolfo@demar.eel.usp.br
+        ramal: 59 9921
+
+  - setor:
+    nome:
+      br: Laboratório de Ensaios Mecânicos
+      en: Mechanical Testing Lab
+    pessoal:
+      - nome: Francisco de Paiva Reis
+        email: fpaiva@demar.eel.usp.br
+        ramal: 59 9928
+
+  - setor:
+    nome:
+      br: Laboratório de Materialografia
+      en: Materialography Lab
+    pessoal:
+      - nome: Sergio Luiz de Oliveira
+        email: sergio@demar.eel.usp.br
+        ramal: 59 9933
+
+  - setor:
+    nome:
+      br: Laboratório de Química
+      en: Chemistry Lab
+    pessoal:
+      - nome: Renato Honório Gonçalves
+        email: renato@debiq.eel.usp.br
+        ramal: 59 9932
+
+  - setor:
+    nome:
+      br: Oficina Mecânica
+      en: Mechanical Workshop
+    pessoal:
+      - nome: Carlos Roberto Dainesi (Responsável)
+        email: crdainesi@demar.eel.usp.br
+        ramal: 59 9905
+      - nome: José Carlos dos Santos I
+        email:
+        ramal:
+      - nome: Luiz Carlos Pereira Barreto
+        email: barreto@demar.eel.usp.br
+        ramal: 59 9955
+      - nome: Sebastião Barbosa de Souza
+        email: tiaozinho@demar.eel.usp.br
+        ramal: 59 9955
+      - nome: Valdir Marcolino de Campos
+        email: campos@demar.eel.usp.br
+        ramal: 59 9955
+      - nome: Aílton Rodrigues da Silva (Soldagem)
+        email: ailton@demar.eel.usp.br
+        ramal: 59 9948
+
+  - setor:
+    nome:
+      br: Manutenção
+      en: Maintenance
+    pessoal:
+      - nome: Alberto Amador Magelo Vieira
+        email: amador@demar.eel.usp.br
+        ramal: 59 9930
+      - nome: Otávio Barbosa de Souza
+        email: otavio@demar.eel.usp.br
+        ramal: 59 9941
+      - nome: Valdir Pereira
+        email: valdir@demar.eel.usp.br
+        ramal: 59 9905 &ndash; 59 9930
+
+  - setor:
+    nome:
+      br: Secretaria
+      en: Secretary
+    pessoal:
+      - nome: Maria Alice Alves da Silva
+        email: malice@demar.eel.usp.br
+        ramal: 59 9902
+      - nome: Giseli Maria de Freitas Salomão Bittencourt de Azevedo
+        email: giseli@demar.eel.usp.br
+        ramal: 59 9903
+
+  - setor:
+    nome:
+      br: Apoio a Compras
+      en: Acquisition Support
+    pessoal:
+      - nome: João Donizete Ferreira
+        email: jdferreira@usp.br
+        ramal: 59 9908
+      - nome: Juliana Aparecida de Souza Martins Angelo
+        email: julianasmangelo@usp.br
+        ramal: 59 9908
+
+eel:
+
+  - setor:
+    nome:
+      br: Biblioteca
+      en: Library
+    pessoal:
+      - nome: Tiago Antunes Domingos
+        email: tiago@demar.eel.usp.br
+        ramal: 59 9923
+      - nome: Ludmila Aparecida Villela Nunes Osuna
+        email: ludmila@demar.eel.usp.br
+        ramal: 59 9802
+      - nome: Regina Maria Lopes de Amorim e Silva
+        email: amorim@demar.eel.usp.br
+        ramal: 59 9945
+
+  - setor:
+    nome:
+      br: Centro de Informática (CI)
+      en: Informatics Center (IC)
+    pessoal:
+      - nome: Jairo Luiz Martins Corrêa
+        email: jairo@ci.eel.usp.br
+        ramal: 59 9939
+      - nome: Felipe de Oliveira Arruda
+        email: felipeoa@usp.br
+        ramal: 59 9946
+
+  - setor:
+    nome:
+      br: Pós-Graduação (CPG)
+      en: Graduate Program admin
+    pessoal:
+      - nome: Tavânia Mara da Silva Ferreira Cavasso
+        email: tavania@usp.br
+        ramal: 59 9904
+      - nome: Rita de Cássia Corrêa
+        email: ritta@usp.br
+        ramal: 59 5016
+
+  - setor:
+    nome:
+      br: Prefeitura do Campus USP de Lorena &mdash; PUSP-L
+      en: Campus Mayor Office admin
+    pessoal:
+      - nome: Carlos Roberto Bernardo
+        email: carobe@demar.eel.usp.br
+        ramal: 59 9937
+      - nome: Vandir Bernardo
+        email: vandir@demar.eel.usp.br
+        ramal: 59 9906
+      - nome: Rozeldino Soares dos Santos
+        email: rozeldino@adm.eel.usp.br
+        ramal: 59 9955
+      - nome: Braz Carlos da Silva
+        email: braz@adm.eel.usp.br
+        ramal: 59 9955
+      - nome: Carlos Antonio da Silva
+        email: carlos@demar.eel.usp.br
+        ramal: 59 9901
+      - nome: Dair Amaro dos Santos
+        email: dair@adm.eel.usp.br
+        ramal: 59 9930
+      - nome: Marco Antonio da Silva
+        email:
+        ramal:
+      - nome: Osvaldo Quintino de Araújo
+        email:
+        ramal:
+      - nome: Reginaldo César da Silva Bastos
+        email: bastos@demar.eel.usp.br
+        ramal: 59 9955
+      - nome: Roque Marcelino de Amorim
+        email: roque@adm.eel.usp.br
+        ramal: 59 5042
+
+  - setor:
+    nome:
+      br: Setor de Apoio à Graduação (ATAc)
+      en: Undergraduate Program admin
+    pessoal:
+      - nome: Everaldo Pinheiro Bruno
+        email: bruno@demar.eel.usp.br
+        ramal: 59 9800
+
+  - setor:
+    nome:
+      br: ATPe - Assistência Técnica de Pesquisa
+      en: Research Technical Support
+    pessoal:
+      - nome: Gilson Francisco de Oliveira
+        email: gilsoncaldas@usp.br
+        ramal: 59 9811

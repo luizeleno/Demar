@@ -1,0 +1,280 @@
+---
+title: Administração
+permalink: /adm/
+---
+
+<style>
+body {text-align: left;}
+</style>
+
+<ul class="nav nav-tabs" id="myTab" role="tablist">
+  <li class="nav-item">
+    <a class="nav-link active" id="chefia-tab" data-toggle="tab" href="#chefia" role="tab" aria-controls="chefia" aria-selected="true">Chefia</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="cd-tab" data-toggle="tab" href="#cd" role="tab" aria-controls="cd" aria-selected="false">Conselho</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="comissoes-tab" data-toggle="tab" href="#comissoes" role="tab" aria-controls="comissoes" aria-selected="false">Comissões</a>
+  </li>
+  <li class="nav-item">
+    <a class="nav-link" id="coc-tab" data-toggle="tab" href="#coc" role="tab" aria-controls="coc" aria-selected="false">CoCs</a>
+  </li>
+</ul>
+
+<div class="tab-content" id="myTabContent">
+
+  <div class="tab-pane fade show active" id="chefia" role="tabpanel" aria-labelledby="chefia-tab">
+
+    <h1 class="alert bg-dark text-light">Chefia</h1>
+
+    {% assign find_chefe = site.docentes | where:'short_name', site.data.adm.chefia.chefe %}
+    {% assign chefe = find_chefe[0] %}
+
+    {% assign find_vice = site.docentes | where:'short_name', site.data.adm.chefia.vice %}
+    {% assign vice = find_vice[0] %}
+
+    <ul>
+      <li>Chefe do departamento: <a href="{{site.baseurl}}{{ chefe.url }}">{{ chefe.abrev }} {{ chefe.nome }}</a></li>
+      <li>Vice-chefe: <a href="{{site.baseurl}}{{ vice.url }}">{{ vice.abrev }} {{ vice.nome }}</a></li>
+    </ul>
+
+    <h2>Secretaria:</h2>
+
+    <p><b>Maria Alice Alves da Silva</b><br />
+    :email: <a href="mailto:malice@demar.eel.usp.br">malice@demar.eel.usp.br</a><br />
+    :telephone_receiver: +55 12 3159 9902</p>
+    <p><b>Giseli Maria de Freitas Salomão Bittencourt de Azevedo</b><br />
+    :email: <a href="mailto:malice@demar.eel.usp.br">giseli@demar.eel.usp.br</a><br />
+    :telephone_receiver: +55 12 3159 9903</p>
+
+      <hr>
+
+      <dl>
+        <dt>Chefe e Vice-chefe:</dt>
+        <dd>Eleitos em {{site.data.adm.chefia.eleicao}}</dd>
+        <dd>Mandato: {{site.data.adm.chefia.mandato}}</dd>
+      </dl>
+
+    </div>
+
+    <div class="tab-pane fade" id="cd" role="tabpanel" aria-labelledby="cd-tab">
+
+      <h1 class="alert bg-dark text-light">Conselho do Departamento</h1>
+
+      <h2>Professores Titulares</h2>
+
+      <ul>
+        {% for prof in site.data.adm.conselho.titulares %}
+          {% assign find_tit = site.docentes | where:'short_name', prof %}
+          {% assign titular = find_tit[0] %}
+          <li><a href="{{site.baseurl}}{{ titular.url }}">{{ titular.abrev }} {{ titular.nome }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <h2>Professores Associados</h2>
+
+      <ul>
+        {% for chapa in site.data.adm.conselho.associados %}
+          {% assign find_tit = site.docentes | where:'short_name', chapa.titular %}
+          {% assign titular = find_tit[0] %}
+          {% assign find_sup = site.docentes | where:'short_name', chapa.vice %}
+          {% assign suplente = find_sup[0] %}
+          <li><a href="{{site.baseurl}}{{ titular.url }}">{{ titular.abrev }} {{ titular.nome }}</a></li>
+          <ul>
+            <li>Suplente: <a href="{{site.baseurl}}{{ suplente.url }}">{{ suplente.abrev }} {{ suplente.nome }}</a></li>
+          </ul>
+        {% endfor %}
+      </ul>
+
+      <h2>Professores Doutores</h2>
+
+      <ul>
+        {% for chapa in site.data.adm.conselho.doutores %}
+          {% assign find_tit = site.docentes | where:'short_name', chapa.titular %}
+          {% assign titular = find_tit[0] %}
+          {% assign find_sup = site.docentes | where:'short_name', chapa.vice %}
+          {% assign suplente = find_sup[0] %}
+          <li><a href="{{site.baseurl}}{{ titular.url }}">{{ titular.abrev }} {{ titular.nome }}</a></li>
+          <ul>
+            <li>Suplente: <a href="{{site.baseurl}}{{ suplente.url }}">{{ suplente.abrev }} {{ suplente.nome }}</a></li>
+          </ul>
+        {% endfor %}
+      </ul>
+
+      <h2>Professor Assistente</h2>
+
+      <ul>
+        {% for prof in site.data.adm.conselho.assistentes %}
+          {% assign find_tit = site.docentes | where:'short_name', prof %}
+          {% assign titular = find_tit[0] %}
+          <li><a href="{{site.baseurl}}{{ titular.url }}">{{ titular.abrev }} {{ titular.nome }}</a></li>
+        {% endfor %}
+      </ul>
+
+      <h2>Representante Discente</h2>
+
+      <ul>
+        {% for aluno in site.data.adm.conselho.discentes %}
+          <li><b>{{ aluno.nome }}</b> (NUSP {{ aluno.NUSP }})</li>
+        {% endfor %}
+      </ul>
+
+      <hr>
+
+      <dl>
+        <dt>Membros e suplentes:</dt>
+        <dd>Eleitos em {{ site.data.adm.conselho.mandatos.docentes.eleicao }}</dd>
+        <dd>Proclamação do Resultado: {{site.data.adm.conselho.mandatos.docentes.proclamacao}}</dd>
+        <dd>Mandato: {{site.data.adm.conselho.mandatos.docentes.mandato}}</dd>
+
+        <dt>Representante discente:</dt>
+        <dd>Mandato: {{site.data.adm.conselho.mandatos.discentes.mandato}}</dd>
+      </dl>
+
+    </div>
+
+    <div class="tab-pane fade" id="comissoes" role="tabpanel" aria-labelledby="comissoes-tab">
+
+      <h1 class="alert bg-dark text-light">Representantes do DEMAR nas Comissões da EEL<h1>
+
+        <h2>Comissão de Graduação (CG)</h2>
+
+        <ul>
+          {% for prof in site.data.comissoes.cg %}
+            <li>
+              {% include docente.html docente=prof.titular %}
+            </li>
+            <ul>
+              <li>Suplente:
+                {% include docente.html docente=prof.vice %}
+              </li>
+            </ul>
+          {% endfor %}
+        </ul>
+
+        <h2>Comissão de Pós-Graduação (CPG)</h2>
+
+        <ul>
+          {% for prof in site.data.comissoes.cpg %}
+          <li>
+            {% include docente.html docente=prof.membro %}
+            {% if prof.obs %}
+              ({{prof.obs}})
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+
+        <h2>Comissão de Coordenação do PPGEM</h2>
+
+        <ul>
+          {% for prof in site.data.comissoes.ccp-ppgem %}
+          <li>
+            {% include docente.html docente=prof.membro %}
+            {% if prof.obs %}
+              ({{prof.obs}})
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+
+        <h2>Comissão de Pesquisa (CPq)</h2>
+
+        <ul>
+          <li>Prof. Dr. Carlos Angelo Nunes – Presidente</li>
+          <li>Mandato: 17/05/2017 a 16/05/2019</li>
+          <li>Representante docente DEMAR:</li>
+          <li>Titular: Prof. Dr. Hugo Ricardo Zschommler Sandim</li>
+          <li>Suplente: Prof. Durval Rodrigues Junior</li>
+          <li>Mandato: 20/05/2016 a 19/05/2019</li>
+        </ul>
+
+        <h2>Comissão de Cultura e Extensão (CCEx)</h2>
+
+        <ul>
+          <li>Prof. Dr. Clodoaldo Saron – Presidente</li>
+          <li>Mandato: 19/05/2017 a 18/05/2019</li>
+          <li>Representante docente DEMAR:</li>
+          <li>Titular: Profa. Dra. Sandra Giacomin Schneider  </li>
+          <li>Mandato: 1905/2016 a 18/05/2019</li>
+          <li>Suplente: Prof. Dr. João Paulo Pascon</li>
+          <li>Mandato: 06/06/2016 a 18/05/2019</li>
+        </ul>
+
+        <h2>Comissão de Relações Internacionais (CRINT)</h2>
+
+        <ul>
+          <li>Titular: Prof. Dr. Carlos Angelo Nunes (presidente)</li>
+          <li>Titular: Prof. Dr. Hugo Ricardo Zschommler Sandim</li>
+          <li>Titular: Prof. Dr. Fábio Herbst Florenzano (vice-presidente)</li>
+        </ul>
+
+        <h2>Comissão do Serviço de Biblioteca e Informação</h2>
+
+        <ul>
+          <li>{% include docente.html docente='eleno' %}</li>
+          <ul>
+            <li>Suplente: {% include docente.html docente='katia' %}</li>
+          </ul>
+        </ul>
+
+      </div>
+
+      <div class="tab-pane fade" id="coc" role="tabpanel" aria-labelledby="coc-tab">
+
+        <h1 class="alert bg-dark text-light">Representantes do DEMAR nas Comissões de curso da EEL</h1>
+
+        <h2>Comissão de Coordenação do Curso de Engenharia de Materiais – CoC-EM</h2>
+
+        <ul>
+          {% for prof in site.data.comissoes.coc-em %}
+          <li>{% include docente.html docente=prof.membro %}
+            {% if prof.obs %}({{prof.obs}}){% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+
+        <h2>Comissão de Coordenação do Curso de Engenharia Física – CoC-EF</h2>
+
+        <ul>
+          {% for prof in site.data.comissoes.coc-ef %}
+          <li>{% include docente.html docente=prof.membro %}
+            {% if prof.obs %}({{prof.obs}}){% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+
+        <h2>Comissão de Coordenação do Curso do Ciclo Básico – CoC-EB</h2>
+
+        <ul>
+          {% for prof in site.data.comissoes.coc-eb %}
+          <li>{% include docente.html docente=prof.membro %}
+            {% if prof.obs %}({{prof.obs}}){% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+
+        <h2>Comissão de Coordenação do Curso de Engenharia Qímica – CoC-EQ/N</h2>
+
+        <ul>
+          {% for prof in site.data.comissoes.coc-eqn %}
+          <li>{% include docente.html docente=prof.membro %}
+            {% if prof.obs %}({{prof.obs}}){% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+
+        <h2>Comissão de Coordenação do Curso de Engenharia Química – CoC-EQ/D</h2>
+
+        <ul>
+          {% for prof in site.data.comissoes.coc-eqd %}
+          <li>{% include docente.html docente=prof.membro %}
+            {% if prof.obs %}({{prof.obs}}){% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+
+      </div>
+
+    </div>

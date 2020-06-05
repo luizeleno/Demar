@@ -1,0 +1,33 @@
+---
+title:
+  br: "Cadastramento do curso de Engenharia Física no CREA-SP"
+  en: "Registration of the Physical Engineering course at CREA-SP"
+image: /assets/images/posts/logo-crea.png
+---
+
+{% contentfor br %}
+
+É com imensa satisfação que informamos que o **[CREA-SP]** aprovou o cadastramento
+do curso de **Engenharia Física** da **EEL-USP** na reunião da Câmara de Engenharia
+Elétrica em 29/03/2019.
+
+Seguindo parecer interno e anterior do <a href="http://www.creasp.org.br/" target="\_blank">CREA-SP</a> (2002), foi realizado o cadastramento como **"Engenheiro(a) de Controle e Automação"**.
+
+Este foi um grande sucesso, após termos dado entrada no Processo em 05/01/2018
+(quase 16 meses). Foram exigidos contatos e cobranças constantes. Agradecemos a todos que auxiliaram no andamento do Processo.
+
+*A Coordenação do curso de Engenharia Física.*
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+It is with great pleasure that we inform that <a href="http://www.creasp.org.br/" target="\_blank">CREA-SP</a> (Regional Engineering and Agronomy Council - São Paulo) approved the registration of the **Engineering Physics** course at the meeting of its Electric Engineering Chamber on 03/29/2019.
+
+Following [CREA-SP]'s previous internal opinion (2002), the registration was done as **"Control and Automation Engineering".**
+
+This was a great success after we entered the process on 1/5/2018 (almost 16 months). Constant contacts and provisions were required. We thank all those who assisted with the progress of the request.
+
+*The Coordination of the Physical Engineering course.*
+
+{% endcontentfor %}

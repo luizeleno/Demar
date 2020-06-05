@@ -1,0 +1,50 @@
+---
+title: Missão do Departamento
+permalink: /missao/
+---
+
+O DEMAR-USP, como um departamento da Universidade de São Paulo, sempre foi e será norteado pela excelência nas suas atividades, na busca incessante pela qualidade e integração das atividades de ensino, Pesquisa e Extensão. Esses valores que acompanham a USP, são, no caso em particular, amalgamados com uma tradição sólida de pesquisa e inovação fundada há mais de 40 anos com o Projeto Nióbio.
+
+<div class="container-fluid mb-3">
+  <div class="row">
+    <div class="col">
+      <div class="card" style="width: 100%;">
+        <div class="card-body">
+          <h1>Missão</h1>
+          <p style="text-align:left">“Formar profissionais de excelência nas áreas de Engenharia de Materiais e Engenharia Física e realizar pesquisa e desenvolvimento de alta qualidade, criando e disponibilizando conhecimento à sociedade”</p>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="card" style="width: 100%;">
+        <div class="card-body">
+          <h1 >Visão</h1>
+          <p style="text-align:left">  “Através de ações em Ensino, Pesquisa e Extensão, formar profissionais de excelência reconhecida
+            capazes de contribuir para evolução sustentável da sociedade em seus aspectos econômicos, sociais, éticos
+            e ambientais”
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<h1 class="alert bg-dark text-light">Valores</h1>
+
+“Excelência”
+: Expressa a busca pelos mais elevados padrões de qualidade na seara de atuação do departamento: formação de recursos humanos em nível de graduação e pós-graduação compatível com as melhores escolas de Engenharia do país; investigação científica rigorosa e relevante, socializada em meios reconhecidos como de primeira linha pela Ciência Internacional; relações de alto impacto na sociedade local e regional, com ações dentro das competências expandidas do departamento e que busquem trazer o máximo de ganhos sociais e econômicos para a população.
+
+“Responsabilidade (Segurança)”
+: Traduzida como a adesão aos mais modernos preceitos de práticas diárias seguras e responsáveis, evitando a exposição de alunos, funcionários e professores a riscos desnecessários em quaisquer áreas da atuação do departamento. Riscos intangíveis também devem ser minimizados;
+
+“Integridade”
+: O departamento entende que só há mérito se os resultados forem construídos em um ambiente em que os conceitos éticos estejam acima de qualquer outro valor. As relações interpessoais, ainda que no ambiente profissionais, devem ser pautadas no departamento pela confiança e pelo profundo respeito humano.
+
+“Inclusão”
+: Entendida pelo departamento como uma obrigação em acolher a todas e todos sem considerar ou diferenciar por gênero, raça, religiosidade ou ateísmo, posição política, nacionalidade, ou qualquer outra característica. No âmbito do departamento apenas o mérito científico e profissional é valorizado. Outras diferenças serão acolhidas e celebradas.
+
+“Colaboração”
+: O departamento valoriza o trabalho em equipe e as colaborações intra e extra departamento, baseadas no princípio da igualdade e da autonomia, que resultem em ganhos líquidos para as partes envolvidas que não seriam obtidos individualmente. Uma cultura de valorização do departamento como um todo que catalise a colaboração em prol do coletivo será sempre estimulada.
+
+“Sustentabilidade” (ambiental, social e financeira)
+: A Humanidade já acumulou conhecimentos suficientes para entender os impactos nefastos de algumas de suas ações sobre o planeta. O departamento entende que não há mais espaço para atividades que agridam o meio ambiente ou que levam a desestabilização do tecido social e/ou ao desperdício de recursos, tão necessários nas mais diversas áreas. As consequências e as perdas colaterais, sejam ambientais sociais ou econômicas, de cada ação devem ser consideradas durante o planejamento e na avaliação continuada de qualquer ação ou projeto departamental.

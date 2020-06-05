@@ -1,0 +1,28 @@
+---
+layout: post
+title:
+  br: VI Semana de Engenharia Física da EEL
+  en: 6th EEL's Engineering Physics Week 
+image: /assets/images/noticias/VI-semef.jpg
+caption:
+  br: "Chamada para a SEMEF"
+  en: "SEMEF call"
+---
+
+{% contentfor br %}
+
+A VI Semana de Engenharia Física (VI SEMEF) da EEL acontecerá entre os dias 23 e 27 de setembro. Confira mais informações na [página do evento].
+
+[página do evento]:https://www.facebook.com/events/501874117055642/
+{: target="\_blank"}
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+The 6th EEL's Engineering Physics Week (VI SEMEF) will take place from September 23rd to 27th. Check out more information on the [event webpage].
+
+[event webpage]:https://www.facebook.com/events/501874117055642/
+{: target="\_blank"}
+
+{% endcontentfor %}

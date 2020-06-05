@@ -1,0 +1,207 @@
+lom:
+
+  - sigla: LOB1003
+    title:
+      br: Cálculo I
+      en:
+
+  - sigla: LOB1018
+    title:
+      br: Física I
+      en:
+
+  - sigla: LOB1036
+    title:
+      br: Geometria Analítica
+      en:
+
+  - sigla: LOB1038
+    title:
+      br: Física Experimental I
+      en:
+
+  - sigla: LOB1045
+    title:
+      br: Leitura e Produção de Textos Acadêmicos
+      en:
+
+  - sigla: LOQ4031
+    title:
+      br: Química Geral I
+      en:
+
+  - sigla: LOB1004
+    title:
+      br: Cálculo II
+      en:
+
+  - sigla: LOB1019
+    title:
+      br: Física II
+      en:
+
+  - sigla: LOB1037
+    title:
+      br: Àlgebra Linear
+      en:
+
+  - sigla: LOB1041
+    title:
+      br: Física Experimental II
+      en:
+
+
+  - sigla: LOQ4073
+    title:
+      br: Química Geral II
+      en:
+
+  - sigla: LOQ4095
+    title:
+      br: Química Geral Experimental
+      en:
+
+  - sigla: LOB1008
+    title:
+      br: Ciência, Tecnologia e Sociedade
+      en:
+
+  - sigla: LOB1012
+    title:
+      br: Estatística
+      en:
+
+  - sigla: LOB1039
+    title:
+      br: Física Experimental III
+      en:
+
+  - sigla: LOB1052
+    title:
+      br: Cálculo III
+      en:
+
+  - sigla: LOB1053
+    title:
+      br: Física III
+      en:
+
+  - sigla: LOB1056
+    title:
+      br: Introdução aos Métodos Numéricos e Computacionais
+      en:
+
+
+  - sigla: LOB1006
+    title:
+      br: Cálculo IV
+      en:
+
+  - sigla: LOB1011
+    title:
+      br: Eletricidade Aplicada
+      en:
+
+  - sigla: LOB1021
+    title:
+      br: Física IV
+      en:
+
+  - sigla: LOB1040
+    title:
+      br: Laboratório de Eletricidade
+      en:
+
+  - sigla: LOB1042
+    title:
+      br: Física Experimental IV
+      en:
+
+
+  - sigla: LOQ4233
+    title:
+      br: Gestão de Negócios
+      en:
+
+  - sigla: LOB1010
+    title:
+      br: Direito  Aplicado à Engenharia
+      en:
+
+  - sigla: LOB1031
+    title:
+      br: Psicologia Organizacional e do Trabalho
+      en:
+
+  - sigla: LOB1055
+    title:
+      br: Fundamentos de Engenharia de Segurança no Trabalho
+      en:
+
+
+  - sigla: LOQ4234
+    title:
+      br: Empreendedorismo
+      en:
+
+
+  - sigla: LOQ4019
+    title:
+      br: Planejamento de Experimentos
+      en:
+
+  - sigla: LOQ4044
+    title:
+      br: Introdução à Engenharia da Qualidade
+      en:
+
+  - sigla: LOQ4046
+    title:
+      br: Gestão da Produção e Logística
+      en:
+
+  - sigla: LOQ4050
+    title:
+      br: Engenharia Econômica
+      en:
+
+  - sigla: LOQ4209
+    title:
+      br: Engenharia da Qualidade I
+      en:
+
+  - sigla: LOQ4235
+    title:
+      br: Tópicos Especiais de Gestão de Negócios
+      en:
+
+  - sigla: LOQ4250
+    title:
+      br: Fundamentos de Administração da Produção
+      en:
+
+  - sigla: LOT2039
+    title:
+      br: Estrutura e Química de Materiais Lignocelulósicos
+      en:
+
+
+  - sigla: LOQ4005
+    title:
+      br: Controle Estatístico de Processos
+      en:
+
+  - sigla: LOQ4008
+    title:
+      br: Gestão Tecnológica
+      en:
+
+  - sigla: LOQ4212
+    title:
+      br: Engenharia da Qualidade II
+      en:
+
+  - sigla: LOT2030
+    title:
+      br: Tecnologia de Conversão de Biomassa Vegetal
+      en:

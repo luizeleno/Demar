@@ -1,0 +1,23 @@
+---
+---
+
+{% include head.html %}
+
+<body>
+
+{% include header.html %}
+
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-9 mx-auto">
+        <div class="clearfix">
+          {{ content }}
+        </div>
+      </div>
+      <div class="col-lg-3 padding-0 hidden-xs">
+        {% include sidebar.html %}
+      </div>
+    </div>
+  </div>
+
+{% include footer.html %}

@@ -1,0 +1,38 @@
+---
+layout: post
+title:
+  br: Computação Científica em Python
+  en: Scientific Computing Python
+image: /assets/images/demar/projeto-software.jpg
+caption:
+  br: "Projeto de software"
+  en: "Software project"
+---
+
+{% contentfor br %}
+
+Os alunos de Engenharia Física do Demar tem a oportunidade de aprender, logo no primeiro semestre do curso, a linguagem de programação que mais cresce no mundo: a linguagem Python, na disciplina **LOM3260 --- Computação Científica em Python.** O responsável pela disciplina, o {% include docente.html docente='eleno' %}, mantém um site com o material disponibilizado aos alunos: [python.computeel.org](https://python.computeel.org){: target="\_blank"}. 
+
+O site foi pensado como uma maneira de divulgar e incentivar o uso de python e software livre pela comunidade em geral. Por isso, o material é acessível de qualquer dispositivo conectado à internet  a partir de qualquer lugar.
+
+A interface do site é de fácil navegação e contém recursos modernos de teste de código, com o apoio do [trinket.io](https://trinket.io){: target="\_blank"}, de forma que o usuário pode testar imediatamente ideias de código python no próprio site.
+
+O material do site ainda está em desenvolvimento, mas o número de páginas completas cresce a cada dia. O *feedback* dos alunos do curso é muito importante para que o conteúdo das páginas seja o mais didático possível, incorporando as principais dúvidas de um iniciante em programação.
+
+A comunidade do Demar espera que o site [python.computeel.org](https://python.computeel.org){: target="\_blank"} venha a ser um auxílio precioso a todos os novatos em programação e que tem dificuldades em encontrar material de qualidade em português.
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+Demar's Engineering Physics students have the opportunity to learn, as early as the first semester of the course, the fastest-growing programming language in the world: the Python language in the course **LOM3260 --- Scientific Computing in Python**. The coordinator of the course, {% include faculty.html docente='eleno' %}, maintains a website with material available to students: [python.computeel.org](https://python.computeel.org){: target="\_blank"}.
+
+The site was designed as a way to promote and encourage the use of python and free software by the wider community. Therefore, the material is accessible from any device connected to the internet from anywhere.
+
+The site interface is easy to navigate and contains modern code testing features, supported by [trinket.io](https://trinket.io){: target="\_blank"}, so that the user can immediately test python code ideas on the site itself.
+
+Website material is still under development, but the number of complete pages grows by the day. Feedback from course students is very important so that the content of the pages is as didactic as possible, incorporating the most usual doubts of a beginner in programming.
+
+The Demar community hopes that [python.computeel.org](https://python.computeel.org){: target="\_blank"} will be a valuable aid to all newcomers in programming who have difficulties in finding quality material in Portuguese.
+
+{% endcontentfor %}

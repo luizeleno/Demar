@@ -1,0 +1,52 @@
+---
+title: Vídeos - o Demar em movimento
+permalink: /videos/
+---
+
+<div class="container">
+
+<h1 class="alert bg-dark text-light">Sobre o departamento</h1>
+
+<div class="row mb-3">
+
+<div class="col-md-6 mb-3">
+  {% include video.html video='-3ViVIdyq-c' id='eel' caption='A Escola de Engenharia de Lorena' %}
+</div>
+
+<div class="col-md-6 mb-3">
+{% include video.html video='779kEqkoB5M' id='infra' caption='Infraestrutura física do Demar' %}
+</div>
+
+<div class="col-md-6 mb-3">
+  {% include video.html video='zoUPgnDtvhU' id='equipamentos' caption='Laboratórios e equipamentos do Demar' %}
+</div>
+
+</div>
+
+</div>
+
+<div class="container">
+
+<h1 class="alert bg-dark text-light">Sobre os cursos de graduação</h1>
+
+<div class="row mb-3">
+
+<div class="col-md-6 mb-3">
+  {% include video.html video='o4VCyQsClZw' id='instEF' caption='Engenharia Física - EEL USP' %}
+</div>
+
+<div class="col-md-6 mb-3">
+  {% include video.html video='LA7OVc307vU' id='instEM' caption='Engenharia de Materiais - EEL USP' img=false %}
+</div>
+
+<div class="col-md-6 mb-3">
+  {% include video.html video='F7RiVnum4w8' id='entrevista' caption='Desafio Profissão: Engenharia Física' %}
+</div>
+
+<div class="col-md-6 mb-3">
+  {% include video.html video='Qge9y10e69c' id='caem' caption='Conheça um pouco mais sobre o CAEM' %}
+</div>
+
+</div>
+
+</div>

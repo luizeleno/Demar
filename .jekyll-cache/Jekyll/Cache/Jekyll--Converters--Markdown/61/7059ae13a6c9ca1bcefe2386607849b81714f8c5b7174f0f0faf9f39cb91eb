@@ -1,0 +1,1589 @@
+I"z�<table class="table table-hover">
+
+
+
+<tr>
+  <td>
+
+<h2>Thermal Analysis Lab</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Bento20Ferreira">
+    Bento Ferreira
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Bento20Ferreira" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Bento Ferreira</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Thermal Analysis Lab</h6>
+          <p>
+          :email: <a href="mailto:ferreira@demar.eel.usp.br">ferreira@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9956
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+<h2>Low temperature Lab</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Bento20Geraldo20da20Silva">
+    Bento Geraldo da Silva
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Bento20Geraldo20da20Silva" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Bento Geraldo da Silva</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Low temperature Lab</h6>
+          <p>
+          :email: <a href="mailto:bentao@demar.eel.usp.br">bentao@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9925
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Domingos20SC3A1vio20dos20Santos20Figueira">
+    Domingos Sávio dos Santos Figueira
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Domingos20SC3A1vio20dos20Santos20Figueira" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Domingos Sávio dos Santos Figueira</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Low temperature Lab</h6>
+          <p>
+          :email: <a href="mailto:savio@demar.eel.usp.br">savio@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9925
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+<h2>Corrosion Lab</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Jorge20Luiz20Rosa">
+    Jorge Luiz Rosa
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Jorge20Luiz20Rosa" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Jorge Luiz Rosa</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Corrosion Lab</h6>
+          <p>
+          :email: <a href="mailto:jlrosa@demar.eel.usp.br">jlrosa@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9940
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+<h2>Electronics Lab</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Rodolfo20JosC3A920Lopes">
+    Rodolfo José Lopes
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Rodolfo20JosC3A920Lopes" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Rodolfo José Lopes</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Electronics Lab</h6>
+          <p>
+          :email: <a href="mailto:rodolfo@demar.eel.usp.br">rodolfo@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9921
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+<h2>Mechanical Testing Lab</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Francisco20de20Paiva20Reis">
+    Francisco de Paiva Reis
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Francisco20de20Paiva20Reis" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Francisco de Paiva Reis</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Mechanical Testing Lab</h6>
+          <p>
+          :email: <a href="mailto:fpaiva@demar.eel.usp.br">fpaiva@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9928
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+<h2>Materialography Lab</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Sergio20Luiz20de20Oliveira">
+    Sergio Luiz de Oliveira
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Sergio20Luiz20de20Oliveira" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Sergio Luiz de Oliveira</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Materialography Lab</h6>
+          <p>
+          :email: <a href="mailto:sergio@demar.eel.usp.br">sergio@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9933
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+<h2>Chemistry Lab</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Renato20HonC3B3rio20GonC3A7alves">
+    Renato Honório Gonçalves
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Renato20HonC3B3rio20GonC3A7alves" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Renato Honório Gonçalves</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Chemistry Lab</h6>
+          <p>
+          :email: <a href="mailto:renato@debiq.eel.usp.br">renato@debiq.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9932
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+<h2>Mechanical Workshop</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Carlos20Roberto20Dainesi20ResponsC3A1vel">
+    Carlos Roberto Dainesi (Responsável)
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Carlos20Roberto20Dainesi20ResponsC3A1vel" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Carlos Roberto Dainesi (Responsável)</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Mechanical Workshop</h6>
+          <p>
+          :email: <a href="mailto:crdainesi@demar.eel.usp.br">crdainesi@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9905
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#JosC3A920Carlos20dos20Santos20I">
+    José Carlos dos Santos I
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="JosC3A920Carlos20dos20Santos20I" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">José Carlos dos Santos I</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Mechanical Workshop</h6>
+          <p>
+          :email: <a href="mailto:"></a><br />
+          :telephone_receiver: +55 12 31
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Luiz20Carlos20Pereira20Barreto">
+    Luiz Carlos Pereira Barreto
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Luiz20Carlos20Pereira20Barreto" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Luiz Carlos Pereira Barreto</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Mechanical Workshop</h6>
+          <p>
+          :email: <a href="mailto:barreto@demar.eel.usp.br">barreto@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9955
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#SebastiC3A3o20Barbosa20de20Souza">
+    Sebastião Barbosa de Souza
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="SebastiC3A3o20Barbosa20de20Souza" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Sebastião Barbosa de Souza</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Mechanical Workshop</h6>
+          <p>
+          :email: <a href="mailto:tiaozinho@demar.eel.usp.br">tiaozinho@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9955
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Valdir20Marcolino20de20Campos">
+    Valdir Marcolino de Campos
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Valdir20Marcolino20de20Campos" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Valdir Marcolino de Campos</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Mechanical Workshop</h6>
+          <p>
+          :email: <a href="mailto:campos@demar.eel.usp.br">campos@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9955
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#AC3ADlton20Rodrigues20da20Silva20Soldagem">
+    Aílton Rodrigues da Silva (Soldagem)
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="AC3ADlton20Rodrigues20da20Silva20Soldagem" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Aílton Rodrigues da Silva (Soldagem)</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Mechanical Workshop</h6>
+          <p>
+          :email: <a href="mailto:ailton@demar.eel.usp.br">ailton@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9948
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+<h2>Maintenance</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Alberto20Amador20Magelo20Vieira">
+    Alberto Amador Magelo Vieira
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Alberto20Amador20Magelo20Vieira" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Alberto Amador Magelo Vieira</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Maintenance</h6>
+          <p>
+          :email: <a href="mailto:amador@demar.eel.usp.br">amador@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9930
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#OtC3A1vio20Barbosa20de20Souza">
+    Otávio Barbosa de Souza
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="OtC3A1vio20Barbosa20de20Souza" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Otávio Barbosa de Souza</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Maintenance</h6>
+          <p>
+          :email: <a href="mailto:otavio@demar.eel.usp.br">otavio@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9941
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Valdir20Pereira">
+    Valdir Pereira
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Valdir20Pereira" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Valdir Pereira</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Maintenance</h6>
+          <p>
+          :email: <a href="mailto:valdir@demar.eel.usp.br">valdir@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9905 &ndash; 59 9930
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+<h2>Secretary</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Maria20Alice20Alves20da20Silva">
+    Maria Alice Alves da Silva
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Maria20Alice20Alves20da20Silva" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Maria Alice Alves da Silva</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Secretary</h6>
+          <p>
+          :email: <a href="mailto:malice@demar.eel.usp.br">malice@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9902
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Giseli20Maria20de20Freitas20SalomC3A3o20Bittencourt20de20Azevedo">
+    Giseli Maria de Freitas Salomão Bittencourt de Azevedo
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Giseli20Maria20de20Freitas20SalomC3A3o20Bittencourt20de20Azevedo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Giseli Maria de Freitas Salomão Bittencourt de Azevedo</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Secretary</h6>
+          <p>
+          :email: <a href="mailto:giseli@demar.eel.usp.br">giseli@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9903
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+<h2>Acquisition Support</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#JoC3A3o20Donizete20Ferreira">
+    João Donizete Ferreira
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="JoC3A3o20Donizete20Ferreira" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">João Donizete Ferreira</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Acquisition Support</h6>
+          <p>
+          :email: <a href="mailto:jdferreira@usp.br">jdferreira@usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9908
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Juliana20Aparecida20de20Souza20Martins20Angelo">
+    Juliana Aparecida de Souza Martins Angelo
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Juliana20Aparecida20de20Souza20Martins20Angelo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Juliana Aparecida de Souza Martins Angelo</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Acquisition Support</h6>
+          <p>
+          :email: <a href="mailto:julianasmangelo@usp.br">julianasmangelo@usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9908
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+</table>
+
+<h1 class="alert text-light bg-dark">Personnel from other sectors allocated to Area II</h1>
+
+<table class="table table-hover">
+
+
+
+<tr>
+  <td>
+
+    <h2>Library</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Tiago20Antunes20Domingos">
+    Tiago Antunes Domingos
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Tiago20Antunes20Domingos" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Tiago Antunes Domingos</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Library</h6>
+          <p>
+          :email: <a href="mailto:tiago@demar.eel.usp.br">tiago@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9923
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Ludmila20Aparecida20Villela20Nunes20Osuna">
+    Ludmila Aparecida Villela Nunes Osuna
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Ludmila20Aparecida20Villela20Nunes20Osuna" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Ludmila Aparecida Villela Nunes Osuna</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Library</h6>
+          <p>
+          :email: <a href="mailto:ludmila@demar.eel.usp.br">ludmila@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9802
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Regina20Maria20Lopes20de20Amorim20e20Silva">
+    Regina Maria Lopes de Amorim e Silva
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Regina20Maria20Lopes20de20Amorim20e20Silva" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Regina Maria Lopes de Amorim e Silva</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Library</h6>
+          <p>
+          :email: <a href="mailto:amorim@demar.eel.usp.br">amorim@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9945
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+    <h2>Informatics Center (IC)</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Jairo20Luiz20Martins20CorrC3AAa">
+    Jairo Luiz Martins Corrêa
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Jairo20Luiz20Martins20CorrC3AAa" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Jairo Luiz Martins Corrêa</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Informatics Center (IC)</h6>
+          <p>
+          :email: <a href="mailto:jairo@ci.eel.usp.br">jairo@ci.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9939
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Felipe20de20Oliveira20Arruda">
+    Felipe de Oliveira Arruda
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Felipe20de20Oliveira20Arruda" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Felipe de Oliveira Arruda</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Informatics Center (IC)</h6>
+          <p>
+          :email: <a href="mailto:felipeoa@usp.br">felipeoa@usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9946
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+    <h2>Graduate Program admin</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#TavC3A2nia20Mara20da20Silva20Ferreira20Cavasso">
+    Tavânia Mara da Silva Ferreira Cavasso
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="TavC3A2nia20Mara20da20Silva20Ferreira20Cavasso" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Tavânia Mara da Silva Ferreira Cavasso</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Graduate Program admin</h6>
+          <p>
+          :email: <a href="mailto:tavania@usp.br">tavania@usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9904
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Rita20de20CC3A1ssia20CorrC3AAa">
+    Rita de Cássia Corrêa
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Rita20de20CC3A1ssia20CorrC3AAa" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Rita de Cássia Corrêa</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Graduate Program admin</h6>
+          <p>
+          :email: <a href="mailto:ritta@usp.br">ritta@usp.br</a><br />
+          :telephone_receiver: +55 12 3159 5016
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+    <h2>Campus Mayor Office admin</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Carlos20Roberto20Bernardo">
+    Carlos Roberto Bernardo
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Carlos20Roberto20Bernardo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Carlos Roberto Bernardo</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Campus Mayor Office admin</h6>
+          <p>
+          :email: <a href="mailto:carobe@demar.eel.usp.br">carobe@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9937
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Vandir20Bernardo">
+    Vandir Bernardo
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Vandir20Bernardo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Vandir Bernardo</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Campus Mayor Office admin</h6>
+          <p>
+          :email: <a href="mailto:vandir@demar.eel.usp.br">vandir@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9906
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Rozeldino20Soares20dos20Santos">
+    Rozeldino Soares dos Santos
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Rozeldino20Soares20dos20Santos" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Rozeldino Soares dos Santos</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Campus Mayor Office admin</h6>
+          <p>
+          :email: <a href="mailto:rozeldino@adm.eel.usp.br">rozeldino@adm.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9955
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Braz20Carlos20da20Silva">
+    Braz Carlos da Silva
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Braz20Carlos20da20Silva" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Braz Carlos da Silva</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Campus Mayor Office admin</h6>
+          <p>
+          :email: <a href="mailto:braz@adm.eel.usp.br">braz@adm.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9955
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Carlos20Antonio20da20Silva">
+    Carlos Antonio da Silva
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Carlos20Antonio20da20Silva" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Carlos Antonio da Silva</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Campus Mayor Office admin</h6>
+          <p>
+          :email: <a href="mailto:carlos@demar.eel.usp.br">carlos@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9901
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Dair20Amaro20dos20Santos">
+    Dair Amaro dos Santos
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Dair20Amaro20dos20Santos" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Dair Amaro dos Santos</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Campus Mayor Office admin</h6>
+          <p>
+          :email: <a href="mailto:dair@adm.eel.usp.br">dair@adm.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9930
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Marco20Antonio20da20Silva">
+    Marco Antonio da Silva
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Marco20Antonio20da20Silva" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Marco Antonio da Silva</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Campus Mayor Office admin</h6>
+          <p>
+          :email: <a href="mailto:"></a><br />
+          :telephone_receiver: +55 12 31
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Osvaldo20Quintino20de20AraC3BAjo">
+    Osvaldo Quintino de Araújo
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Osvaldo20Quintino20de20AraC3BAjo" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Osvaldo Quintino de Araújo</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Campus Mayor Office admin</h6>
+          <p>
+          :email: <a href="mailto:"></a><br />
+          :telephone_receiver: +55 12 31
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Reginaldo20CC3A9sar20da20Silva20Bastos">
+    Reginaldo César da Silva Bastos
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Reginaldo20CC3A9sar20da20Silva20Bastos" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Reginaldo César da Silva Bastos</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Campus Mayor Office admin</h6>
+          <p>
+          :email: <a href="mailto:bastos@demar.eel.usp.br">bastos@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9955
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Roque20Marcelino20de20Amorim">
+    Roque Marcelino de Amorim
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Roque20Marcelino20de20Amorim" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Roque Marcelino de Amorim</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Campus Mayor Office admin</h6>
+          <p>
+          :email: <a href="mailto:roque@adm.eel.usp.br">roque@adm.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 5042
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+    <h2>Undergraduate Program admin</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Everaldo20Pinheiro20Bruno">
+    Everaldo Pinheiro Bruno
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Everaldo20Pinheiro20Bruno" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Everaldo Pinheiro Bruno</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Undergraduate Program admin</h6>
+          <p>
+          :email: <a href="mailto:bruno@demar.eel.usp.br">bruno@demar.eel.usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9800
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+<tr>
+  <td>
+
+    <h2>Research Technical Support</h2>
+
+<ul>
+  
+
+  <!-- Button trigger modal -->
+  <li>
+    <a href="#" data-toggle="modal" data-target="#Gilson20Francisco20de20Oliveira">
+    Gilson Francisco de Oliveira
+    </a>
+  </li>
+
+  <!-- Modal -->
+  <div class="modal fade" id="Gilson20Francisco20de20Oliveira" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+      <div class="modal-content">
+        <div class="modal-header bg-dark text-light">
+          <h5 class="modal-title">Gilson Francisco de Oliveira</h5>
+          <button type="button" class="close text-light" data-dismiss="modal" aria-label="Close">
+            <span aria-hidden="true">&times;</span>
+          </button>
+        </div>
+        <div class="modal-body">
+          <h6>Research Technical Support</h6>
+          <p>
+          :email: <a href="mailto:gilsoncaldas@usp.br">gilsoncaldas@usp.br</a><br />
+          :telephone_receiver: +55 12 3159 9811
+          </p>
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  
+
+</ul>
+
+</td>
+</tr>
+
+
+
+</table>
+:ET

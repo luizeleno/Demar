@@ -1,0 +1,74 @@
+projetos:
+
+  - name: CAEF
+    full_name:
+      br: Centro Acadêmico da Engenharia Física
+      en: Physical Engineering Student Academic Centre
+    id: CAEF
+    content:
+      br: >-
+        O Centro Acadêmico de Engenharia Física (C.A.E.F.) da Escola de Engenharia de Lorena da Universidade de São Paulo - EEL-USP tem por finalidade representar os estudantes do curso de Engenharia Física da EEL-USP, promover a aproximação dos alunos com os corpos docente, discente e técnico-administrativo, organizar eventos ou excursões de caráter científico, cultural ou recreativo, além de garantir a excelência do curso. Para isso, além de outras ações, o CAEF proporciona espaço para sugestões, elogios ou críticas, assim como uma referência aos estudantes ingressantes e veteranos, com materiais de estudo diversos.
+      en: >-
+        The Academic Center of Physical Engineering (CAEF) of the School of Engineering of Lorena of the University of São Paulo &ndash; EEL-USP aims to represent the students of the Physical Engineering course at EEL-USP, to promote the students' approach with the faculty, other students and the technical-administrative staff, organize events or excursions of a scientific, cultural or recreational nature, in addition to ensuring the excellence of the course. For this, in addition to other actions, CAEF provides a space for suggestions, praise or criticism, as well as a reference to freshmen and senior students with several study materials.
+    image: /assets/images/demar/caef.webp
+    link: https://caefusp.wixsite.com/caef
+
+  - name: CAEM
+    full_name:
+      br: Centro Acadêmico da Engenharia de Materiais
+      en: Materials Engineering Student Academic Centre
+    id: CAEM
+    content:
+      br:
+      en:
+    image: /assets/images/demar/caem.jpg
+    link: https://www.facebook.com/caem.demar
+
+  - name: Gamma Jr. Engenharia
+    id: GammaJr
+    content:
+      br: >-
+        A Gamma Jr foi criada em 2017 pelos alunos de engenharia física da USP de Lorena com a missão de incrementar a formação dos engenheiros físicos habilidades que não são desenvolvidas dentro da sala de aula.
+        As empresas juniores buscam por meio da vivencia empresarial, desenvolver um perfil empreendedor nos alunos, preparando-os melhor para o mercado de trabalho e impactando na sociedade e no meio onde atuam.
+        Além de impactar diretamente os alunos nós, temos a visão de disseminar o nome e a qualidade do curso de engenharia física nas empresas. Aproveitando a multidisciplinaridade do curso de engenharia física, nossa empresa possui um portfólio variado, atuando nas áreas de eletrônica, automação e controle de processos e desenvolvimento de sistemas.
+      en:
+    image: /assets/images/demar/gammajr.jpg
+    link: https://www.facebook.com/gammajrengenharia/
+
+  - name: EELRacing
+    id: EELRacing
+    content:
+      br: >-
+        A Equipe EEL Racing existe desde 2012 com participação de alunos dos cursos de graduação da Escola de Engenharia de Lorena (EEL) da USP. Os alunos são oriundos dos cursos de Engenharia Química, Física, de Materiais, Bioquímica, de Produção e Ambiental. A EEL-USP não tem cursos tradicionalmente ligados às atividades automobilísticas, como Mecânica e Elétrica, mostrando mais fortemente o interesse e dinamismo dos alunos envolvidos.
+      en:
+    image: /assets/images/demar/EELRacing.jpg
+    link: https://www.facebook.com/eelracing.fsae.usp/
+
+  - name: AeroEEL
+    id: AeroEEL
+    content:
+      br: >-
+        A AEROEEL é uma entidade estudantil  que conta com uma equipe de alunos de Engenharia envolvidos em projetos de AeroDesign. O programa SAE tem como objetivo fomentar conhecimentos de Engenharia Aeronáutica por meio de aplicações práticas na construção de um aeromodelo de acordo com requisitos pré-estabelecidos e bem especificados. Ao participar desse tipo de evento, o aluno de Engenharia passa por um contato direto com a realização de um projeto de Engenharia, realização de trabalho em grupo, levantamento de recursos, desenvolvimento de habilidades de gestão e de lidar com problemas. Portanto, desde o processo de construção e de projeto do aeromodelo até os quatro dias de competição, os integrantes da Equipe adquirem muitas experiências importantes que certamente os ajudarão a crescer como engenheiros. A equipe AEROEEL visa desenvolver uma aeronave otimizada, em que são criados e ampliados os conhecimentos em várias áreas: Aerodinâmica: Fluidodinâmica Computacional (CFD); Estruturas: Desenvolvimento/Aplicação e manuseio de novos materiais e posterior análise por elementos finitos e testes característicos; Elétrica e Eletrônica: otimização de nossos sistemas, por meio de telemetria obtida através de microcontroladores (Arduino); Gestão de Pessoas: Avaliações Pessoais de Desempenho, Cultura Organizacional, Gestão de Informação e Marketing.
+      en:
+    image: /assets/images/demar/aeroeel.png
+    link: https://www.facebook.com/aeroeel/
+
+  - name: Projeto Criança Feliz
+    id: PCF
+    content:
+      br: >-
+        O PCF é uma iniciativa de alunos e funcionários da Escola de Engenharia de Lorena, fundada com o intuito de levar cidadania e educação para comunidades carentes de Lorena.<br >
+        O “Projeto Criança Feliz - PCF” é um projeto social sem fins lucrativos, com sede no Campus II da EEL que atende a 93 crianças com idade entre 03 e 18 anos, todos os sábados, no período matutino, ministrando aulas de reforço escolar, recreação e passeios culturais.
+        Os voluntários são, em sua maioria, universitários da EEL e de outras instituições de ensino da região, que se dedicam a programar aulas, eventos e outras atividades para oferecer uma opção de crescimento intelectual e social às crianças dos bairros Santa Lucrécia, Fazenda Mondezir e Novo Horizonte. Em nossa página é possível encontrar fotos e conhecer um pouco mais de nossos trabalhos.
+      en:
+    image: /assets/images/demar/pcf.jpg
+    link: https://www.facebook.com/projetocriancafeliz.pcf/
+
+  - name: Show de Ciências
+    id: ShowCiencias
+    content:
+      br: >-
+        O Show de Ciências é uma apresentação teatral divertida onde elementos científicos são apresentados ao público de uma forma simples e coloquial. O objetivo deste projeto é a disseminação da ciência entre jovens e adultos da região. O Grupo é composto por estudantes da EEL que fazem uma apresentação interativa com a plateia.
+      en:
+    image: /assets/images/demar/show-de-ciencias.jpg
+    link: https://site.eel.usp.br/eventos/show-de-ciencias-da-eel

@@ -1,0 +1,973 @@
+# Completo: grades da EF, EM e PPGEM
+# falta: grade do PPGPE
+
+loq:
+
+  - sigla: LOQ4209
+    title:
+      br: Engenharia da Qualidade I
+      en: Quality Engineering I
+
+  - sigla: LOQ4250
+    title:
+      br: Fundamentos de Administração da Produção
+      en: Production Administration Fundamentals
+
+  - sigla: LOQ4050
+    title:
+      br: Engenharia Econômica
+      en: Economic Engineering
+
+  - sigla: LOQ4233
+    title:
+      br: Gestão de Negócios
+      en: Business Management
+
+  - sigla: LOQ4234
+    title:
+      br: Empreendedorismo
+      en: Entrepreneurship
+
+  - sigla: LOQ4031
+    title:
+      br: Química Geral I
+      en: General Chemistry I
+
+  - sigla: LOQ4095
+    title:
+      br: Química Geral Experimental
+      en: Experimental General Chemistry
+
+  - sigla: LOQ4056
+    title:
+      br: Química Analítica para Engenharia
+      en: Analytical Chemistry for Engineering
+
+  - sigla: LOQ4001
+    title:
+      br: Análise Instrumental
+      en: Instrumental Analysis
+
+
+lob:
+
+  - sigla: LOB1012
+    title:
+      br: Estatística
+      en: Statistics
+
+  - sigla: LOB1020
+    title:
+      br: Física III
+      en: Physics III
+
+  - sigla: LOB1021
+    title:
+      br: Física IV
+      en: Physics IV
+
+  - sigla: LOB1033
+    title:
+      br: Álgebra Linear e Cálculo Vetorial
+      en: Linear Algebra and Vector Calculus
+
+  - sigla: LOB1042
+    title:
+      br: Física Experimental IV
+      en: Experimental Physics IV
+
+  - sigla: LOB1016
+    title:
+      br: Física Experimental III
+      en: Experimental Physics III
+
+  - sigla: LOB1024
+    title:
+      br: Mecânica
+      en: Mechanics
+
+  - sigla: LOB1017
+    title:
+      br: Física Experimental IV
+      en: Experimental Physics IV
+
+  - sigla: LOB1003
+    title:
+      br: Cálculo I
+      en: Calculus I
+
+  - sigla: LOB1018
+    title:
+      br: Física I
+      en: Physics I
+
+  - sigla: LOB1036
+    title:
+      br: Geometria Analítica
+      en: Analytical Geometry
+
+  - sigla: LOB1038
+    title:
+      br: Física Experimental I
+      en: Experimental Physics I
+
+  - sigla: LOB1004
+    title:
+      br: Cálculo II
+      en: Calculus II
+
+  - sigla: LOB1019
+    title:
+      br: Física II
+      en: Physics II
+
+  - sigla: LOB1037
+    title:
+      br: Àlgebra Linear
+      en: Linear Algebra
+
+  - sigla: LOB1041
+    title:
+      br: Física Experimental II
+      en: Experimental Physics II
+
+  - sigla: LOB1045
+    title:
+      br: Leitura e Produção de Textos Acadêmicos
+      en: Reading and Writing Academic Reports
+
+  - sigla: LOB1006
+    title:
+      br: Cálculo IV
+      en: Calculus IV
+
+  - sigla: LOB1008
+    title:
+      br: Ciência, Tecnologia e Sociedade
+      en: Science, Technology, and Society
+
+  - sigla: LOB1039
+    title:
+      br: Física Experimental III
+      en: Experimental Physics III
+
+  - sigla: LOB1052
+    title:
+      br: Cálculo III
+      en: Calculus III
+
+  - sigla: LOB1053
+    title:
+      br: Física III
+      en: Physics III
+
+  - sigla: LOB1010
+    title:
+      br: Direito  Aplicado à Engenharia
+      en: Law Applied to Engineering
+
+  - sigla: LOB1031
+    title:
+      br: Psicologia Organizacional e do Trabalho
+      en: Organizational and Work Psychology
+
+lot:
+
+  - sigla: LOT2008
+    title:
+      br: Bioquímica II
+      en: Biochemistry II
+
+lom:
+
+  - sigla: LOM3080
+    title:
+      br: Processos da Indústria Metalúrgica e Siderúrgica
+      en: Processes of Metallurgical and Steel Industry
+
+  - sigla: LOM3022
+    title:
+      br: Materiais para a Indústria Química
+      en: Materials for the Chemical Industry
+
+
+  - sigla: LOM3218
+    title:
+      br: Introdução à Engenharia Física
+      en: Introduction to Physics Engineering
+
+  - sigla: LOM3258
+    title:
+      br: Introdução à Eletrônica e Computação Física
+      en: Introduction to Electronics and Physical Computation
+
+  - sigla: LOM3204
+    title:
+      br: Desenho Técnico e Projeto Assistido por Computador
+      en: Computer-Aided Technical Drawing
+
+  - sigla: LOM3240
+    title:
+      br: Química Inorgânica Fundamental e Aplicada
+      en: Fundamental and Applied Inorganic Chemistry
+
+  - sigla: LOM3260
+    title:
+      br: Computação Científica em Python
+      en: Scientific Computation in Python
+
+  - sigla: LOM3016
+    title:
+      br: Introdução à  Ciência dos Materiais
+      en: Introduction to Materials Science
+
+  - sigla: LOM3236
+    title:
+      br: Processos de Fabricação
+      en: Fabrication Processes
+
+  - sigla: LOM3241
+    title:
+      br: Química de Materiais
+      en: Materials Chemistry
+
+  - sigla: LOM3257
+    title:
+      br: Mecânica Clássica
+      en: Classical Mechanics
+
+  - sigla: LOM3202
+    title:
+      br: Circuitos Elétricos
+      en: Electrical Circuits
+
+  - sigla: LOM3205
+    title:
+      br: Eletromagnetismo
+      en: Electromagnetism
+
+  - sigla: LOM3253
+    title:
+      br: Física Matemática
+      en: Mathematical Physics
+
+  - sigla: LOM3254
+    title:
+      br: Laboratório de Circuitos Elétricos
+      en: Electrical Circuits Lab
+
+  - sigla: LOM3049
+    title:
+      br: Termodinâmica de Máquinas
+      en: Machine Thermodynamics
+
+  - sigla: LOM3206
+    title:
+      br: Eletrônica
+      en: Electronics
+
+  - sigla: LOM3217
+    title:
+      br: Física Estatística
+      en: Statistical Physics
+
+  - sigla: LOM3221
+    title:
+      br: Laboratório de Eletrônica
+      en: Electronics Lab
+
+  - sigla: LOM3226
+    title:
+      br: Mecânica Quântica
+      en: Quantum Mechanics
+
+  - sigla: LOM3227
+    title:
+      br: Métodos Computacionais da Física
+      en: Computational Methods of Physics
+
+  - sigla: LOM3228
+    title:
+      br: Métodos Experimentais da Física I
+      en: Experimental Methods of Physics I
+
+  - sigla: LOM3212
+    title:
+      br: Fenômenos de Transporte A
+      en: Transport Phenomena A
+
+  - sigla: LOM3215
+    title:
+      br: Física do Estado Sólido
+      en: Solid State Physics
+
+  - sigla: LOM3229
+    title:
+      br: Métodos Experimentais da Física II
+      en: Experimental Methods of Physics II
+
+  - sigla: LOM3233
+    title:
+      br: Microprocessadores
+      en: Microprocessors
+
+  - sigla: LOM3234
+    title:
+      br: Óptica Física
+      en: Physicsl Optics
+
+  - sigla: LOM3238
+    title:
+      br: Projeto Integrado I
+      en: Integrated Project I
+
+  - sigla: LOM3246
+    title:
+      br: Técnicas de Caracterização de Materiais
+      en: Materials Characterization  Techniques
+
+  - sigla: LOM3203
+    title:
+      br: Controle e Automação
+      en: Automation and Control
+
+  - sigla: LOM3213
+    title:
+      br: Fenômenos de Transporte B
+      en: Transport Phenomena B
+
+  - sigla: LOM3223
+    title:
+      br: Materiais e Dispositivos Magnéticos e Supercondutores
+      en: Superconductor and Magnetic Materials and Devices
+
+  - sigla: LOM3230
+    title:
+      br: Métodos Experimentais da Física III
+      en: Experimental Methods of Physics III
+
+  - sigla: LOM3216
+    title:
+      br: Física do Meio Ambiente
+      en: Environmental Physics
+
+  - sigla: LOM3231
+    title:
+      br: Métodos Experimentais da Física IV
+      en: Experimental Methods of Physics IV
+
+  - sigla: LOM3239
+    title:
+      br: Projeto Integrado II
+      en: Integrated Project II
+
+  - sigla: LOM3259
+    title:
+      br: Materiais e Dispositivos Eletrônicos
+      en: Electronic Materials and Devices
+
+  - sigla: LOM3243
+    title:
+      br: Seminários em Engenharia Física
+      en: Physics Engineering Seminars
+
+  - sigla: LOM3250
+    title:
+      br: Trabalho de Graduação
+      en: Graduation Project
+
+  - sigla: LOM3210
+    title:
+      br: Estágio Supervisionado
+      en: Supervised Internship
+
+  - sigla: LOM3255
+    title:
+      br: Introdução a Projetos de Engenharia
+      en: Introduction to Engineering Projects
+
+  - sigla: LOM3207
+    title:
+      br: Eletrônica de Potência
+      en: Power Electronics
+
+  - sigla: LOM3208
+    title:
+      br: Eletroquímica
+      en: Electrochemistry
+
+  - sigla: LOM3211
+    title:
+      br: Estruturas e Propriedades de Materiais
+      en: Materials Structure and Properties
+
+  - sigla: LOM3225
+    title:
+      br: Materiais e Dispositivos Semicondutores
+      en: Semiconductors Materials and Devices
+
+  - sigla: LOM3242
+    title:
+      br: Reologia
+      en: Rheology
+
+  - sigla: LOM3248
+    title:
+      br: Tópicos Especiais em Engenharia Física I
+      en: Special Topics in Physics Engineering I
+
+  - sigla: LOM3256
+    title:
+      br: Tópicos em Cálculo de Estrutura Eletrônica dos Materiais
+      en: Topics in Materials Electronic Structure Calculations
+
+  - sigla: LOM3201
+    title:
+      br: Biofísica Molecular
+      en: Molecular Biophysics
+
+  - sigla: LOM3214
+    title:
+      br: Física de Superfícies
+      en: Surface Physics
+
+  - sigla: LOM3222
+    title:
+      br: Materiais e Dispositivos Dielétricos e Piezelétricos
+      en: Dielectric and Piezelectric Materials and Devices
+
+  - sigla: LOM3235
+    title:
+      br: Processamento de Materiais
+      en: Materials Processing
+
+  - sigla: LOM3244
+    title:
+      br: Sensores e Transdutores
+      en: Sensors and Transducers
+
+  - sigla: LOM3249
+    title:
+      br: Tópicos Especiais em Engenharia Física II
+      en: Special Topics in Physics Engineering II
+
+  - sigla: LOM3209
+    title:
+      br: Ensaios não Destrutivos
+      en: Non-destructive Tests
+
+  - sigla: LOM3219
+    title:
+      br: Introdução à Nanotecnologia
+      en: Introduction to Nanotechnology
+
+  - sigla: LOM3220
+    title:
+      br: Introdução à Spintrônica
+      en: Introduction to Spintronics
+
+  - sigla: LOM3224
+    title:
+      br: Materiais e Dispositivos Ópticos e Fotônicos
+      en: Optical and Photonic Materials and Devices
+
+  - sigla: LOM3232
+    title:
+      br: Metrologia
+      en: Metrology
+
+  - sigla: LOM3245
+    title:
+      br: Técnicas Avançadas de Caracterização de Materiais
+      en: Advanced Techniques in Materials Characterization
+
+  - sigla: LOM3247
+    title:
+      br: Técnicas de Análises Espectroscópicas
+      en: Spectroscopic Analysis Techniques
+
+  - sigla: LOM3251
+    title:
+      br: Vibração e Acústica
+      en: Vibration and Acustics
+
+# materiais
+  - sigla: LOM3018
+    title:
+      br: Introdução à Engenharia de Materiais
+      en: Introduction to Materials Engineering
+
+  - sigla: LOM3093
+    title:
+      br: Desenho e Tecnologia Mecânica
+      en: Drawing and Mechanical Technology
+
+  - sigla: LOM3013
+    title:
+      br: Ciência dos Materiais
+      en: Materials Science
+
+  - sigla: LOM3038
+    title:
+      br: Recursos Naturais
+      en: Natural Resources
+
+  - sigla: LOM3037
+    title:
+      br: Química Inorgânica
+      en: Inorganic Chemistry
+
+  - sigla: LOM3056
+    title:
+      br: Fundamentos de Química Orgânica
+      en: Fundamentals of Organic Chemistry
+
+  - sigla: LOM3099
+    title:
+      br: Estática
+      en: Statics
+
+  - sigla: LOM3015
+    title:
+      br: Termodinâmica de Materiais
+      en: Materials Thermodynamics
+
+  - sigla: LOM3081
+    title:
+      br: Introdução à Mecânica dos Sólidos
+      en: Introduction to Solid Mechanics
+
+  - sigla: LOM3100
+    title:
+      br: Dinâmica
+      en: Dynamics
+
+  - sigla: LOM3003
+    title:
+      br: Cinética de Transformação em Materiais
+      en: Kinetics of Transformation in Materials
+
+  - sigla: LOM3005
+    title:
+      br: Diagrama de Fases
+      en: Phase Diagrams
+
+  - sigla: LOM3046
+    title:
+      br: Técnicas de Análise Microestrutural
+      en: Microstructural Analysis Techniques
+
+  - sigla: LOM3057
+    title:
+      br: Introdução aos Materiais Poliméricos
+      en: Introduction to Polymer Materials
+
+  - sigla: LOM3071
+    title:
+      br: Tratamento de Minérios
+      en: Ore Dressing
+
+  - sigla: LOM3082
+    title:
+      br: Cerâmica Física
+      en: Physical Ceramics
+
+  - sigla: LOM3085
+    title:
+      br: Laboratório de Engenharia de Materiais I
+      en: Materials Engineering Lab I
+
+  - sigla: LOM3089
+    title:
+      br: Mecânica dos Fluidos e Reologia
+      en: Fluid Mechanics and Rheology
+
+  - sigla: LOM3011
+    title:
+      br: Ensaios Mecânicos
+      en: Mechanical Tests
+
+  - sigla: LOM3036
+    title:
+      br: Propriedades Mecânicas
+      en: Mechanical Properties
+
+  - sigla: LOM3047
+    title:
+      br: Técnicas de Análise Química
+      en: Chemical Analysis Techniques
+
+  - sigla: LOM3058
+    title:
+      br: Química de Polímeros
+      en: Polymer Chemistry
+
+  - sigla: LOM3072
+    title:
+      br: Hidrometalurgia
+      en: Hydrometallurgy
+
+  - sigla: LOM3083
+    title:
+      br: Fenômenos de Transporte em Engenharia de Materiais
+      en: Transport Phenomena in Materiais Engineering
+
+  - sigla: LOM3086
+    title:
+      br: Laboratório de Engenharia de Materiais II
+      en: Materials Engineering Lab II
+
+  - sigla: LOM3101
+    title:
+      br: Mecânica dos Materiais
+      en: Mechanics of Materials
+
+  - sigla: LOM3004
+    title:
+      br: Conformação Mecânica
+      en: Mechanical Conforming
+
+  - sigla: LOM3008
+    title:
+      br: Eletrometalurgia
+      en: Electrometallurgy
+
+  - sigla: LOM3027
+    title:
+      br: Pirometalurgia
+      en: Pirometallurgy
+
+  - sigla: LOM3048
+    title:
+      br: Tecnologia de Vidros
+      en: Glass Technology
+
+  - sigla: LOM3059
+    title:
+      br: Reologia e Processamento de Polímeros
+      en: Rheology and Polymer Processing
+
+  - sigla: LOM3073
+    title:
+      br: Processamento de Cerâmicas I
+      en: Ceramics Processing I
+
+  - sigla: LOM3087
+    title:
+      br: Laboratório de Engenharia de Materiais III
+      en: Materials Engineering Lab III
+
+  - sigla: LOM3094
+    title:
+      br: Solidificação de Metais
+      en: Solidification of Metals
+
+  - sigla: LOM3096
+    title:
+      br: Propriedades Elétricas, Magnéticas, Térmicas e Ópticas
+      en: Electrical, Magnetic, Thermal and Optical Properties
+
+  - sigla: LOM3006
+    title:
+      br: Degradação e Proteção de Materiais
+      en: Degrading and Protection of Materials
+
+  - sigla: LOM3043
+    title:
+      br: Seleção de Materiais
+      en: Materials Selection
+
+  - sigla: LOM3074
+    title:
+      br: Processamento de Cerâmicas II
+      en: Ceramics Processing II
+
+  - sigla: LOM3084
+    title:
+      br: Inspeção e Ensaios Não Destrutivos
+      en: Inspection and Non-destructive Tests
+
+  - sigla: LOM3088
+    title:
+      br: Laboratório de Engenharia de Materiais IV
+      en: Materials Engineering Lab IV
+
+  - sigla: LOM3095
+    title:
+      br: Materiais, Energia e Tecnologias Limpas
+      en: Materiais, Energy and Clean Technologies
+
+  - sigla: LOM3062
+    title:
+      br: Trabalho de Graduação I
+      en: Graduation Project I
+
+  - sigla: LOM3070
+    title:
+      br: Estágio Supervisionado
+      en: Supervised Internship
+
+  - sigla: LOM3063
+    title:
+      br: Trabalho de Graduação II
+      en: Graduation Project II
+
+  - sigla: LOM3032
+    title:
+      br: Produtos Cerâmicos
+      en: Ceramic Products
+
+  - sigla: LOM3033
+    title:
+      br: Produtos Metálicos
+      en: Metallic Products
+
+  - sigla: LOM3050
+    title:
+      br: Tópicos Especiais em Engenharia de Materiais I
+      en: Special Topics in Materials Engineering I
+
+  - sigla: LOM3065
+    title:
+      br: Tecnologia de Plásticos
+      en: Plastic Technology
+
+  - sigla: LOM3091
+    title:
+      br: Microscopia Eletrônica de Varredura
+      en: Scanning Electron Microscopy
+
+  - sigla: LOM3092
+    title:
+      br: Biomateriais
+      en: Biomaterials
+
+  - sigla: LOM3102
+    title:
+      br: Teoria da Elasticidade Aplicada
+      en: Applied Elasticity Theory
+
+  - sigla: LOM3019
+    title:
+      br: Introdução à Supercondutividade
+      en: Introduction to Superconductivity
+
+  - sigla: LOM3051
+    title:
+      br: Tópicos Especiais em Engenharia de Materiais II
+      en: Special Topics in Materials Engineering II
+
+  - sigla: LOM3053
+    title:
+      br: Tecnologias de Vácuo e Baixa Temperatura
+      en: Vacuum and Low Temperature Technologies
+
+  - sigla: LOM3066
+    title:
+      br: Materiais Compósitos
+      en: Composite Materials
+
+  - sigla: LOM3075
+    title:
+      br: Cerâmicas Refratárias
+      en: Retractory Ceramics
+
+  - sigla: LOM3076
+    title:
+      br: Soldagem
+      en: Welding
+
+  - sigla: LOM3077
+    title:
+      br: Usinagem de Materiais
+      en: Materials Machining
+
+  - sigla: LOM3097
+    title:
+      br: Estágio Avançado em Engenharia de Materiais
+      en: Advanced Internship in Materials Engineering
+
+  - sigla: LOM3098
+    title:
+      br: Tecnologia de Abrasivos
+      en: Technology of Abrasives
+
+  - sigla: LOM3079
+    title:
+      br: Processos da Indústria Mecânica
+      en: Processes of Mechanical Industry
+
+
+###################################################################
+# Pós Graduação
+###################################################################
+
+ppgem:
+
+  - sigla: PEM5100
+    title:
+      br: Didática e Prática do Ensino de Engenharia - PAE
+      en: Didactics and Teaching Practice in Engineering - PAE
+
+  - sigla: PEM5101
+    title:
+      br: Biomateriais
+      en: Biomaterials
+
+  - sigla: PEM5102
+    title:
+      br: Cálculo Termodinâmico de Diagrama de Fases
+      en: Thermodynamic Calculation of Phase Diagrams
+
+  - sigla: PEM5103
+    title:
+      br: Ciência dos Materiais
+      en: Materials Science
+
+  - sigla: PEM5105
+    title:
+      br: Corrosão e Oxidação
+      en: Corrosion and Oxidation
+
+  - sigla: PEM5106
+    title:
+      br: Cristalografia e Difração de Raios-x
+      en: Crystallography and X Ray Diffraction
+
+  - sigla: PEM5107
+    title:
+      br: Diagrama de Fases
+      en: Phase Diagrams
+
+  - sigla: PEM5108
+    title:
+      br: Encruamento, recuperação, recristalização e crescimento de grãos
+      en: Hardening, Recovering, Recrystallization and Grain Growth
+
+  - sigla: PEM5110
+    title:
+      br: Metalurgia Física
+      en: Physical Metallurgy
+
+  - sigla: PEM5111
+    title:
+      br: Microscopia e Microanálise Eletrônica
+      en: Electronical Microscopy and Microanalysis
+
+  - sigla: PEM5112
+    title:
+      br: Processamento de Materiais Cerâmicos
+      en: Ceramic Materials Processing
+
+  - sigla: PEM5113
+    title:
+      br: Técnicas Avançadas de Aquisição e Análise de Dados na Difratometria de Raios-X
+      en: Advanced Techniques on X Ray Diffraction Data Acquisition and Analysis
+
+  - sigla: PEM5116
+    title:
+      br: Introdução à Mecânica Quântica
+      en: Introduction to Quantum Mechanics
+
+  - sigla: PEM5118
+    title:
+      br: Introdução ao Estado Sólido
+      en: Introduction to the Solid State
+
+  - sigla: PEM5121
+    title:
+      br: Supercondutividade Aplicada e Experimental
+      en: Applied and Experimental Superconductivity
+
+  - sigla: PEM5134
+    title:
+      br: Cerâmica Física
+      en: Physical Ceramics
+
+  - sigla: PEM5135
+    title:
+      br: Tecnologia em Materiais Cerâmicos Refratários
+      en: Technoology in Refratory Materials Ceramics
+
+  - sigla: PEM5137
+    title:
+      br: Introdução ao Magnetismo e Materiais Magnéticos
+      en: Introduction to Magnetism and Magnetic Materials
+
+  - sigla: PEM5139
+    title:
+      br: Fadiga dos Materiais Metálicos
+      en: Fatigue in Metallic Materials
+
+  - sigla: PEM5140
+    title:
+      br: Propriedades Térmicas e Mecânicas de Cerâmicas e Vidros
+      en: Thermal and Mechanical Properties of Ceramics and Glasses
+
+  - sigla: PEM5141
+    title:
+      br: Degradação, estabilização, envelhecimento e reciclagem de polímeros
+      en: Degrading, Stabilizing, Aging and Recycling of Polymers
+
+  - sigla: PEM5142
+    title:
+      br: Tópicos Especiais em Materiais Magnéticos e Supercondutores I
+      en: Special Topics in Magnetic and Superconducting Materials I
+
+  - sigla: PEM5143
+    title:
+      br: "Tópicos Especiais em Acoplamentos: Eletromecânico, Magnetomecânico e Termomecânico"
+      en: "Special Topics in Coupling: Electromechanical, Magnetomechanical and Thermomechanical"
+
+  - sigla: PEM5144
+    title:
+      br: Materiais Catalíticos
+      en: Catalytic Materials
+
+  - sigla: PEM5145
+    title:
+      br: Caracterização de Polímeros
+      en: Polymer Characterization
+
+  - sigla: PEM5146
+    title:
+      br: Tópicos Especiais em Materiais Cerâmicos I
+      en: Special Topics in Ceramic Materials I
+
+  - sigla: PEM5147
+    title:
+      br: Caracterização Avançada de Materiais
+      en: Advanced Materials Characterization
+
+# Preciso acrescentar as disciplinas do PPGPE
+ppgpe:
+
+  - sigla: PPE6410
+    title:
+      br: Tópicos Especiais em Energia e Meio Ambiente
+      en: Advanced Topics in Energy and Environment
+
+  - sigla: PPE6403
+    title:
+      br: Tópicos Especiais em Matemática
+      en: Special Topics in Mathematics
+
+  - sigla: PPE6402
+    title:
+      br: Elaboração de Textos, Aulas e Avaliações
+      en: Creation of texts, classes and exams
+
+  - sigla: PPE6401
+    title:
+      br: Planejamento e Gestão de Projetos Educacionais
+      en: Planning and Management of Educational Projects
+
+  - sigla: PPE6405
+    title:
+      br: Projetos Educacionais
+      en: Educational Projects
+
+  - sigla: PPE6408
+    title:
+      br: Tópicos Especiais de Física
+      en: Special Topics in Physics

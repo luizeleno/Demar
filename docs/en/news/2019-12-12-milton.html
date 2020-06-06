@@ -39,10 +39,26 @@
   <script src="/Demar/js//popper.min.js"></script>
   <script src="/Demar/js/bootstrap.min.js"></script>
   <script src="/Demar/forms/form-script.js"></script>
+  <script>
+    
+    var elements = document.querySelectorAll('p');
+    Array.prototype.forEach.call(elements, function(el, i){
+        if(el.innerHTML=='[expand]') {
+            var parentcontent = el.parentNode.innerHTML.replace('<p>[expand]</p>','<div class="expand" style="display: none; height: 0; overflow: hidden;">').replace('<p>[/expand]</p>','</div>');
+            el.parentNode.innerHTML = parentcontent;
+        }
+    });
 
-  <link type="text/css" rel="stylesheet" href="/Demar/js/lightslider/css/lightslider.css" />                  
+    var elements = document.querySelectorAll('div.expand');
+    Array.prototype.forEach.call(elements, function(el, i){
+        el.previousElementSibling.innerHTML = el.previousElementSibling.innerHTML + '<span>..&nbsp; <a href="#" style="cursor: pointer;" onclick="this.parentNode.parentNode.nextElementSibling.style.display = \'block\'; this.parentNode.parentNode.nextElementSibling.style.height = \'auto\'; this.parentNode.style.display = \'none\';">read&nbsp;more&nbsp;&rarr;</a></span>';
+    });
+
+</script>
+
+  <link type="text/css" rel="stylesheet" href="/Demar/js/lightslider/css/lightslider.css" />
   <script src="/Demar/js/lightslider/js/lightslider.js"></script>
- 
+
 </head>
 
 
@@ -232,6 +248,7 @@
   <hr class="top-color-bar" style="background-color:#1094ab;">
 
 </div>
+
 
 <div class="my-0">
   <!--
@@ -538,6 +555,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
 </div>
 
 </div>
+
 
 
   <div class="container">

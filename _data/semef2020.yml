@@ -1,0 +1,121 @@
+menu:
+  - title: Inscrições
+    url: inscricao/
+  - title: Programa
+    url: programa/
+  - title: Palestrantes
+    url: palestrantes/
+  - title: O CAEF
+    url: caef/
+  # - title: Fotos
+    # url: fotos/
+
+seg: 'Segunda-feira 21/09'
+ter: 'Terça-feira 22/09'
+qua: 'Quarta-feira 23/09'
+qui: 'Quinta-feira 24/09'
+sex: 'Sexta-feira 25/09'
+MA: '09:00 - 10:30'
+MB: '11:00 - 12:30'
+TA: '14:00 - 15:30'
+TB: '16:00 - 17:30'
+
+programa:
+
+  - data:
+    id: seg
+    secoes:
+      - horario: MA  # M: manhã; T: tarde; A: 1ª seção; B: 2ª seção
+        id: caef
+      - horario: MB
+        id: eleno
+      - horario: TA
+        id: bohr
+      - horario: TB
+        id: planck
+
+  - data:
+    id: ter
+    secoes:
+      - horario: MA  # M: manhã; T: tarde; A: 1ª seção; B: 2ª seção
+        id: caef
+      - horario: MB
+        id: eleno
+      - horario: TA
+        id: bohr
+      - horario: TB
+        id: planck
+
+  - data:
+    id: qua
+    secoes:
+      - horario: MA  # M: manhã; T: tarde; A: 1ª seção; B: 2ª seção
+        id: caef
+      - horario: MB
+        id: eleno
+      - horario: TA
+        id: bohr
+      - horario: TB
+        id: planck
+
+  - data:
+    id: qui
+    secoes:
+      - horario: MA  # M: manhã; T: tarde; A: 1ª seção; B: 2ª seção
+        id: caef
+      - horario: MB
+        id: eleno
+      - horario: TA
+        id: bohr
+      - horario: TB
+        id: planck
+
+  - data:
+    id: sex
+    secoes:
+      - horario: MA  # M: manhã; T: tarde; A: 1ª seção; B: 2ª seção
+        id: caef
+      - horario: MB
+        id: eleno
+      - horario: TA
+        id: bohr
+      - horario: TB
+        id: planck
+
+
+palestrantes:
+
+  - nome: Max Planck
+    instituicao: U Berlin
+    lattes:
+    cv:
+    titulo: 'Radiação de corpo negro'
+    descricao: A teoria de Planck para a radiação
+    resumo: 'A teoria de Planck para a radiação. Aqui vai o resumo completo.'
+    id: planck
+
+  - nome: Niels Bohr
+    instituicao: U Kopenhagen
+    lattes:
+    cv:
+    titulo: 'O átomo de hidrogênio'
+    descricao: 'Os níveis de energia do átomo de hidrogênio'
+    resumo: 'Os níveis de energia do átomo de hidrogênio'
+    id: bohr
+
+  - nome: Luiz T. F. Eleno
+    instituicao: EEL USP
+    lattes: 2806024249023699
+    cv: Professor Doutor no Departamento de Engenharia de Materiais (Demar) da Escola de Engenharia de Lorena (EEL) da Universidade de São Paulo (USP). Possui graduação em Engenharia Metalúrgica pela Universidade de São Paulo (2001), mestrado em Engenharia Metalúrgica pela Universidade de São Paulo (2003) e doutorado em Engenharia de Materiais pela Universidade de São Paulo (2012). Pesquisador do Max-Planck-Institut für Eisenforschung (Düsseldorf, Alemanha) de 2003 a 2008.
+    titulo: Abertura da VII SEMEF
+    descricao: Palestra de abertura pelo coordenador do curso de Engenharia Física da EEL
+    resumo: Palestra de abertura pelo coordenador do curso de Engenharia Física da EEL
+    id: eleno
+
+  - nome: Comitê organizador
+    lattes:
+    instituicao: EEL-USP
+    titulo: Recepção
+    descricao: 'Testes de conexão e recepção dos inscritos'
+    resumo: 'Testes de conexão e recepção dos inscritos'
+    id: caef

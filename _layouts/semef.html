@@ -1,0 +1,37 @@
+---
+layout: default
+prelink: semef2020
+---
+
+<div class="well">
+
+<nav class="navbar alert navbar-expand-lg navbar-dark bg-dark mb-2" role="navigation">
+  <a class="navbar-brand" href="{{site.baseurl}}/semef2020/">VII SEMEF</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContentSEMEF" aria-controls="navbarSupportedContentSEMEF" aria-expanded="false" aria-label="Toggle navigation SEMEF">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarSupportedContentSEMEF">
+    <ul class="navbar-nav mr-auto">
+      {% for item in site.data.semef2020.menu %}
+      <li class="nav-item">
+        <a class="nav-link" href="{{site.baseurl}}/semef2020/{{ item.url }}">{{ item.title }}{{item.sublinks.size}}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  </div>
+</nav>
+
+{% if page.title %}
+<h1 class="alert bg-dark text-light w-100" style="text-align:left">{{ page.title }}</h1>
+{% endif %}
+
+<div class="clearfix">
+
+<style>
+body {text-align: left;}
+</style>
+
+{{ content }}
+</div>
+
+</div>

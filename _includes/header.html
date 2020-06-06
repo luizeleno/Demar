@@ -85,6 +85,8 @@
 
 </div>
 
+{% unless page.hidecarousel %}
 <div class="my-0">
   {% include carousel.html name='maincarousel' data=site.data.carousel.main modal=true %}
 </div>
+{% endunless %}

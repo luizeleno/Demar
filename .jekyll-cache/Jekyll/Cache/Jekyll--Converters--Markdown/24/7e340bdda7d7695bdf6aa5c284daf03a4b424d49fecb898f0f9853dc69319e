@@ -1,0 +1,87 @@
+I"L<h2 id="atualizado-em-04-de-abril-de-2019">Atualizado em 04 de abril de 2019</h2>
+
+<div class="text-center">
+<figure class="figure">
+  
+  <a href="#" data-toggle="modal" data-target="#a">
+  
+    <img class="figure-img img-fluid rounded mx-auto" src="/Demar/assets/images/demar/ISI-2019-04-03-en.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
+  
+  </a>
+  
+  
+  <figcaption class="figure-caption">
+    Fonte: Web of Science
+  </figcaption>
+  
+
+<!-- Modal -->
+
+<div class="modal fade" id="a" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-light bg-dark">
+        <h5>Fonte: Web of Science</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a id="no-ext-link" href="http://apps.webofknowledge.com" target="_blank">
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/Demar/assets/images/demar/ISI-2019-04-03-en.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
+        </a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</figure>
+</div>
+
+<div class="text-center">
+<figure class="figure">
+  
+  <a href="#" data-toggle="modal" data-target="#b">
+  
+    <img class="figure-img img-fluid rounded mx-auto" src="/Demar/assets/images/demar/ISI-2019-04-03-areas.png" alt="Principais áreas de publicação" title="Principais áreas de publicação" />
+  
+  </a>
+  
+  
+  <figcaption class="figure-caption">
+    Principais áreas de publicação
+  </figcaption>
+  
+
+<!-- Modal -->
+
+<div class="modal fade" id="b" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-light bg-dark">
+        <h5>Principais áreas de publicação</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a id="no-ext-link" href="/assets/images/demar/ISI-2019-04-03-areas.png" target="_blank">
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/Demar/assets/images/demar/ISI-2019-04-03-areas.png" alt="Principais áreas de publicação" title="Principais áreas de publicação" />
+        </a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</figure>
+</div>
+
+:ET

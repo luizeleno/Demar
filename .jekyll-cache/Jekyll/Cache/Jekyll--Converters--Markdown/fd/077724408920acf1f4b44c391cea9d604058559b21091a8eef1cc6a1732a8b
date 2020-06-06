@@ -1,0 +1,239 @@
+I"�;<p>Undergraduate students regularly participate in extension activities, either through the junior company <em>“EEL Jr”,</em> either through individual participation or in groups of extension and consulting projects. Beginning in 2013, with the beginning of the Professional Master’s Degree in Science Educational Projects, undergraduate students have been supporting the extension activities at the Lorena elementary schools. In addition, some extension activities offered and organized by Demar employees and/or students may be highlighted:</p>
+
+<div id="accordion">
+
+  
+
+    <div class="alert bg-dark text-light my-1 collapsed" id="headCAEF" data-toggle="collapse" data-target="#CAEF" aria-expanded="false" aria-controls="CAEF" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> CAEF
+    </div>
+    <div id="CAEF" class="card collapse" aria-labelledby="headCAEF" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title">Physical Engineering Student Academic Centre</h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/Demar/assets/images/demar/caef.webp" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              The Academic Center of Physical Engineering (CAEF) of the School of Engineering of Lorena of the University of São Paulo &ndash; EEL-USP aims to represent the students of the Physical Engineering course at EEL-USP, to promote the students' approach with the faculty, other students and the technical-administrative staff, organize events or excursions of a scientific, cultural or recreational nature, in addition to ensuring the excellence of the course. For this, in addition to other actions, CAEF provides a space for suggestions, praise or criticism, as well as a reference to freshmen and senior students with several study materials.
+            </p>
+            <p>:earth_americas: <a href="https://caefusp.wixsite.com/caef" target="_blank">https://caefusp.wixsite.com/caef</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#CAEF').on('shown.bs.collapse', function () {
+      $('#headCAEF').html('<svg class="octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> CAEF');
+    })
+
+    $('#CAEF').on('hidden.bs.collapse', function () {
+      $('#headCAEF').html('<svg class="octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> CAEF');
+    })
+    </script>
+
+
+
+
+    <div class="alert bg-dark text-light my-1 collapsed" id="headCAEM" data-toggle="collapse" data-target="#CAEM" aria-expanded="false" aria-controls="CAEM" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> CAEM
+    </div>
+    <div id="CAEM" class="card collapse" aria-labelledby="headCAEM" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title">Materials Engineering Student Academic Centre</h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/Demar/assets/images/demar/caem.jpg" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              
+            </p>
+            <p>:earth_americas: <a href="https://www.facebook.com/caem.demar" target="_blank">https://www.facebook.com/caem.demar</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#CAEM').on('shown.bs.collapse', function () {
+      $('#headCAEM').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> CAEM');
+    })
+
+    $('#CAEM').on('hidden.bs.collapse', function () {
+      $('#headCAEM').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> CAEM');
+    })
+    </script>
+
+
+
+
+    <div class="alert bg-dark text-light my-1 collapsed" id="headGammaJr" data-toggle="collapse" data-target="#GammaJr" aria-expanded="false" aria-controls="GammaJr" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Gamma Jr. Engenharia
+    </div>
+    <div id="GammaJr" class="card collapse" aria-labelledby="headGammaJr" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/Demar/assets/images/demar/gammajr.jpg" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              
+            </p>
+            <p>:earth_americas: <a href="https://www.facebook.com/gammajrengenharia/" target="_blank">https://www.facebook.com/gammajrengenharia/</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#GammaJr').on('shown.bs.collapse', function () {
+      $('#headGammaJr').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> Gamma Jr. Engenharia');
+    })
+
+    $('#GammaJr').on('hidden.bs.collapse', function () {
+      $('#headGammaJr').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Gamma Jr. Engenharia');
+    })
+    </script>
+
+
+
+
+    <div class="alert bg-dark text-light my-1 collapsed" id="headEELRacing" data-toggle="collapse" data-target="#EELRacing" aria-expanded="false" aria-controls="EELRacing" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> EELRacing
+    </div>
+    <div id="EELRacing" class="card collapse" aria-labelledby="headEELRacing" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/Demar/assets/images/demar/EELRacing.jpg" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              
+            </p>
+            <p>:earth_americas: <a href="https://www.facebook.com/eelracing.fsae.usp/" target="_blank">https://www.facebook.com/eelracing.fsae.usp/</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#EELRacing').on('shown.bs.collapse', function () {
+      $('#headEELRacing').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> EELRacing');
+    })
+
+    $('#EELRacing').on('hidden.bs.collapse', function () {
+      $('#headEELRacing').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> EELRacing');
+    })
+    </script>
+
+
+
+
+    <div class="alert bg-dark text-light my-1 collapsed" id="headAeroEEL" data-toggle="collapse" data-target="#AeroEEL" aria-expanded="false" aria-controls="AeroEEL" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> AeroEEL
+    </div>
+    <div id="AeroEEL" class="card collapse" aria-labelledby="headAeroEEL" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/Demar/assets/images/demar/aeroeel.png" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              
+            </p>
+            <p>:earth_americas: <a href="https://www.facebook.com/aeroeel/" target="_blank">https://www.facebook.com/aeroeel/</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#AeroEEL').on('shown.bs.collapse', function () {
+      $('#headAeroEEL').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> AeroEEL');
+    })
+
+    $('#AeroEEL').on('hidden.bs.collapse', function () {
+      $('#headAeroEEL').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> AeroEEL');
+    })
+    </script>
+
+
+
+
+    <div class="alert bg-dark text-light my-1 collapsed" id="headPCF" data-toggle="collapse" data-target="#PCF" aria-expanded="false" aria-controls="PCF" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Projeto Criança Feliz
+    </div>
+    <div id="PCF" class="card collapse" aria-labelledby="headPCF" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/Demar/assets/images/demar/pcf.jpg" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              
+            </p>
+            <p>:earth_americas: <a href="https://www.facebook.com/projetocriancafeliz.pcf/" target="_blank">https://www.facebook.com/projetocriancafeliz.pcf/</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#PCF').on('shown.bs.collapse', function () {
+      $('#headPCF').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> Projeto Criança Feliz');
+    })
+
+    $('#PCF').on('hidden.bs.collapse', function () {
+      $('#headPCF').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Projeto Criança Feliz');
+    })
+    </script>
+
+
+
+
+    <div class="alert bg-dark text-light my-1 collapsed" id="headShowCiencias" data-toggle="collapse" data-target="#ShowCiencias" aria-expanded="false" aria-controls="ShowCiencias" style="cursor: pointer;">
+      <svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Show de Ciências
+    </div>
+    <div id="ShowCiencias" class="card collapse" aria-labelledby="headShowCiencias" data-parent="#accordion">
+      <div class="card-body">
+        <h2 class="card-title"></h2>
+        <div class="row">
+          <div class="col-md-4 float-left w-100 mb-2">
+            <img src="/Demar/assets/images/demar/show-de-ciencias.jpg" class="rounded w-100" />
+          </div>
+          <div class="col-md-8">
+            <p>
+              
+            </p>
+            <p>:earth_americas: <a href="https://site.eel.usp.br/eventos/show-de-ciencias-da-eel" target="_blank">https://site.eel.usp.br/eventos/show-de-ciencias-da-eel</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <script>
+    $('#ShowCiencias').on('shown.bs.collapse', function () {
+      $('#headShowCiencias').html('<svg class="octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down octicon octicon-chevron-down" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M5 11L0 6l1.5-1.5L5 8.25 8.5 4.5 10 6l-5 5z"></path></svg> Show de Ciências');
+    })
+
+    $('#ShowCiencias').on('hidden.bs.collapse', function () {
+      $('#headShowCiencias').html('<svg class="octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right octicon octicon-chevron-right" viewBox="0 0 8 16" version="1.1" width="8" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.5 8l-5 5L1 11.5 4.75 8 1 4.5 2.5 3l5 5z"></path></svg> Show de Ciências');
+    })
+    </script>
+
+
+
+
+</div>
+:ET

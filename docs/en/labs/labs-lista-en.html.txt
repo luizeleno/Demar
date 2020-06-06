@@ -1,0 +1,34 @@
+3D Printing Lab
+Abrasive Materials Lab
+Ceramics Lab
+Ceramics Lab - wet methods
+Chemistry Lab - Wet methods
+ComputEEL/MatSci
+Computational Thermodynamics Lab
+Corrosion Lab
+Critical Current Tests Lab
+Dilatometry Lab
+Electrodeposition Lab
+Electron beam Melting Furnace
+Electronic Microscopy Lab
+Electronics Lab
+Encapsulation station
+Extractive Metallurgy Lab
+Fabrication Processes Lab
+Fast Solidification Lab
+High Energy Milling Lab
+Hydrogenation and Milling
+LabRex - Phase Transformation and Solid State Reactions Lab
+Laboratory of New Polymeric Materials
+Laboratory of Polymer Processing and Recycling
+Low Temperatures Lab
+Magnetostriction Lab
+Materialography Lab
+Mechanical Forming Lab
+Mechanical Tests Lab
+Mechanical Workshop: Cutting, Machining, and Welding
+Melting and Heat Treatment Lab
+PPMS (Physical Properties Measurement System)
+Spectrometer and implements
+Thermal Analysis Lab
+X-ray Fluorescence and Diffraction Lab

@@ -128,6 +128,7 @@ defaults:
       type: noticias
     values:
       layout: post
+      lang: br
       image: "/assets/images/demar/Fachada-banner.jpg"
   -
     scope:
@@ -144,7 +145,7 @@ defaults:
         lang: en
   -
     scope:
-      path: "/en/*"
+      path: "en/*"
     values:
       lang: en
 

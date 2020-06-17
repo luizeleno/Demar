@@ -1,6 +1,7 @@
 ---
 title: 2nd Meeting - Technological Frontiers in Engineering
 permalink: /en/fronteiras/
+hidecarousel: true
 ---
 
 <div class="col-md-5 float-md-right">

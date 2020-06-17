@@ -7,7 +7,7 @@ Lattes: 9725501529378304
 ResearcherID: F-2778-2013
 ORCID: 0000-0003-4522-6639
 Scopus: 7003438086
-GoogleScholar: 1OJ_af0AAAAJ
+GoogleScholar: aZmhmfkAAAAJ
 ResearchGate: "Hugo_Sandim"
 
 staff:

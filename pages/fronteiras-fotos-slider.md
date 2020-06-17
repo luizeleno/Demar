@@ -1,10 +1,11 @@
 ---
-title: Segundo Encontro - Fotos 
+title: Segundo Encontro - Fotos
 permalink: /fronteiras2/fotos/
+hidecarousel: true
 ---
 
 <div class="container">
-    
+
 <h2 class="alert alert-primary">Sessões orais</h2>
 
 <ul id="palestras">

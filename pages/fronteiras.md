@@ -1,6 +1,7 @@
 ---
 title: 2° Encontro - Fronteiras tecnológicas em Engenharia
 permalink: /fronteiras/
+hidecarousel: true
 ---
 
 <div class="col-md-5 float-md-right">
@@ -70,7 +71,7 @@ permalink: /fronteiras/
 
             </div>
             <div class="tab-pane fade" id="contact" role="tabpanel" aria-labelledby="contact-tab">
-                
+
                 {% assign lista=site.data.fronteiras.cert-posters %}
                 <h2 class="alert alert-primary">Apresentações de pôster</h2>
                 <ul class="list-group">
@@ -82,7 +83,7 @@ permalink: /fronteiras/
                 {% endif%}
                 {% endfor %}
                 </ul>
-                
+
             </div>
           </div>
 
@@ -104,12 +105,12 @@ permalink: /fronteiras/
 </td>
 </tr>
 <tr>
-<td>    
+<td>
 <a class="btn btn-lg btn-primary my-1" href="{{site.baseurl}}/assets/images/fronteiras-2/booklet_online.pdf" target="\_blank">Caderno de resumos (pdf)</a>
 </td>
 </tr>
 <tr>
-<td>    
+<td>
 <a class="btn btn-lg btn-primary my-1" href="{{site.baseurl}}/fronteiras2/fotos">Fotos</a>
 </td>
 </tr>

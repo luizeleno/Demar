@@ -1,5 +1,5 @@
 ---
-title: Grupos de pesquisa no departamento
+title: Research groups in the department
 permalink: /en/linhas-de-pesquisa/
 ---
 

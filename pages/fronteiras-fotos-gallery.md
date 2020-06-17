@@ -1,6 +1,7 @@
 ---
-title: Segundo Encontro - Fotos 
+title: Segundo Encontro - Fotos
 permalink: /fronteiras2/fotos1/
+hidecarousel: true
 ---
 
 <div class="container">

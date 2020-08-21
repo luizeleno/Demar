@@ -30,6 +30,17 @@ Aqui trabalhamos com desenvolvimento e fabricação de projetos de engenharia.
 - Responsável: <a href="{{site.baseurl}}{{kat[0].url}}">{{kat[0].abrev}} {{kat[0].nome}}</a>
 - Colaborador: <a href="{{site.baseurl}}{{shig[0].url}}">{{shig[0].abrev}} {{shig[0].nome}}</a>
 
+---
+
+## Links
+
+- Página do LabEEL no Facebook: <https://www.facebook.com/usp.labeel/>
+- Grupo do LabEEL no Facebook: <https://www.facebook.com/groups/475162976543578/>
+- Perfil do LabEEL no Instagram: <https://www.instagram.com/labeel.usp/>
+- Canal do LabEEL no YouTube: <https://www.youtube.com/channel/UC9kL6UL-iEq4nJKGs1nezQQ>
+
+---
+
 ## Monitores (Graduação)
 
 ## Ferramentas

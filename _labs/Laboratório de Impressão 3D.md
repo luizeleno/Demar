@@ -29,6 +29,17 @@ Aqui trabalhamos com desenhos e criação de pequenos projetos de engenharia.
 - Colaborador: <a href="{{site.baseurl}}{{shig[0].url}}">{{shig[0].abrev}} {{shig[0].nome}}</a>
 - Monitores (Graduação)
 
+---
+
+## Links
+
+- Página do LabEEL no Facebook: <https://www.facebook.com/usp.labeel/>
+- Grupo do LabEEL no Facebook: <https://www.facebook.com/groups/475162976543578/>
+- Perfil do LabEEL no Instagram: <https://www.instagram.com/labeel.usp/>
+- Canal do LabEEL no YouTube: <https://www.youtube.com/channel/UC9kL6UL-iEq4nJKGs1nezQQ>
+
+---
+
 ## Impressora 3D – Trinus (Kodama)
 
 Impressoras 3D de mesa de nível profissional que podem ser facilmente convertidas em gravadoras a laser.

@@ -86,7 +86,11 @@ layout: default
             <ul>
               {% for lab in site.labs_en %}
               {% if lab.responsavel contains page.short_name %}
-              <li><a href="{{ site.baseurl }}{{ lab.url }}">{{ lab.title.en }}</a></li>
+              {% if lab.page %}
+                <li><a href="{{ site.baseurl }}{{ lab.url }}">{{ lab.title.en }}</a></li>
+              {% else %}
+                <li>{{ lab.title.en }}</li>
+              {% endif %}
                 {% endif %}
               {% endfor %}
             </ul>

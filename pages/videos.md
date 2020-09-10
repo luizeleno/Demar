@@ -32,11 +32,19 @@ permalink: /videos/
 <div class="row mb-3">
 
 <div class="col-md-6 mb-3">
-  {% include video.html video='o4VCyQsClZw' id='instEF' caption='Engenharia Física - EEL USP' %}
+  {% include video.html video='fPPh8xU8qeM' id='prgEF' caption='Engenharia de Materiais - EEL USP (2020)' %}
 </div>
 
 <div class="col-md-6 mb-3">
-  {% include video.html video='LA7OVc307vU' id='instEM' caption='Engenharia de Materiais - EEL USP' img=false %}
+  {% include video.html video='r7OZw8eABsc' id='prgEM' caption='Engenharia de Materiais - EEL USP (2020)' %}
+</div>
+
+<div class="col-md-6 mb-3">
+  {% include video.html video='o4VCyQsClZw' id='instEF' caption='Engenharia Física - EEL USP (2012)' %}
+</div>
+
+<div class="col-md-6 mb-3">
+  {% include video.html video='LA7OVc307vU' id='instEM' caption='Engenharia de Materiais - EEL USP (2012)' img=false %}
 </div>
 
 <div class="col-md-6 mb-3">

@@ -93,24 +93,24 @@ imp3d:
   #   caption: "Impressora 3D Trinus (Kodama)"
   #   link:
   #   id: trina
-  # 
+  #
   # - url: "/assets/images/labs/imp3d/Trinus_02.jpg"
   #   title: "Impressora 3D Trinus (Kodama)"
   #   caption: "Impressora 3D Trinus (Kodama)"
   #   link:
   #   id: trinb
 
-  - url: "/assets/images/labs/imp3d/Trinus_03.jpg"
-    title: "Impressora 3D Trinus (Kodama)"
-    caption: "Impressora 3D Trinus (Kodama)"
-    link:
-    id: trina
+  #- url: "/assets/images/labs/imp3d/Trinus_03.jpg"
+  #  title: "Impressora 3D Trinus (Kodama)"
+  #  caption: "Impressora 3D Trinus (Kodama)"
+  #  link:
+  #  id: trina
 
-  - url: "/assets/images/labs/imp3d/Trinus_04.jpg"
-    title: "Impressora 3D Trinus (Kodama)"
-    caption: "Impressora 3D Trinus (Kodama)"
-    link:
-    id: trinb
+  #- url: "/assets/images/labs/imp3d/Trinus_04.jpg"
+  #  title: "Impressora 3D Trinus (Kodama)"
+  #  caption: "Impressora 3D Trinus (Kodama)"
+  #  link:
+  #  id: trinb
 
   - url: "/assets/images/labs/imp3d/GTMax-core-A3.jpg"
     title: "Impressora GTMax-core-A3"
@@ -141,200 +141,200 @@ espaco-labore:
 
 fabrica-exemplos:
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica-exemplos/IMG_20190613_101420545.jpg-web.jpg
     caption: Projetos do laboratório
-    link: 
+    link:
     id: exa
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162039263.jpg-web.jpg
     caption: Projetos do laboratório
-    link: 
+    link:
     id: exb
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica-exemplos/IMG_20190613_101105607_HDR.jpg-web.jpg
     caption: Projetos do laboratório
-    link: 
+    link:
     id: exc
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162223338.jpg-web.jpg
     caption: Projetos do laboratório
-    link: 
+    link:
     id: exd
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica-exemplos/IMG_20190613_100819974_HDR.jpg-web.jpg
     caption: Projetos do laboratório
-    link: 
+    link:
     id: exe
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162112315.jpg-web.jpg
     caption: Projetos do laboratório
-    link: 
+    link:
     id: exf
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162129150.jpg-web.jpg
     caption: Projetos do laboratório
-    link: 
+    link:
     id: exg
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica-exemplos/IMG_20190613_101131903_HDR.jpg-web.jpg
     caption: Projetos do laboratório
-    link: 
+    link:
     id: exh
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162102985.jpg-web.jpg
     caption: Projetos do laboratório
-    link: 
+    link:
     id: exi
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162257355.jpg-web.jpg
     caption: Projetos do laboratório
-    link: 
+    link:
     id: exj
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica-exemplos/IMG_20190611_162050866.jpg-web.jpg
     caption: Projetos do laboratório
-    link: 
+    link:
     id: exk
 
 fabrica:
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica/Serra-Tico Tico-GST65BE-Bosch.png
     caption: Serra-Tico Tico-GST65BE-Bosch.png
-    link: 
+    link:
     id: fa
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica/Policorte-GCO2000-Bosch.png
     caption: Policorte-GCO2000-Bosch.png
-    link: 
+    link:
     id: fb
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica/Esmerilhadeira-GWS12-125CI-Bosch.png
     caption: Esmerilhadeira-GWS12-125CI-Bosch.png
-    link: 
+    link:
     id: fc
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica/Furadeira-GBM13-2-Bosch.jpg
     caption: Furadeira-GBM13-2-Bosch
-    link: 
+    link:
     id: fd
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica/Serra-mármrore-4100NH2Z-Makita.jpg
     caption: Serra-mármrore-4100NH2Z-Makita
-    link: 
+    link:
     id: fe
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica/Furadeira-HP1630K-Makita.jpg
     caption: Furadeira-HP1630K-Makita
-    link: 
+    link:
     id: ff
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica/kit-de-ferramentas-102peaçs-P-90342-Makita.jpg
     caption: kit-de-ferramentas-102peaçs-P-90342-Makita
-    link: 
+    link:
     id: fg
 
-  - title: 
+  - title:
     url: /assets/images/labs/fabrica/Retificadeira-GD0800C-Makita.jpg
     caption: Retificadeira-GD0800C-Makita
-    link: 
+    link:
     id: fh
 
 cortelaser:
 
-  - title: 
+  - title:
     url: /assets/images/labs/corte-laser/KATTO-Laser-130W.jpg
     caption: KATTO-Laser (130W)
-    link: 
+    link:
     id: cla
 
-  - title: 
+  - title:
     url: /assets/images/labs/corte-laser/KATTO-Laser-130W-detalhe-web.jpg
     caption: KATTO-Laser (130W) - detalhe
-    link: 
+    link:
     id: clb
 
 imp3d-exemplos:
 
-  - title: 
+  - title:
     url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115629820.jpg-web.jpg
-    caption: 
-    link: 
+    caption:
+    link:
     id: 3dexa
 
-  - title: 
+  - title:
     url: /assets/images/labs/imp3d-exemplos/IMG_20190731_120348888.jpg-web.jpg
-    caption: 
-    link: 
+    caption:
+    link:
     id: 3dexb
 
-  - title: 
+  - title:
     url: /assets/images/labs/imp3d-exemplos/IMG_20190731_114911357.jpg-web.jpg
-    caption: 
-    link: 
+    caption:
+    link:
     id: 3dexc
 
-  - title: 
+  - title:
     url: /assets/images/labs/imp3d-exemplos/IMG_20190731_120305992.jpg-web.jpg
-    caption: 
-    link: 
+    caption:
+    link:
     id: 3dexd
 
-  - title: 
+  - title:
     url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115728572.jpg-web.jpg
-    caption: 
-    link: 
+    caption:
+    link:
     id: 3dexe
 
-  - title: 
+  - title:
     url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115616194.jpg-web.jpg
-    caption: 
-    link: 
+    caption:
+    link:
     id: 3dexf
 
-  - title: 
+  - title:
     url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115954152.jpg-web.jpg
     caption:
-    link: 
+    link:
     id: 3dexg
 
-  - title: 
+  - title:
     url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115919515.jpg-web.jpg
-    caption: 
-    link: 
+    caption:
+    link:
     id: 3dexh
 
-  - title: 
+  - title:
     url: /assets/images/labs/imp3d-exemplos/IMG_20190731_120215077.jpg-web.jpg
-    caption: 
-    link: 
+    caption:
+    link:
     id: 3dexi
 
-  - title: 
+  - title:
     url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115701049.jpg-web.jpg
-    caption: 
-    link: 
+    caption:
+    link:
     id: 3dexj
 
-  - title: 
+  - title:
     url: /assets/images/labs/imp3d-exemplos/IMG_20190731_115947435.jpg-web.jpg
     caption:
-    link: 
+    link:
     id: 3dexk

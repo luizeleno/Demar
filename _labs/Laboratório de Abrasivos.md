@@ -6,6 +6,8 @@ responsavel: katia
 page: true
 ---
 
+## :earth_americas: <a href="https://sites.usp.br/abrasivelab/" target="_blank">sites.usp.br/abrasivelab/</a>
+
 {% assign kat = site.docentes | where:'short_name', page.responsavel %}
 {% assign shig = site.docentes | where:'short_name', 'shigue' %}
 

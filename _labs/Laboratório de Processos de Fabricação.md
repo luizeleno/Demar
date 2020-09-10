@@ -13,6 +13,8 @@ page: true
 {% assign katen = site.faculty | where:'short_name', page.responsavel %}
 {% assign shigen = site.faculty | where:'short_name', 'shigue' %}
 
+## :earth_americas: <a href="https://sites.usp.br/labeel/" target="_blank">sites.usp.br/labeel</a>
+
 Bem-vindo ao Laboratório de Processos de Fabricação, coordenado pela <a href="{{site.baseurl}}{{kat[0].url}}">{{kat[0].abrev}} {{kat[0].nome}}</a>.
 
 Aqui trabalhamos com desenvolvimento e fabricação de projetos de engenharia.

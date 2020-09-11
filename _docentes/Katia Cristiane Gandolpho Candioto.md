@@ -16,6 +16,9 @@ short_name: katia
 abrev: Profa. Dra.
 image: katia
 
+webpage: "https://sites.usp.br/labeel/"
+altwebpage: 'https://sites.usp.br/abrasivelab/'
+
 disciplinas:
   lom: [LOM3236, LOM3204, LOM3093, LOM3098, LOM3013, LOM3085, LOM3238]
 

@@ -65,6 +65,10 @@ body {text-align: left;}
       <br />
       :earth_americas: <a href="{{member.webpage}}" target="_blank">{{member.webpage}}</a>
       {% endif %}
+      {% if member.altwebpage %}
+      <br />
+      :earth_americas: <a href="{{member.altwebpage}}" target="_blank">{{member.altwebpage}}</a>
+      {% endif %}
       </p>
       <p><b>Research topics:</b>
       {% for area in member.pesquisa.en%}

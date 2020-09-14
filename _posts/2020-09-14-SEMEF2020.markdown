@@ -1,0 +1,37 @@
+---
+layout: post
+title:
+  br: VII SEMEF - 21-25/09/2020
+  en: VII SEMEF - 21-25 Sept. 2020
+image: /assets/images/semef2020/CronogramaSEMEF-sm.png
+caption:
+  br: "VII SEMEF 2020"
+  en: "VII SEMEF 2020"
+---
+
+{% contentfor br %}
+
+
+A **VII SEMEF - EEL/USP** será um dos maiores eventos nacionais na área em 2020, abordando pontos sensíveis a um(a) Engenheiro(a) Físico(a)
+{: .lead}
+
+Pela primeira vez desde sua primeira edição, o **Centro Acadêmico de Engenharia Física (CAEF)** irá realizar a sua **Semana de Engenharia Física (SEMEF)** de maneira **online** devido à pandemia de COVID-19. Muitos estudantes pensaram que a SEMEF nem sequer aconteceria por conta da pandemia. Porém, graças ao atual Centro Acadêmico (CA), a SEMEF não só irá ocorrer, como também poderá entrar para a história como sendo a melhor SEMEF já realizada pela EEL/USP. Para isso, contará com os profissionais mais renomados da indústria e do meio acadêmico em suas respectivas áreas. Confira a programação na figura que acompanha esta notícia.
+
+**Bônus:** quem comparecer ao evento poderá contar com um brinde exclusivo e personalizado: o copo da VII SEMEF, pensado com muita diligência, tornando o evento ainda mais ímpar.
+
+As inscrições podem ser feitas no [site oficial](https://www.eventbrite.com.br/e/vii-semana-de-engenharia-fisica-semef-eelusp-tickets-118977748649) do evento. Participe e ajude-nos a fazer história!
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+The **VII SEMEF - EEL/USP** will be one of the biggest national events in the area in 2020, addressing sensitive points to an Engineer Physicist
+{: .lead }
+
+For the first time since its first edition, the **Academic Center for Physical Engineering (CAEF)** will hold its **Engineering Physics Week (SEMEF)** online due to the COVID-19 pandemic. Many students thought that SEMEF would not even happen because of the pandemic. However, thanks to the current Academic Center (CA), SEMEF will not only take place, but may also go down in history as being the best SEMEF ever held by EEL/USP. For this, it will have the most renowned professionals in the industry and academia in their respective areas. Check the schedule in the figure that accompanies this news piece.
+
+**Bonus:** whoever attends the event can count on an exclusive and personalized gift: the VII SEMEF cup, thought out with great diligence, making the event even more unique.
+
+Registrations can be made on the event's [official website](https://www.eventbrite.com.br/e/vii-semana-de-engenharia-fisica-semef-eelusp-tickets-118977748649). Take part and help us make history!
+
+{% endcontentfor %}

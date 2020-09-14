@@ -1,4 +1,15 @@
-I"h 
+I"\"
+<div class="card w-100 my-2">
+  <div class="card-body">
+    <div class="col-md-5 float-md-right mb-2">
+      <img class="shadow rounded w-100" src="/assets/images/semef2020/CronogramaSEMEF-sm.png" alt="VII SEMEF 2020" />
+    </div>
+    <a class="stretched-link" href="/en/news/2020-09-14-semef2020.html"><h2 style="text-align:left">VII SEMEF - 21-25 Sept. 2020</h2></a>
+    <h3>09/14/2020</h3>
+    <a class="btn btn-lg btn-primary" href="/en/news/2020-09-14-semef2020.html">Read</a>
+  </div>
+</div>
+
 <div class="card w-100 my-2">
   <div class="card-body">
     <div class="col-md-5 float-md-right mb-2">

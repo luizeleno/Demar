@@ -1,4 +1,15 @@
-I"\"
+I"A$
+<div class="card w-100 my-2">
+  <div class="card-body">
+    <div class="col-md-5 float-md-right mb-2">
+      <img class="shadow rounded w-100" src="/assets/images/noticias/isnaldi.jpg" alt="Parabéns!" />
+    </div>
+    <a class="stretched-link" href="/en/news/2020-10-02-premiotese.html"><h2 style="text-align:left">Capes thesis award to Demar</h2></a>
+    <h3>10/02/2020</h3>
+    <a class="btn btn-lg btn-primary" href="/en/news/2020-10-02-premiotese.html">Read</a>
+  </div>
+</div>
+
 <div class="card w-100 my-2">
   <div class="card-body">
     <div class="col-md-5 float-md-right mb-2">

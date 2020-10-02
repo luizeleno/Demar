@@ -32,7 +32,7 @@ permalink: /videos/
 <div class="row mb-3">
 
 <div class="col-md-6 mb-3">
-  {% include video.html video='fPPh8xU8qeM' id='prgEF' caption='Engenharia de Materiais - EEL USP (2020)' %}
+  {% include video.html video='fPPh8xU8qeM' id='prgEF' caption='Engenharia Física - EEL USP (2020)' %}
 </div>
 
 <div class="col-md-6 mb-3">

@@ -1,4 +1,4 @@
-I"PX<div class="container">
+I"<X<div class="container">
 
 <h1 class="alert bg-dark text-light">Sobre o departamento</h1>
 
@@ -234,10 +234,10 @@ $(document).ready(function(){
   <div class="text-center">
 <figure class="figure">
   <a href="#" data-toggle="modal" data-target="#prgEF">
-    <img class="figure-img img-fluid rounded" src="http://img.youtube.com/vi/fPPh8xU8qeM/0.jpg" alt="Engenharia de Materiais - EEL USP (2020)" title="Engenharia de Materiais - EEL USP (2020)" />
+    <img class="figure-img img-fluid rounded" src="http://img.youtube.com/vi/fPPh8xU8qeM/0.jpg" alt="Engenharia Física - EEL USP (2020)" title="Engenharia Física - EEL USP (2020)" />
   </a>
   <figcaption class="figure-caption">
-    Engenharia de Materiais - EEL USP (2020)
+    Engenharia Física - EEL USP (2020)
   </figcaption>
 
 <!-- Modal -->
@@ -245,7 +245,7 @@ $(document).ready(function(){
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header text-light bg-dark">
-        <h5>Engenharia de Materiais - EEL USP (2020)</h5>
+        <h5>Engenharia Física - EEL USP (2020)</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span class="text-light" aria-hidden="true">&times;</span>
         </button>

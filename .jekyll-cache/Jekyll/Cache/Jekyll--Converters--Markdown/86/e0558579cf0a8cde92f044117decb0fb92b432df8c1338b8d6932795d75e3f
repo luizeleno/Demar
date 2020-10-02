@@ -1,4 +1,15 @@
-I""
+I"�#
+<div class="card w-100 my-2">
+  <div class="card-body">
+    <div class="col-md-5 float-md-right mb-2">
+      <img class="shadow rounded w-100" src="/assets/images/noticias/isnaldi.jpg" alt="Parabéns!" />
+    </div>
+    <a class="stretched-link" href="/news/2020-10-02-premiotese.html"><h2 style="text-align:left">Prêmio Tese Capes no Demar</h2></a>
+    <h3>02/10/2020</h3>
+    <a class="btn btn-lg btn-primary" href="/news/2020-10-02-premiotese.html">Leia</a>
+  </div>
+</div>
+
 <div class="card w-100 my-2">
   <div class="card-body">
     <div class="col-md-5 float-md-right mb-2">

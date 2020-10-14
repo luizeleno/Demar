@@ -116,7 +116,8 @@ body {text-align: left;}
 
       <ul>
         {% for aluno in site.data.adm.conselho.discentes %}
-          <li><b>{{ aluno.nome }}</b> (NUSP {{ aluno.NUSP }})</li>
+          <li>{{ aluno.titular }}</li>
+          <ul><li>Suplente: {{ aluno.vice }}</li></ul>
         {% endfor %}
       </ul>
 
@@ -225,22 +226,22 @@ body {text-align: left;}
 
         <h1 class="alert bg-dark text-light">Representantes do DEMAR nas Comissões de curso da EEL</h1>
 
-        <h2>Comissão de Coordenação do Curso de Engenharia de Materiais – CoC-EM</h2>
-
-        <ul>
-          {% for prof in site.data.comissoes.coc-em %}
-          <li>{% include docente.html docente=prof.membro %}
-            {% if prof.obs %}({{prof.obs}}){% endif %}
-          </li>
-          {% endfor %}
-        </ul>
-
         <h2>Comissão de Coordenação do Curso de Engenharia Física – CoC-EF</h2>
 
         <ul>
           {% for prof in site.data.comissoes.coc-ef %}
           <li>{% include docente.html docente=prof.membro %}
-            {% if prof.obs %}({{prof.obs}}){% endif %}
+            {% if prof.obs %}{{prof.obs}}{% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+
+        <h2>Comissão de Coordenação do Curso de Engenharia de Materiais – CoC-EM</h2>
+
+        <ul>
+          {% for prof in site.data.comissoes.coc-em %}
+          <li>{% include docente.html docente=prof.membro %}
+            {% if prof.obs %} {{prof.obs}}{% endif %}
           </li>
           {% endfor %}
         </ul>

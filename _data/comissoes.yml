@@ -5,8 +5,6 @@ cg:
     vice: katia
 
 cpg:
-  - membro: hugo
-    obs: presidente da CPG
   - membro: cristina
     obs: coordenadora do PPGPEM
   - membro: jeff
@@ -16,31 +14,39 @@ cpg:
 
 coc-em:
   - membro: tiao
-    obs: coordenador
+    obs: (coordenador)
   - membro: cassius
-    obs: vice-coordenador
+    obs: (vice-coordenador)
   - membro: miguel
-    obs: titular
+    obs: (titular)
   - membro: baptista
-    obs: suplente
-  - membro: katia
-    obs: suplente
+    obs: (suplente)
+  - membro: katia 
+    obs: (suplente)
   - membro: viktor
-    obs: suplente
+    obs: (suplente)
+  - membro:
+    obs: Nayara Beatriz de Oliveira Pacheco (representante discente titular)
+  - membro:
+    obs: Gabriel Luan Mattos Fenille (representante discente suplente)
 
 coc-ef:
   - membro: eleno
-    obs: coordenador
+    obs: (coordenador)
   - membro: katia
-    obs: vice-coordenadora
+    obs: (vice-coordenadora)
   - membro: jeff
-    obs: titular
-  - membro: shigue
-    obs: suplente
+    obs: (titular)
+  - membro: emerson
+    obs: (suplente)
   - membro: durval
-    obs: suplente
+    obs: (suplente)
   - membro: mariajose
-    obs: suplente
+    obs: (suplente)
+  - membro:
+    obs: Bruno Brunelo Vieira (representante discente titular)
+  - membro:
+    obs:  Cainan Akira Yano Miranda (representante discente suplente)
 
 coc-eb:
   - membro: pascon

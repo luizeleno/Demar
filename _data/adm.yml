@@ -1,9 +1,9 @@
 chefia:
 
   chefe: jacare
-  vice: hugo
-  eleicao: "06/06/18"
-  mandato: "18/06/18 --- 16/06/20"
+  vice: miguel
+  eleicao: "28/05/2020"
+  mandato: "18/06/2020 --- 17/06/2022"
 
 conselho:
 
@@ -24,8 +24,7 @@ conselho:
     - titular: miguel
       vice: baptista
 
-    - titular: durval
-      vice: susto
+    - titular: susto
 
     - titular: cassius
       vice: vernilli
@@ -33,7 +32,6 @@ conselho:
   doutores:
 
     - titular: katia
-      vice: shigue
 
     - titular: eleno
       vice: paulo
@@ -50,13 +48,13 @@ conselho:
 
   discentes:
 
-    - nome: Enzo Matsumaga
-      NUSP: 10366178
+    - titular: Ronaldo Oliveira Camacho Filho
+      vice: Bruno Gomes Cordeiro
 
   mandatos:
     docentes:
       eleicao: "27/03/2019"
       proclamacao: "29/03/2019"
-      mandato: "22/04/2019 --- 21/04/2021"
+      mandato: "22/04/2019 --- 28/04/2021"
     discentes:
-      mandato: "16/08/18 --- 15/08/19"
+      mandato: "16/08/2020 --- 15/08/2021"

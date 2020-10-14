@@ -1,0 +1,208 @@
+I"<div class="col-md-6 float-md-right mt-2">
+<div class="text-center">
+<figure class="figure">
+  
+  <a href="#" data-toggle="modal" data-target="#aa">
+  
+    <img class="figure-img img-fluid rounded mx-auto" src="/Demar/assets/images/demar/Demar-aereo.jpg" alt="Bird's eye view of the department" title="Bird's eye view of the department" />
+  
+  </a>
+  
+  
+  <figcaption class="figure-caption">
+    Bird's eye view of the department
+  </figcaption>
+  
+
+<!-- Modal -->
+
+<div class="modal fade" id="aa" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-light bg-dark">
+        <h5>Bird's eye view of the department</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a id="no-ext-link" href="/assets/images/demar/Demar-aereo.jpg" target="_blank">
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/Demar/assets/images/demar/Demar-aereo.jpg" alt="Bird's eye view of the department" title="Bird's eye view of the department" />
+        </a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</figure>
+</div>
+
+</div>
+
+<p>The <strong>Materials Engineering Department</strong> (DEMAR) started its activities in 1978 with the <strong>Niobium Project</strong> (check out <a href="/Demar/en/historico/">our story</a>) and since 2006 has joined the  Lorena School of Engineering (<a href="https://site.eel.usp.br/">EEL</a>), one of the Teaching and Research Units of the largest university in Brazil, the <strong>University of São Paulo</strong> (<a href="https://www5.usp.br/">USP</a>).</p>
+
+<p><strong>DEMAR</strong> coordinates and ministers the specific disciplines of undergraduate courses in <strong>Engineering Physics</strong> and <strong>Materials Engineering</strong>, as well as disciplines related to the materials area of ​​the <strong>EEL/USP</strong> Basic Cycle. The  department’s faculty also teach courses and dissertations in the <strong>Graduate Program in Materials Engineering</strong> (master’s and doctorate) and in the <strong>Graduate Program in Educational Sciences Projects</strong> (professional master’s degree).</p>
+
+<p><strong>DEMAR</strong>’s facilities are located in <strong>Area II of EEL/USP</strong>, in the city of Lorena, 200km from São Paulo (<a href="/Demar/en/contact/">access route</a>).</p>
+
+<div class="container">
+
+<h1 class="alert bg-dark text-light">Virtual tour to <abbr title="Materials Engineering Department, Lorena School of Engineering, University of Sao Paulo">Demar :: EEL :: USP</abbr></h1>
+
+<div class="row mb-3">
+
+<div class="col-md-6 mb-3">
+<div class="text-center">
+<figure class="figure">
+  <a href="#" data-toggle="modal" data-target="#demar">
+    <img class="figure-img img-fluid rounded" src="http://img.youtube.com/vi/dhSEwJlq2cM/0.jpg" alt="Materials Engineering Department (Demar)" title="Materials Engineering Department (Demar)" />
+  </a>
+  <figcaption class="figure-caption">
+    Materials Engineering Department (Demar)
+  </figcaption>
+
+<!-- Modal -->
+<div class="modal fade" id="demar" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-light bg-dark">
+        <h5>Materials Engineering Department (Demar)</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <style>
+          .embed-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+          }
+          .embed-container iframe, .embed-container object, .embed-container embed {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          }
+        </style>
+        <div class="embed-container">
+          <iframe id="demarvid" title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/dhSEwJlq2cM" frameborder="0" allowfullscreen="">
+          </iframe>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</figure>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    /* Get iframe src attribute value i.e. YouTube video url
+    and store it in a variable */
+    var url = $("#demarvid").attr('src');
+    /* Assign empty url value to the iframe src attribute when
+    modal hide, which stop the video playing */
+    $("#demar").on('hide.bs.modal', function(){
+        $("#demarvid").attr('src', '');
+    });
+    /* Assign the initially stored url back to the iframe src
+    attribute when modal is displayed again */
+    $("#demar").on('show.bs.modal', function(){
+        $("#demarvid").attr('src', url);
+    });
+});
+</script>
+
+</div>
+
+<div class="col-md-6 mb-3">
+<div class="text-center">
+<figure class="figure">
+  <a href="#" data-toggle="modal" data-target="#eel">
+    <img class="figure-img img-fluid rounded" src="http://img.youtube.com/vi/-3ViVIdyq-c/0.jpg" alt="Lorena School of Engineering (EEL)" title="Lorena School of Engineering (EEL)" />
+  </a>
+  <figcaption class="figure-caption">
+    Lorena School of Engineering (EEL)
+  </figcaption>
+
+<!-- Modal -->
+<div class="modal fade" id="eel" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-light bg-dark">
+        <h5>Lorena School of Engineering (EEL)</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <style>
+          .embed-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+          }
+          .embed-container iframe, .embed-container object, .embed-container embed {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          }
+        </style>
+        <div class="embed-container">
+          <iframe id="eelvid" title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/-3ViVIdyq-c" frameborder="0" allowfullscreen="">
+          </iframe>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+</figure>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    /* Get iframe src attribute value i.e. YouTube video url
+    and store it in a variable */
+    var url = $("#eelvid").attr('src');
+    /* Assign empty url value to the iframe src attribute when
+    modal hide, which stop the video playing */
+    $("#eel").on('hide.bs.modal', function(){
+        $("#eelvid").attr('src', '');
+    });
+    /* Assign the initially stored url back to the iframe src
+    attribute when modal is displayed again */
+    $("#eel").on('show.bs.modal', function(){
+        $("#eelvid").attr('src', url);
+    });
+});
+</script>
+
+</div>
+
+<a class="btn btn-md btn-primary mt-2" href="/Demar/en/videos">More videos</a>
+
+</div>
+
+</div>
+
+:ET

@@ -15,9 +15,6 @@ body {text-align: left;}
     <a class="nav-link" id="cd-tab" data-toggle="tab" href="#cd" role="tab" aria-controls="cd" aria-selected="false">Board</a>
   </li>
   <li class="nav-item">
-    <a class="nav-link" id="comissoes-tab" data-toggle="tab" href="#comissoes" role="tab" aria-controls="comissoes" aria-selected="false">Comissions</a>
-  </li>
-  <li class="nav-item">
     <a class="nav-link" id="coc-tab" data-toggle="tab" href="#coc" role="tab" aria-controls="coc" aria-selected="false">CoCs</a>
   </li>
 </ul>
@@ -117,7 +114,10 @@ body {text-align: left;}
 
       <ul>
         {% for aluno in site.data.adm.conselho.discentes %}
-          <li><b>{{ aluno.nome }}</b> (NUSP {{ aluno.NUSP }})</li>
+        <li>{{ aluno.titular }}</li>
+        <ul>
+          <li>Alternate: {{ aluno.vice }}</li>
+        </ul>
         {% endfor %}
       </ul>
 
@@ -135,143 +135,30 @@ body {text-align: left;}
 
     </div>
 
-    <div class="tab-pane fade" id="comissoes" role="tabpanel" aria-labelledby="comissoes-tab">
+    <div class="tab-pane fade" id="coc" role="tabpanel" aria-labelledby="coc-tab">
 
-      <h1 class="alert bg-dark text-light">Representantes do DEMAR nas Comissões da EEL<h1>
+      <h1 class="alert bg-dark text-light">Comissões de curso do DEMAR</h1>
 
-        <h2>Comissão de Graduação (CG)</h2>
+      <h2>Comissão de Coordenação do Curso de Engenharia Física – CoC-EF</h2>
 
-        <ul>
-          <li>Titular: Prof. Dr. Sebastião Ribeiro</li>
-          <li>Suplente: Profa. Dra. Maria Ismenia Sodero Toledo Faria</li>
-          <li>Titular: Prof. Dr. Prof. Dr. Durval Rodrigues Júnior</li>
-          <li>Suplente: Prof. Dr. Paulo Atsushi Suzuki</li>
-          <li>Mandato de 21/05/2015 a 20/05/2018</li>
-        </ul>
+      <ul>
+        {% for prof in site.data.comissoes.coc-ef %}
+        <li>{% include docente.html docente=prof.membro %}
+          {% if prof.obs %}{{prof.obs}}{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
 
-        <h2>Comissão de Pós-Graduação (CPG)</h2>
+      <h2>Comissão de Coordenação do Curso de Engenharia de Materiais – CoC-EM</h2>
 
-        <ul>
-          <li>Titular: Prof. Dr. Hugo Ricardo Zschommler Sandim (Presidente da CPG)</li>
-          <li>Mandato de 18/03/2017 a 16/03/2019</li>
-        </ul>
+      <ul>
+        {% for prof in site.data.comissoes.coc-em %}
+        <li>{% include docente.html docente=prof.membro %}
+          {% if prof.obs %} {{prof.obs}}{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
 
-        <h2>Comissão de Coordenação do PPGEM</h2>
-
-        <ul>
-          <li>Coordenadora:  Prof.ª Dr.ª Cristina Bormio Nunes</li>
-          <li>Vice-coordenador: Prof. Dr. Luiz Tadeu Fernandes Eleno</li>
-          <li>Representante na CPG: Prof. Dr. Antonio Jefferson da Silva Machado</li>
-          <li>Suplente Repr. na CPG: Prof. Dr. Fernando Vernilli Junior</li>
-          <li>Mandato de 18/03/2019 a 16/03/2021</li>
-        </ul>
-
-        <h2>Comissão de Pesquisa (CPq)</h2>
-
-        <ul>
-          <li>Prof. Dr. Carlos Angelo Nunes – Presidente</li>
-          <li>Mandato: 17/05/2017 a 16/05/2019</li>
-          <li>Representante docente DEMAR:</li>
-          <li>Titular: Prof. Dr. Hugo Ricardo Zschommler Sandim</li>
-          <li>Suplente: Prof. Durval Rodrigues Junior</li>
-          <li>Mandato: 20/05/2016 a 19/05/2019</li>
-        </ul>
-
-        <h2>Comissão de Cultura e Extensão (CCEx)</h2>
-
-        <ul>
-          <li>Prof. Dr. Clodoaldo Saron – Presidente</li>
-          <li>Mandato: 19/05/2017 a 18/05/2019</li>
-          <li>Representante docente DEMAR:</li>
-          <li>Titular: Profa. Dra. Sandra Giacomin Schneider  </li>
-          <li>Mandato: 1905/2016 a 18/05/2019</li>
-          <li>Suplente: Prof. Dr. João Paulo Pascon</li>
-          <li>Mandato: 06/06/2016 a 18/05/2019</li>
-        </ul>
-
-        <h2>Comissão de Relações Internacionais (CRINT)</h2>
-
-        <ul>
-          <li>Titular: Prof. Dr. Carlos Angelo Nunes (presidente)</li>
-          <li>Titular: Prof. Dr. Hugo Ricardo Zschommler Sandim</li>
-          <li>Titular: Prof. Dr. Fábio Herbst Florenzano (vice-presidente)</li>
-        </ul>
-
-        <h2>Comissão do Serviço de Biblioteca e Informação</h2>
-
-        <ul>
-          <li>Titular: Prof. Dr. Luiz Tadeu Fernandes Eleno</li>
-          <li>Suplente: Profª. Drª. Kátia Cristiane Gandolpho Candioto</li>
-          <li>Mandato de 25/07/2016 a 24/07/2018</li>
-        </ul>
-
-      </div>
-
-      <div class="tab-pane fade" id="coc" role="tabpanel" aria-labelledby="coc-tab">
-
-        <h1 class="alert bg-dark text-light">Representantes do DEMAR nas Comissões de curso da EEL</h1>
-
-        <h2>Comissão de Coordenação do Curso de Engenharia de Materiais – CoC-EM</h2>
-
-        <ul>
-          <li>Prof. Dr. Sebastião Ribeiro – Coordenador</li>
-          <li>Profa. Dra. Maria Ismênia Sodero Toledo Faria – Suplente do Coordenador</li>
-          <li>Mandato: 10/03/17 a 09/03/19</li>
-          <li>Representante docente DEMAR:</li>
-          <li>Prof. Dr. Miguel Justino Ribeiro Barboza – Titular</li>
-          <li>Prof. Dr. Viktor Pastoukhov – Suplente</li>
-          <li>Mandato: 28/10/17 a 27/10/20</li>
-          <li>Profa. Dra. Katia Cristiane Gandolpho Candioto - Suplente</li>
-          <li>Mandato: 28/10/15 a 27/10/18</li>
-          <li>Prof. Dr. Luiz Tadeu Fernandes Eleno – Suplente</li>
-          <li>Mandato: 28/10/16 a 27/10/19</li>
-        </ul>
-
-        <h2>Comissão de Coordenação do Curso de Engenharia Física – CoC-EF</h2>
-
-        <ul>
-          <li>Prof. Dr. Durval Rodrigues Junior – Coordenador</li>
-          <li>Prof. Dr. Paulo Atsushi Suzuki – Suplente do Coordenador</li>
-          <li>Mandato: 09/10/17 a 08/10/19</li>
-          <li>Representante docente:</li>
-          <li>Prof. Dr. Durval Rodrigues Junior – Titular</li>
-          <li>Profa. Dra. Maria José Ramos Sandim – Suplente</li>
-          <li>Mandato: 09/10/16 a 08/10/19</li>
-          <li>Prof. Dr. Antonio Jefferson Silva Machado – Titular</li>
-          <li>Prof. Dr. Carlos Yujiro Shigue – Suplente</li>
-          <li>Mandato: 09/10/17 a 08/10/20</li>
-          <li>Prof. Dr. Paulo Atsushi Suzuki – Titular</li>
-          <li>Prof. Dr. Antonio Fernando Sartori – Suplente</li>
-          <li>Mandato: 09/10/15 a 08/10/18</li>
-        </ul>
-
-        <h2>Comissão de Coordenação do Curso do Ciclo Básico – CoC-EB</h2>
-
-        <ul>
-          <li>Representante docente DEMAR:</li>
-          <li>Titular: Prof. Dr. João Paulo Pascon</li>
-          <li>Suplente: Prof. Dr. Viktor Pastoukhov</li>
-          <li>Mandato: 23/10/17 a 22/10/20</li>
-        </ul>
-
-        <h2>Comissão de Coordenação do Curso de Engenharia Qímica – CoC-EQ/N</h2>
-
-        <ul>
-          <li>Representante docente DEMAR:</li>
-          <li>Prof. Dr. Angelo Capri Neto – Titular</li>
-          <li>Prof. Dr. Sergio Schneider – Suplente</li>
-          <li>Mandato: 01/01/17 a 01/01/20</li>
-        </ul>
-
-        <h2>Comissão de Coordenação do Curso de Engenharia Química – CoC-EQ/D</h2>
-
-        <ul>
-          <li>Representante docente DEMAR:</li>
-          <li>Prof. Dr. Sebastião Ribeiro – Titular</li>
-          <li>Prof. Dr. Viktor Pastoukhov – Suplente</li>
-          <li>Mandato: 28/10/15 a 27/10/18</li>
-        </ul>
-
-      </div>
+    </div>
 
     </div>

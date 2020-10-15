@@ -26,9 +26,17 @@ coc-em:
   - membro: viktor
     obs: (suplente)
   - membro:
-    obs: Nayara Beatriz de Oliveira Pacheco (representante discente titular)
+    obs: Profa. Dra. Eliane Corrêa Pedrozo (representante do DEQUI - titular)
   - membro:
-    obs: Gabriel Luan Mattos Fenille (representante discente suplente)
+    obs: Prof. Dr. Livia Melo Carneiro (representante do DEQUI - suplente)
+  - membro:
+    obs: Profa. Dra. Érica Leonor Romão (representante do DEBAS - titular)
+  - membro:
+    obs: Prof. Dr. Fernando Catalani (representante do DEBAS - suplente)
+  - membro:
+    obs: Nayara Beatriz de Oliveira Pacheco (representante discente - titular)
+  - membro:
+    obs: Gabriel Luan Mattos Fenille (representante discente - suplente)
 
 coc-ef:
   - membro: eleno
@@ -44,9 +52,13 @@ coc-ef:
   - membro: mariajose
     obs: (suplente)
   - membro:
-    obs: Bruno Brunelo Vieira (representante discente titular)
+    obs: Prof. Dr. Antonio Iacono (representante do DEQUI - titular)
   - membro:
-    obs:  Cainan Akira Yano Miranda (representante discente suplente)
+    obs: Prof. Paulo César Ribeiro (representante do DEQUI - suplente)
+  - membro:
+    obs: Bruno Brunelo Vieira (representante - discente titular)
+  - membro:
+    obs:  Cainan Akira Yano Miranda (representante - discente suplente)
 
 coc-eb:
   - membro: pascon

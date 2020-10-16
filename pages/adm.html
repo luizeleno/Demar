@@ -138,27 +138,70 @@ permalink: /adm/
 
   <div class="tab-pane fade" id="coc" role="tabpanel" aria-labelledby="coc-tab">
 
+
     <h1 class="alert bg-dark text-light">Comissões de curso do DEMAR</h1>
 
-    <h2>Comissão de Coordenação do Curso de Engenharia Física – CoC-EF</h2>
+    <div class="container">
 
-    <ul>
-      {% for prof in site.data.comissoes.coc-ef %}
-      <li>{% include docente.html docente=prof.membro %}
-        {% if prof.obs %}{{prof.obs}}{% endif %}
-      </li>
-      {% endfor %}
-    </ul>
+      <h2 class="alert bg-dark text-light">Comissão de Coordenação do Curso de Engenharia Física – CoC-EF</h2>
 
-    <h2>Comissão de Coordenação do Curso de Engenharia de Materiais – CoC-EM</h2>
+      <ul>
+        <li> Coordenador: {% include docente.html docente=site.data.comissoes.coc-ef.coordenador %} </li>
+        <ul>
+          <li> Vice: {% include docente.html docente=site.data.comissoes.coc-ef.vice %} </li>
+        </ul>
+      </ul>
 
-    <ul>
-      {% for prof in site.data.comissoes.coc-em %}
-      <li>{% include docente.html docente=prof.membro %}
-        {% if prof.obs %} {{prof.obs}}{% endif %}
-      </li>
-      {% endfor %}
-    </ul>
+      <h3>Composição:</h3>
+
+      <ul>
+        {% for prof in site.data.comissoes.coc-ef.membros %}
+        <li>{% include docente.html docente=prof.titular %}
+          <ul>
+            <li>Suplente: {% include docente.html docente=prof.suplente %}</li>
+          </ul>
+        </li>
+        {% endfor %}
+        {% for rep in site.data.comissoes.coc-ef.outros %}
+        <li>{{ rep.titular }}</li>
+        <ul>
+          <li>Suplente: {{rep.suplente}}</li>
+        </ul>
+        {% endfor %}
+      </ul>
+
+    </div>
+
+    <div class="container">
+
+      <h2 class="alert bg-dark text-light">Comissão de Coordenação do Curso de Engenharia de Materiais – CoC-EM</h2>
+
+      <ul>
+        <li> Coordenador: {% include docente.html docente=site.data.comissoes.coc-em.coordenador %} </li>
+        <ul>
+          <li> Vice: {% include docente.html docente=site.data.comissoes.coc-em.vice %} </li>
+        </ul>
+      </ul>
+
+      <h3>Composição:</h3>
+
+      <ul>
+        {% for prof in site.data.comissoes.coc-em.membros %}
+        <li>{% include docente.html docente=prof.titular %}
+          <ul>
+            <li>Suplente: {% include docente.html docente=prof.suplente %}</li>
+          </ul>
+        </li>
+        {% endfor %}
+        {% for rep in site.data.comissoes.coc-em.outros %}
+        <li>{{ rep.titular }}</li>
+        <ul>
+          <li>Suplente: {{rep.suplente}}</li>
+        </ul>
+        {% endfor %}
+      </ul>
+
+    </div>
 
   </div>
 

@@ -1,3 +1,37 @@
+coc-em:
+  coordenador: tiao
+  vice: cassius
+  membros:
+    - titular: tiao
+      suplente: katia
+    - titular: cassius
+      suplente: baptista
+    - titular: miguel
+      suplente: viktor
+  outros:
+    - titular: Profa. Dra. Eliane Corrêa Pedrozo (representante do DEQUI)
+      suplente: Profa. Dra. Livia Melo Carneiro
+    - titular: Profa. Dra. Érica Leonor Romão (representante do DEBAS)
+      suplente: Prof. Dr. Fernando Catalani
+    - titular: Nayara Beatriz de Oliveira Pacheco (representante discente)
+      suplente: Gabriel Luan Mattos Fenille
+
+coc-ef:
+  coordenador: eleno
+  vice: katia
+  membros:
+    - titular: eleno
+      suplente: durval
+    - titular: katia
+      suplente: mariajose
+    - titular: jeff
+      suplente: emerson
+  outros:
+    - titular: Prof. Dr. Antonio Iacono (representante do DEQUI)
+      suplente: Prof. Paulo César Ribeiro
+    - titular: Bruno Brunelo Vieira (representante discente)
+      suplente: Cainan Akira Yano Miranda
+
 cg:
   - titular: tiao
     vice: ismenia
@@ -11,54 +45,6 @@ cpg:
     obs: representante do PPGEM
   - membro: shigue
     obs: representante do PPGPE
-
-coc-em:
-  - membro: tiao
-    obs: (coordenador)
-  - membro: cassius
-    obs: (vice-coordenador)
-  - membro: miguel
-    obs: (titular)
-  - membro: baptista
-    obs: (suplente)
-  - membro: katia
-    obs: (suplente)
-  - membro: viktor
-    obs: (suplente)
-  - membro:
-    obs: Profa. Dra. Eliane Corrêa Pedrozo (representante do DEQUI - titular)
-  - membro:
-    obs: Prof. Dr. Livia Melo Carneiro (representante do DEQUI - suplente)
-  - membro:
-    obs: Profa. Dra. Érica Leonor Romão (representante do DEBAS - titular)
-  - membro:
-    obs: Prof. Dr. Fernando Catalani (representante do DEBAS - suplente)
-  - membro:
-    obs: Nayara Beatriz de Oliveira Pacheco (representante discente - titular)
-  - membro:
-    obs: Gabriel Luan Mattos Fenille (representante discente - suplente)
-
-coc-ef:
-  - membro: eleno
-    obs: (coordenador)
-  - membro: katia
-    obs: (vice-coordenadora)
-  - membro: jeff
-    obs: (titular)
-  - membro: emerson
-    obs: (suplente)
-  - membro: durval
-    obs: (suplente)
-  - membro: mariajose
-    obs: (suplente)
-  - membro:
-    obs: Prof. Dr. Antonio Iacono (representante do DEQUI - titular)
-  - membro:
-    obs: Prof. Paulo César Ribeiro (representante do DEQUI - suplente)
-  - membro:
-    obs: Bruno Brunelo Vieira (representante - discente titular)
-  - membro:
-    obs:  Cainan Akira Yano Miranda (representante - discente suplente)
 
 coc-eb:
   - membro: pascon

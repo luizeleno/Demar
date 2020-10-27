@@ -1,1 +1,1 @@
-Sitemap: http://www.demar.eel.usp.br/Demar/sitemap.xml
+Sitemap: http://localhost:4000/Demar/sitemap.xml

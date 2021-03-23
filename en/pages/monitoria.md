@@ -30,7 +30,7 @@ List of available classes:
   - **Application period:** March 22 to 26, 2021
 
 <div class="btn-group" role="group" aria-label="Basic example">
-  <a role="button" class="btn btn-primary mr-1" href="{{site.baseurl}}/assets/docs/LOM3005-edital.doc">Norms</a>
+  <a role="button" class="btn btn-primary mr-1" href="{{site.baseurl}}/assets/docs/LOM3005-Edital.doc">Norms</a>
   <a role="button" class="btn btn-primary" href="{{site.baseurl}}/assets/docs/LOM3005-Ficha.doc">Application Form</a>
 </div>
 
@@ -41,6 +41,6 @@ List of available classes:
   - **Application period:** March 22 to 26, 2021
 
 <div class="btn-group" role="group" aria-label="Basic example">
-  <a role="button" class="btn btn-primary mr-1" href="{{site.baseurl}}/assets/docs/LOM3049-edital.doc">Norms</a>
+  <a role="button" class="btn btn-primary mr-1" href="{{site.baseurl}}/assets/docs/LOM3049-Edital.doc">Norms</a>
   <a role="button" class="btn btn-primary" href="{{site.baseurl}}/assets/docs/LOM3049-Ficha.doc">Application Form</a>
 </div>

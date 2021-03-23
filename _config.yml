@@ -25,10 +25,10 @@ description: >- # this means to ignore newlines until "baseurl:"
  Materiais (mestrado e doutorado) e no Programa de Pós Graduação em Projetos
  Educacionais de Ciências (mestrado profissional). As instalações do DEMAR
  localizam-se na Área II da EEL/USP.
-baseurl: /Demar # the subpath of your site, e.g. /blog
+#baseurl: /Demar # the subpath of your site, e.g. /blog
 url: http://www.demar.eel.usp.br # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: "UA-143315747-1"
-# github:  luizeleno
+# github:  luizeleno    
 
 # location of built site:
 destination: docs/ #docs/

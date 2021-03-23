@@ -25,20 +25,20 @@ Consulte abaixo as disciplinas disponíveis:
 
 - LOM3005 - Diagramas de Fases <!-- - <span class='badge badge-warning'>Inscrições encerradas</span> -->
   - **Responsável:** {%include docente.html docente='gilberto'%}
-  - **Inscrições:** 22/03 a 23/03/2021.
+  - **Inscrições:** 22/03 a 26/03/2021.
 
 <div class="btn-group" role="group" aria-label="Basic example">
-  <a role="button" class="btn btn-primary mr-1" href="{{site.baseurl}}/assets/docs/LOM3005-edital.doc">Edital</a>
+  <a role="button" class="btn btn-primary mr-1" href="{{site.baseurl}}/assets/docs/LOM3005-Edital.doc">Edital</a>
   <a role="button" class="btn btn-primary" href="{{site.baseurl}}/assets/docs/LOM3005-Ficha.doc">Ficha de inscrição</a>
 </div>
 
 ---
 
-- LOM3049 - Termodinâmica de Máquinas <!-- - <span class='badge badge-warning'>Inscrições encerradas</span> -->
+- LOM3049 - Termodinâmica de Máquinas  <span class='badge badge-warning'>Inscrições encerradas</span> 
   - **Responsável:** {%include docente.html docente='rosa'%}
-  - **Inscrições:** 22/03 a 23/03/2021.
+  - **Inscrições:** 18/03 a 22/03/2021.
 
 <div class="btn-group" role="group" aria-label="Basic example">
-  <a role="button" class="btn btn-primary mr-1" href="{{site.baseurl}}/assets/docs/LOM3049-edital.doc">Edital</a>
+  <a role="button" class="btn btn-primary mr-1" href="{{site.baseurl}}/assets/docs/LOM3049-Edital.doc">Edital</a>
   <a role="button" class="btn btn-primary" href="{{site.baseurl}}/assets/docs/LOM3049-Ficha.doc">Ficha de inscrição</a>
 </div>

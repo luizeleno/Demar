@@ -1,0 +1,57 @@
+I">	<p class="lead">Seleção de estudantes para monitorias de disciplinas do DEMAR (LOM) — 01/20201</p>
+
+<!-- :x: Inscrições encerradas!
+{: .alert .alert-danger} -->
+
+<p>Consulte abaixo as disciplinas disponíveis:</p>
+
+<ul>
+  <li>LOM3087 - Laboratório de Engenharia de Materiais III
+<!-- - <span class='badge badge-warning'>Inscrições encerradas</span> -->
+    <ul>
+      <li><strong>Responsável:</strong> <!-- usando dummy variable names to avoid possible clashes -->
+<a href="/Demar/docentes/gilberto-carvalho-coelho.html">Prof. Dr. Gilberto Carvalho Coelho</a></li>
+      <li><strong>Inscrições:</strong> 22/03 a 26/03/2021.</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="btn-group" role="group" aria-label="Basic example">
+  <a role="button" class="btn btn-primary mr-1" href="/Demar/assets/docs/LOM3087-edital.doc">Edital</a>
+  <a role="button" class="btn btn-primary" href="/Demar/assets/docs/LOM3087-Ficha.doc">Ficha de inscrição</a>
+</div>
+
+<hr />
+
+<ul>
+  <li>LOM3005 - Diagramas de Fases <!-- - <span class='badge badge-warning'>Inscrições encerradas</span> -->
+    <ul>
+      <li><strong>Responsável:</strong> <!-- usando dummy variable names to avoid possible clashes -->
+<a href="/Demar/docentes/gilberto-carvalho-coelho.html">Prof. Dr. Gilberto Carvalho Coelho</a></li>
+      <li><strong>Inscrições:</strong> 22/03 a 26/03/2021.</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="btn-group" role="group" aria-label="Basic example">
+  <a role="button" class="btn btn-primary mr-1" href="/Demar/assets/docs/LOM3005-Edital.doc">Edital</a>
+  <a role="button" class="btn btn-primary" href="/Demar/assets/docs/LOM3005-Ficha.doc">Ficha de inscrição</a>
+</div>
+
+<hr />
+
+<ul>
+  <li>LOM3049 - Termodinâmica de Máquinas  <span class="badge badge-warning">Inscrições encerradas</span>
+    <ul>
+      <li><strong>Responsável:</strong> <!-- usando dummy variable names to avoid possible clashes -->
+<a href="/Demar/docentes/rosa-ana-conte.html">Profa. Dra. Rosa Ana Conte</a></li>
+      <li><strong>Inscrições:</strong> 18/03 a 22/03/2021.</li>
+    </ul>
+  </li>
+</ul>
+
+<div class="btn-group" role="group" aria-label="Basic example">
+  <a role="button" class="btn btn-primary mr-1" href="/Demar/assets/docs/LOM3049-Edital.doc">Edital</a>
+  <a role="button" class="btn btn-primary" href="/Demar/assets/docs/LOM3049-Ficha.doc">Ficha de inscrição</a>
+</div>
+:ET

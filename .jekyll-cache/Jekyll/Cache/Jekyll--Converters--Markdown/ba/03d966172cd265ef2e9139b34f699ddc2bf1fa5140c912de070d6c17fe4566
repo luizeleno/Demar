@@ -1,0 +1,204 @@
+I"G"<div class="col-md-6 float-md-right mb-2">
+<!--
+uso num tag liquid:
+include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=zzzz
+-->
+
+<div id="reciclapolimer" class="carousel slide" data-ride="carousel">
+
+  <ol class="carousel-indicators">
+    
+    
+    <li data-target="#reciclapolimer" data-slide-to="0" class="active"></li>
+    
+    
+    
+    <li data-target="#reciclapolimer" data-slide-to="1"></li>
+    
+    
+    
+    <li data-target="#reciclapolimer" data-slide-to="2"></li>
+    
+    
+    
+    <li data-target="#reciclapolimer" data-slide-to="3"></li>
+    
+    
+    
+    <li data-target="#reciclapolimer" data-slide-to="4"></li>
+    
+    
+  </ol>
+  <div class="carousel-inner my-0">
+    
+    <div class="carousel-item active">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#reciclapolimerreciclapolimer011">
+        <img class="w-100 img-responsive img-carousel" src="/Demar/assets/images/labs/reciclapolimer/reciclapolimer01.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="reciclapolimerreciclapolimer011" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/reciclapolimer/reciclapolimer01.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/Demar/assets/images/labs/reciclapolimer/reciclapolimer01.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#reciclapolimerreciclapolimer031">
+        <img class="w-100 img-responsive img-carousel" src="/Demar/assets/images/labs/reciclapolimer/reciclapolimer03.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="reciclapolimerreciclapolimer031" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/reciclapolimer/reciclapolimer03.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/Demar/assets/images/labs/reciclapolimer/reciclapolimer03.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#reciclapolimerreciclapolimer021">
+        <img class="w-100 img-responsive img-carousel" src="/Demar/assets/images/labs/reciclapolimer/reciclapolimer02.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="reciclapolimerreciclapolimer021" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/reciclapolimer/reciclapolimer02.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/Demar/assets/images/labs/reciclapolimer/reciclapolimer02.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#reciclapolimerreciclapolimer041">
+        <img class="w-100 img-responsive img-carousel" src="/Demar/assets/images/labs/reciclapolimer/reciclapolimer04.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="reciclapolimerreciclapolimer041" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/reciclapolimer/reciclapolimer04.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/Demar/assets/images/labs/reciclapolimer/reciclapolimer04.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#reciclapolimerreciclapolimer051">
+        <img class="w-100 img-responsive img-carousel" src="/Demar/assets/images/labs/reciclapolimer/reciclapolimer05.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="reciclapolimerreciclapolimer051" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/reciclapolimer/reciclapolimer05.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/Demar/assets/images/labs/reciclapolimer/reciclapolimer05.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+</div>
+
+<h1 id="grupo-de-pesquisa-grpol">Grupo de pesquisa: GRPol</h1>
+
+<h2 id="objetivo-central">Objetivo Central</h2>
+
+<p>Processamento e polímeros termoplásticos e elastômeros por meio das técnicas de lavagem, moagem, aglutinação, extrusão, moldagem por compressão, calandragem e moldagem por injeção.</p>
+:ET

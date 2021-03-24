@@ -3,7 +3,7 @@ title: Monitoria 20201
 permalink: /monitoria/
 ---
 
-Seleção de estudantes para monitorias de disciplinas do DEMAR (LOM) &mdash; 01/20201
+Seleção de estudantes para monitorias de disciplinas do DEMAR (LOM) &mdash; 01/2021
 {: .lead}
 
 <!-- :x: Inscrições encerradas!

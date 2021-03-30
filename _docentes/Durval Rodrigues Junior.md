@@ -16,7 +16,7 @@ Facebook: durvalrodriguesjr
 
 staff:
   br: Professor Titular  (Vice-Diretor da EEL-USP)
-  en: Full Professor (EEL's Vice-Drector)
+  en: Full Professor (EEL's Vice-Director)
 
 short_name: durval
 image: durval

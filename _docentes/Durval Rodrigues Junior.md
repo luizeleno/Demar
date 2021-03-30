@@ -3,7 +3,7 @@ nome: Durval Rodrigues Junior
 NUSP: 6495737
 
 fone: +55 12 3159 9926
-email: durval@demar.eel.usp.br
+email: durvalrj@usp.br
 
 Lattes: 3165974522899237
 ResearcherID: I-9475-2012
@@ -15,8 +15,8 @@ Linkedin: "durval-rodrigues-jr-95670622"
 Facebook: durvalrodriguesjr
 
 staff:
-  br: Professor Titular
-  en: Full Professor
+  br: Professor Titular  (Vice-Diretor da EEL-USP)
+  en: Full Professor (EEL's Vice-Drector)
 
 short_name: durval
 image: durval

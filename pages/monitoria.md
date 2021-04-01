@@ -6,13 +6,12 @@ permalink: /monitoria/
 Seleção de estudantes para monitorias de disciplinas do DEMAR (LOM) &mdash; 01/2021
 {: .lead}
 
-<!-- :x: Inscrições encerradas!
-{: .alert .alert-danger} -->
+:x: Inscrições encerradas!
+{: .alert .alert-danger}
 
 Consulte abaixo as disciplinas disponíveis:
 
-- LOM3087 - Laboratório de Engenharia de Materiais III
-<!-- - <span class='badge badge-warning'>Inscrições encerradas</span> -->
+- LOM3087 - Laboratório de Engenharia de Materiais III <span class='badge badge-warning'>Inscrições encerradas</span> 
   - **Responsável:** {%include docente.html docente='gilberto'%}
   - **Inscrições:** 22/03 a 26/03/2021.
 
@@ -23,7 +22,7 @@ Consulte abaixo as disciplinas disponíveis:
 
 ---
 
-- LOM3005 - Diagramas de Fases <!-- - <span class='badge badge-warning'>Inscrições encerradas</span> -->
+- LOM3005 - Diagramas de Fases <span class='badge badge-warning'>Inscrições encerradas</span> 
   - **Responsável:** {%include docente.html docente='gilberto'%}
   - **Inscrições:** 22/03 a 26/03/2021.
 

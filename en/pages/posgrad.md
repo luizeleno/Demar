@@ -9,10 +9,10 @@ DEMAR's faculty members work in the Postgraduate Courses in **Materials Engineer
 
 <h1 class="alert bg-dark text-light">Graduate Program in Materials Engineering</h1>
 
-<h2> :link: <a href="http://www.ppgem.eel.usp.br" target="_blank">PPGEM</a></h2>
+<h2> :link: <a href="https://sites.usp.br/ppgem-eel" target="_blank">PPGEM</a></h2>
 
 <div class="col-md-12 float-md-none mb-2">
-<a id="no-ext-link" href="http://www.ppgem.eel.usp.br" target="_blank">
+<a id="no-ext-link" href="https://sites.usp.br/ppgem-eel" target="_blank">
 <img style="max-width:100%" src="{{site.baseurl}}/assets/images/demar/ppgem.png" alt="PPGEM" title="PPGEM">
 </a>
 </div>

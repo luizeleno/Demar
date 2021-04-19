@@ -5,8 +5,8 @@ title:
   en: PPGEM student video awarded
 image: /assets/images/noticias/saimon.jpg
 caption:
-  br: "Video"
-  en: "Video"
+  br: "Saimon Domenegheti"
+  en: "Saimon Domenegheti"
 ---
 
 {% contentfor br %}

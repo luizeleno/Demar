@@ -17,7 +17,7 @@ O DEMAR parabeniza o aluno Saimon Domenegheti e o seu orientador {% include doce
 * Playlist com todos os vídeos premiados no canal da Pró-Reitoria de Pesquisa no Youtube:
     * [Escolha do júri](https://www.youtube.com/watch?v=a3OKDKnArr8&list=PLgxFaJapgYyVFjrHwaOTay35ai4t_Ie_L){: target='_blank'}
     * [Escolha do público](https://www.youtube.com/watch?v=L1wQz9SumpA&list=PLgxFaJapgYyUbVuA4d5GDI28_e_EPjDa9){: target='_blank'}
-* [Lista completa de vídeos premiado](http://www.fsp.usp.br/site/wp-content/uploads/2021/04/Vencedores-Flash-Talks-Pagina1.pdf){: target='_blank'}
+* [Lista completa de vídeos premiados](http://www.fsp.usp.br/site/wp-content/uploads/2021/04/Vencedores-Flash-Talks-Pagina1.pdf){: target='_blank'}
 {% endcontentfor %}
 
 {% contentfor en %}

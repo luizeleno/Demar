@@ -1,4 +1,26 @@
-I"*'
+I"+
+<div class="card w-100 my-2">
+  <div class="card-body">
+    <div class="col-md-5 float-md-right mb-2">
+      <img class="shadow rounded w-100" src="/Demar/assets/images/noticias/saimon.jpg" alt="Video" />
+    </div>
+    <a class="stretched-link" href="/Demar/news/2021-04-19-premio-video.html"><h2 style="text-align:left">Vídeo de aluno do PPGEM é premiado</h2></a>
+    <h3>19/04/2021</h3>
+    <a class="btn btn-lg btn-primary" href="/Demar/news/2021-04-19-premio-video.html">Leia</a>
+  </div>
+</div>
+
+<div class="card w-100 my-2">
+  <div class="card-body">
+    <div class="col-md-5 float-md-right mb-2">
+      <img class="shadow rounded w-100" src="/Demar/assets/images/noticias/ppgem.png" alt="PPGEM EEL/USP" />
+    </div>
+    <a class="stretched-link" href="/Demar/news/2021-04-12-ppgem-novo-site.html"><h2 style="text-align:left">PPGEM com novo site</h2></a>
+    <h3>12/04/2021</h3>
+    <a class="btn btn-lg btn-primary" href="/Demar/news/2021-04-12-ppgem-novo-site.html">Leia</a>
+  </div>
+</div>
+
 <div class="card w-100 my-2">
   <div class="card-body">
     <div class="col-md-5 float-md-right mb-2">

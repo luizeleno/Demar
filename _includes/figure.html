@@ -25,7 +25,7 @@
         </button>
       </div>
       <div class="modal-body">
-        <a id="no-ext-link" href="{% if include.link %}{{include.link}}{% else %}{{include.image}}{% endif%}" target="_blank">
+        <a id="no-ext-link" href="{% if include.link %}{{include.link}}{% else %}{{site.baseurl}}{{include.image}}{% endif%}" target="_blank">
         <img class="figure-img img-fluid rounded w-100mx-auto" src="{{site.baseurl}}{{ include.image }}" alt="{{include.caption}}" title="{{include.caption}}">
         </a>
       </div>

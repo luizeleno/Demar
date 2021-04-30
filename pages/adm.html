@@ -80,9 +80,11 @@ permalink: /adm/
       {% assign find_sup = site.docentes | where:'short_name', chapa.vice %}
       {% assign suplente = find_sup[0] %}
       <li><a href="{{site.baseurl}}{{ titular.url }}">{{ titular.abrev }} {{ titular.nome }}</a></li>
+      {%if suplente %}
       <ul>
         <li>Suplente: <a href="{{site.baseurl}}{{ suplente.url }}">{{ suplente.abrev }} {{ suplente.nome }}</a></li>
       </ul>
+      {% endif %}
       {% endfor %}
     </ul>
 
@@ -116,9 +118,11 @@ permalink: /adm/
     <ul>
       {% for aluno in site.data.adm.conselho.discentes %}
       <li>{{ aluno.titular }}</li>
+      {%if aluno.vice %}
       <ul>
         <li>Suplente: {{ aluno.vice }}</li>
       </ul>
+      {% endif %}
       {% endfor %}
     </ul>
 

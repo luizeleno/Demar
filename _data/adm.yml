@@ -15,23 +15,24 @@ conselho:
 
   associados:
 
-    - titular: fabio
-      vice: cristina
+    - titular: cristina
+      vice: 
 
-    - titular: tiao
-      vice: clodoaldo
+    - titular: clodoaldo 
+      vice: 
 
     - titular: miguel
-      vice: baptista
+      vice: 
 
-    - titular: susto
+    - titular: baptista
 
-    - titular: cassius
-      vice: vernilli
+    - titular: fabio
+      vice: 
 
   doutores:
 
     - titular: katia
+      vice: pascon
 
     - titular: eleno
       vice: paulo

@@ -10,7 +10,7 @@ caption:
 ---
 
 {% contentfor br %}
-O DEMAR parabeniza o aluno Saimon Domenegheti e o seu orientador {% include docente.html docente='jacare' %}, pelo reconhecimento recebido em razão do estudo *Efeito da modificação dos teores de Nb e Mo na resistência à oxidação de ligas variantes da liga à base de titânio beta21s*. 
+O DEMAR parabeniza o aluno e Iniciação Científica Saimon Domenegheti e o seu orientador {% include docente.html docente='jacare' %}, pelo reconhecimento recebido em razão do estudo *Efeito da modificação dos teores de Nb e Mo na resistência à oxidação de ligas variantes da liga à base de titânio beta21s*. 
 
 {% include video.html id='premio' caption='Assista ao vídeo' video='2Q-exFTexc8' %}
 
@@ -22,7 +22,7 @@ O DEMAR parabeniza o aluno Saimon Domenegheti e o seu orientador {% include doce
 
 {% contentfor en %}
 
-DEMAR congratulates the student Saimon Domenegheti and his advisor {% include docente.html docente = 'jacare' %}, for the recognition received due to the study *Effect of the modification of Nb and Mo contents on the oxidation resistance of alloys based on beta21s titanium*.
+DEMAR congratulates the undergrad student Saimon Domenegheti and his advisor {% include docente.html docente = 'jacare' %}, for the recognition received due to the study *Effect of the modification of Nb and Mo contents on the oxidation resistance of alloys based on beta21s titanium*.
 
 {% include video.html id='premio' caption='Assista ao vídeo' video='2Q-exFTexc8' %}
 

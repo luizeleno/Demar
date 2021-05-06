@@ -1,8 +1,8 @@
 ---
 layout: post
 title:
-  br: Vídeo de aluno do PPGEM é premiado
-  en: PPGEM student video awarded
+  br: Vídeo de aluno de IC é premiado
+  en: Video from undergrad student awarded
 image: /assets/images/noticias/saimon.jpg
 caption:
   br: "Saimon Domenegheti"

@@ -2,7 +2,7 @@
 nome: Sérgio Schneider
 NUSP:
 fone: +55 12 3159 9929
-email: sergiosch@demar.eel.usp.br
+email: sergio.eel@usp.br
 Lattes: 9557519590142077
 ResearcherID:
 ORCID: 0000-0001-7892-9256

@@ -1,7 +1,7 @@
 ---
 nome: Daniela Camargo Vernilli
 fone: +55 12 3159 9913
-email: daniela.cv@demar.eel.usp.br
+email: daniela.cv@usp.br
 Lattes: 6571249244911733
 ORCID: 0000-0003-0489-1755
 Scopus: 15756793700

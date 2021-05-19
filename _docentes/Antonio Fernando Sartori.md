@@ -1,7 +1,7 @@
 ---
 nome: Antonio Fernando Sartori
 NUSP:
-email: sartori@demar.eel.usp.br
+email: sartori@usp.br
 fone: +55 12 3159 9915
 Lattes: 2944018884246772
 ResearcherID: P38922019

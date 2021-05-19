@@ -2,7 +2,7 @@
 nome: Sandra Giacomin Schneider
 NUSP:
 fone: +55 12 3159 9929
-email: sandra@demar.eel.usp.br
+email: sandra.eel@usp.br
 Lattes: 7614136938412779
 ResearcherID: E-6087-2015
 ORCID: 0000-0002-9379-8351

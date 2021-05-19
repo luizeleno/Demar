@@ -2,7 +2,7 @@
 nome: Hugo Ricardo Zschommler Sandim
 NUSP: 984972
 fone: 55 12 3159 9916
-email: hsandim@demar.eel.usp.br
+email: sandim@usp.br
 Lattes: 9725501529378304
 ResearcherID: F-2778-2013
 ORCID: 0000-0003-4522-6639

@@ -2,7 +2,7 @@
 nome: Carlos Alberto Moreira dos Santos
 NUSP: 6279110
 fone: +55 12 3159-9911
-email: cams@demar.eel.usp.br
+email: cams-eel@usp.br
 Lattes: 6112685121071168
 ResearcherID: C-1619-2012
 ORCID: 

@@ -2,7 +2,7 @@
 nome: Priscila Alves da Silva
 NUSP:
 fone: 55 12 3159 9958
-email: priscila@demar.eel.usp.br
+email: priscila_silva@usp.br
 Lattes: 5723930714112784
 ResearcherID:
 ORCID:

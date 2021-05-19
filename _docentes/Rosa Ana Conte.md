@@ -2,7 +2,7 @@
 nome: Rosa Ana Conte
 NUSP:
 fone: +55 12 3159 9924
-email: rosaconte@demar.eel.usp.br
+email: rosanaconte@usp.br
 Lattes: 3830856273943834
 ResearcherID:
 ORCID: 0000-0003-3376-3584

@@ -44,9 +44,9 @@ Forma um engenheiro com perfil generalista, com sólida base cientifica e tecnol
 
 Forma um engenheiro com perfil para atuar na área de pesquisa e desenvolvimento de materiais com aplicação tecnológica com visão inter e multidisciplinar das áreas tradicionais de Engenharia de Materiais: Metalurgia, Cerâmicas, Polímeros e Compósitos. Os engenheiros de materiais estudam a relação entre a estrutura, as propriedades e o desempenho dos materiais, visando obter novas aplicações ou melhorar a qualidade dos materiais existentes. Do carro aos utensílios de cozinha, do telefone celular aos tecidos das roupas, praticamente tudo tem a intervenção de um profissional de engenharia de materiais. Os engenheiros de materiais atuam em diversos setores industriais: metal-mecânico, indústrias metalúrgicas e siderúrgicas, indústrias de transformação de plásticos, indústrias automobilísticas, indústrias de produção de revestimentos e pisos cerâmicos, indústrias têxteis e de fabricação de fibras sintéticas, indústria aeronáutica e no setor eletro-eletrônico. O Engenheiro de Materiais estará ainda apto à pesquisa, ao desenvolvimento tecnológico e ao desempenho de papéis de liderança na introdução de novas tecnologias, processos e produtos no segmento industrial.
 
-<p><b>Coordenador do curso:</b> {% include docente.html docente='tiao' %}<br />
-:email: <a href="mailto:sebastiao@demar.eel.usp.br">sebastiao@demar.eel.usp.br</a><br />
-:telephone_receiver: +55 12 3159 9803
+<p><b>Coordenador do curso:</b> {% include docente.html docente='ismenia' %}<br />
+:email: <a href="mailto:maria.ismenia@usp.br">maria.ismenia@usp.br</a><br />
+:telephone_receiver: +55 12 3159 9808
 </p>
 
 <a href="https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=88&codcur=88202&codhab=0&tipo=N" target="_blank">Matriz Curricular</a>

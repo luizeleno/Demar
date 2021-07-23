@@ -81,6 +81,10 @@ menu:
           en: Online Systems
         url: /sistemas/
       - title:
+          br: Downloads
+          en: Downloads
+        url: /downloads/
+      - title:
           br: "Fronteiras Tecnológicas em Engenharia" 
           en: "Technological Frontiers in Engineering"
         url: /fronteiras/

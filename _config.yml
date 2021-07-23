@@ -69,6 +69,8 @@ collections:
   news:
     output: true
     permalink: /en/news/:name.html
+  correios:
+    output: false
 
 language: [br, en]
 def_lang: br

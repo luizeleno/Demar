@@ -38,10 +38,10 @@ menu:
           br: Graduação
           en: Undergraduate
         url: /grad/
-      # - title:
-          # br: Oportunidades de Monitoria
-          # en: Tutoring opportunities
-        #url: /monitoria/
+      - title:
+          br: Oportunidades de Monitoria
+          en: Tutoring opportunities
+        url: /monitoria/
       - title:
           br: Pós-Graduação
           en: Graduate

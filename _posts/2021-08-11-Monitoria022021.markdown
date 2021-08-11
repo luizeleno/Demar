@@ -1,0 +1,26 @@
+---
+layout: post
+title:
+  br: Seleção para monitoria 02/2021
+  en: Selection of students for tutoring
+image: /assets/images/noticias/monitoria.webp
+caption:
+  br: "Monitoria 0/2021"
+  en: "Tutoring 0/2021"
+---
+
+{% contentfor br %}
+
+Entre 11 e 15/08/2021, acontece o período de seleção de estudantes para monitoria de algumas disciplinas dos vários cursos da EEL.
+
+A lista de disciplinas do Demar encontra-se na página de [Seleção para monitoria]({{site.baseurl}}/monitoria/).
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+The selection of students for tutoring classes takes place between 11th and 15th August 2021.
+
+Demar's list of classes can be found on the [Selection for monitoring page]({{site.baseurl}}/en/monitoria/).
+
+{% endcontentfor %}

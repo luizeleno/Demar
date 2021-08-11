@@ -1,4 +1,15 @@
-I" +
+I")-
+<div class="card w-100 my-2">
+  <div class="card-body">
+    <div class="col-md-5 float-md-right mb-2">
+      <img class="shadow rounded w-100" src="/Demar/assets/images/noticias/monitoria.webp" alt="Monitoria 0/2021" />
+    </div>
+    <a class="stretched-link" href="/Demar/news/2021-08-11-monitoria022021.html"><h2 style="text-align:left">Seleção para monitoria 02/2021</h2></a>
+    <h3>11/08/2021</h3>
+    <a class="btn btn-lg btn-primary" href="/Demar/news/2021-08-11-monitoria022021.html">Leia</a>
+  </div>
+</div>
+
 <div class="card w-100 my-2">
   <div class="card-body">
     <div class="col-md-5 float-md-right mb-2">

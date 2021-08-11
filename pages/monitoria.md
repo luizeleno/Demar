@@ -12,8 +12,8 @@ disciplinas:
     nome: Técnicas de Análise Química
     docente: angelo
     periodo: 12 a 17 de agosto de 2021
-    edital: LOM3047-edital.pdf
-    ficha: LOM3047-ficha.pdf
+    edital: LOM3047.pdf
+    ficha:
   - 
     sigla: LOM3049
     nome: Termodinâmica de Máquinas

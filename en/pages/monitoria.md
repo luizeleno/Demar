@@ -2,7 +2,7 @@
 title: Monitoria 20201
 permalink: /en/monitoria/
 
-encerrado: false
+encerrado: true
 
 periodo: 02/2021
 

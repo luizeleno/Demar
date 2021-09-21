@@ -13,8 +13,8 @@ coc-em:
       suplente: Profa. Dra. Livia Melo Carneiro
     - titular: Profa. Dra. Érica Leonor Romão (representante do DEBAS)
       suplente: Prof. Dr. Fernando Catalani
-    - titular: Nayara Beatriz de Oliveira Pacheco (representante discente)
-      suplente: Gabriel Luan Mattos Fenille
+    - titular: Gabriel Rufo Trovijo (representante discente)
+      suplente: Guilherme Bresser Ribeiro
 
 coc-ef:
   coordenador: eleno
@@ -29,8 +29,8 @@ coc-ef:
   outros:
     - titular: Prof. Dr. Antonio Iacono (representante do DEQUI)
       suplente: Prof. Paulo César Ribeiro
-    - titular: Bruno Brunelo Vieira (representante discente)
-      suplente: Cainan Akira Yano Miranda
+    - titular: Vinicius Gabriel Gomes de Albuquerque (representante discente)
+      suplente: Geovani Augusto Xavier Ribeiro
 
 cg:
   - titular: tiao
@@ -81,5 +81,5 @@ crint:
     obs: presidente
   - membro: fabio
     obs: vice-presidente
-  - membro: hogo
+  - membro: hugo
     obs: titular

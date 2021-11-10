@@ -30,20 +30,20 @@
 <meta name="generator" content="Jekyll v4.2.0" />
 <meta property="og:title" content="Carlos alberto moreira dos santos" />
 <meta name="author" content="Prof. Luiz T. F. Eleno" />
-<meta property="og:locale" content="en" />
+<meta property="og:locale" content="br" />
 <meta name="description" content="O Departamento de Engenharia de Materiais (DEMAR) iniciou suas atividades em 1978 com o Projeto Nióbio (veja o Histórico) e desde 2006 integra a Escola de Engenharia de Lorena (EEL), uma das Unidades de Ensino e Pesquisa da Universidade de São Paulo (USP). Atualmente o DEMAR conta com 34 docentes, 31 dos quais com doutorado. Desses, 12 têm título de Livre-Docente e 13 são bolsistas de produtividade do CNPq. O DEMAR coordena e ministra as disciplinas específicas dos cursos de graduação em Engenharia Física e Engenharia de Materiais, além de disciplinas relacionadas à área de materiais do Ciclo Básico da EEL/USP. Docentes do departamento também ministram disciplinas e orientam teses e dissertações no Programa de Pós Graduação em Engenharia de Materiais (mestrado e doutorado) e no Programa de Pós Graduação em Projetos Educacionais de Ciências (mestrado profissional). As instalações do DEMAR localizam-se na Área II da EEL/USP." />
 <meta property="og:description" content="O Departamento de Engenharia de Materiais (DEMAR) iniciou suas atividades em 1978 com o Projeto Nióbio (veja o Histórico) e desde 2006 integra a Escola de Engenharia de Lorena (EEL), uma das Unidades de Ensino e Pesquisa da Universidade de São Paulo (USP). Atualmente o DEMAR conta com 34 docentes, 31 dos quais com doutorado. Desses, 12 têm título de Livre-Docente e 13 são bolsistas de produtividade do CNPq. O DEMAR coordena e ministra as disciplinas específicas dos cursos de graduação em Engenharia Física e Engenharia de Materiais, além de disciplinas relacionadas à área de materiais do Ciclo Básico da EEL/USP. Docentes do departamento também ministram disciplinas e orientam teses e dissertações no Programa de Pós Graduação em Engenharia de Materiais (mestrado e doutorado) e no Programa de Pós Graduação em Projetos Educacionais de Ciências (mestrado profissional). As instalações do DEMAR localizam-se na Área II da EEL/USP." />
-<link rel="canonical" href="http://www.demar.eel.usp.br/Demar/en/docentes/carlos-alberto-moreira-dos-santos.html" />
-<meta property="og:url" content="http://www.demar.eel.usp.br/Demar/en/docentes/carlos-alberto-moreira-dos-santos.html" />
+<link rel="canonical" href="http://www.demar.eel.usp.br/Demar/docentes/carlos-alberto-moreira-dos-santos.html" />
+<meta property="og:url" content="http://www.demar.eel.usp.br/Demar/docentes/carlos-alberto-moreira-dos-santos.html" />
 <meta property="og:site_name" content="Demar :: EEL :: USP" />
 <meta property="og:image" content="http://www.demar.eel.usp.br/Demar/susto" />
 <meta property="og:type" content="article" />
-<meta property="article:published_time" content="2021-09-21T14:55:26-03:00" />
+<meta property="article:published_time" content="2021-11-10T10:18:37-03:00" />
 <meta name="twitter:card" content="summary_large_image" />
 <meta property="twitter:image" content="http://www.demar.eel.usp.br/Demar/susto" />
 <meta property="twitter:title" content="Carlos alberto moreira dos santos" />
 <script type="application/ld+json">
-{"description":"O Departamento de Engenharia de Materiais (DEMAR) iniciou suas atividades em 1978 com o Projeto Nióbio (veja o Histórico) e desde 2006 integra a Escola de Engenharia de Lorena (EEL), uma das Unidades de Ensino e Pesquisa da Universidade de São Paulo (USP). Atualmente o DEMAR conta com 34 docentes, 31 dos quais com doutorado. Desses, 12 têm título de Livre-Docente e 13 são bolsistas de produtividade do CNPq. O DEMAR coordena e ministra as disciplinas específicas dos cursos de graduação em Engenharia Física e Engenharia de Materiais, além de disciplinas relacionadas à área de materiais do Ciclo Básico da EEL/USP. Docentes do departamento também ministram disciplinas e orientam teses e dissertações no Programa de Pós Graduação em Engenharia de Materiais (mestrado e doutorado) e no Programa de Pós Graduação em Projetos Educacionais de Ciências (mestrado profissional). As instalações do DEMAR localizam-se na Área II da EEL/USP.","@type":"BlogPosting","image":"http://www.demar.eel.usp.br/Demar/susto","headline":"Carlos alberto moreira dos santos","dateModified":"2021-09-21T14:55:26-03:00","datePublished":"2021-09-21T14:55:26-03:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://www.demar.eel.usp.br/Demar/en/docentes/carlos-alberto-moreira-dos-santos.html"},"author":{"@type":"Person","name":"Prof. Luiz T. F. Eleno"},"url":"http://www.demar.eel.usp.br/Demar/en/docentes/carlos-alberto-moreira-dos-santos.html","@context":"https://schema.org"}</script>
+{"description":"O Departamento de Engenharia de Materiais (DEMAR) iniciou suas atividades em 1978 com o Projeto Nióbio (veja o Histórico) e desde 2006 integra a Escola de Engenharia de Lorena (EEL), uma das Unidades de Ensino e Pesquisa da Universidade de São Paulo (USP). Atualmente o DEMAR conta com 34 docentes, 31 dos quais com doutorado. Desses, 12 têm título de Livre-Docente e 13 são bolsistas de produtividade do CNPq. O DEMAR coordena e ministra as disciplinas específicas dos cursos de graduação em Engenharia Física e Engenharia de Materiais, além de disciplinas relacionadas à área de materiais do Ciclo Básico da EEL/USP. Docentes do departamento também ministram disciplinas e orientam teses e dissertações no Programa de Pós Graduação em Engenharia de Materiais (mestrado e doutorado) e no Programa de Pós Graduação em Projetos Educacionais de Ciências (mestrado profissional). As instalações do DEMAR localizam-se na Área II da EEL/USP.","@type":"BlogPosting","image":"http://www.demar.eel.usp.br/Demar/susto","headline":"Carlos alberto moreira dos santos","dateModified":"2021-11-10T10:18:37-03:00","datePublished":"2021-11-10T10:18:37-03:00","mainEntityOfPage":{"@type":"WebPage","@id":"http://www.demar.eel.usp.br/Demar/docentes/carlos-alberto-moreira-dos-santos.html"},"author":{"@type":"Person","name":"Prof. Luiz T. F. Eleno"},"url":"http://www.demar.eel.usp.br/Demar/docentes/carlos-alberto-moreira-dos-santos.html","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -89,12 +89,12 @@
 <nav class="navbar navbar-expand-xl navbar-dark bg-dark py-0 my-0">
 
   
-    <a class="navbar-brand" href="/Demar/en/">
-    <img src="/Demar/assets/images/logos/eel-logo.png" height="30px" title="Materials Engineering Department — EEL/USP">
-    <span data-toggle="tooltip" data-placement="bottom" title="Materials Engineering Department — EEL/USP">
-      Demar :: EEL :: USP
+    <a class="navbar-brand" href="/Demar/">
+      <img src="/Demar/assets/images/logos/eel-logo.png" height="30px" title="Departamento de Engenharia de Materiais &mdash; EEL/USP">
+      <span data-toggle="tooltip" data-placement="bottom" title="Departamento de Engenharia de Materiais &mdash; EEL/USP">
+        Demar :: EEL :: USP
       </span>
-      
+  
   </a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -108,20 +108,20 @@
         
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Institutional
+              Institucional
             </a>
             <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/missao/">Mission</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/missao/">Missão</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/historico/">Our Story</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/historico/">Nossa História</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/adm/">Administration</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/adm/">Administração</a>
                 
               
             </div>
@@ -131,16 +131,16 @@
         
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Team
+              Equipe
             </a>
             <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/docentes/">Faculty</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/docentes/">Docentes</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/staff/">Supporting Staff</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/staff/">Equipe de Apoio</a>
                 
               
             </div>
@@ -150,20 +150,20 @@
         
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Teaching
+              Ensino
             </a>
             <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/grad/">Undergraduate</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/grad/">Graduação</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/monitoria/">Tutoring opportunities</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/monitoria/">Oportunidades de Monitoria</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/posgrad/">Graduate</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/posgrad/">Pós-Graduação</a>
                 
               
             </div>
@@ -173,20 +173,20 @@
         
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Research
+              Pesquisa
             </a>
             <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/linhas-de-pesquisa/">Research Groups</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/linhas-de-pesquisa/">Grupos de Pesquisa</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/labs/">Laboratories</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/labs/">Laboratórios</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/indicadores/">Indicators</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/indicadores/">Indicadores</a>
                 
               
             </div>
@@ -201,27 +201,27 @@
             <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/biblioteca/">Library</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/biblioteca/">Biblioteca</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/extensao/">Culture and community</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/extensao/">Cultura e Extensão</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/sistemas/">Online Systems</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/sistemas/">Sistemas Online</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/downloads/">Downloads</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/downloads/">Downloads</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/fronteiras/">Technological Frontiers in Engineering</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/fronteiras/">Fronteiras Tecnológicas em Engenharia</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/Demar/en/videos/">Videos</a>
+                  <a class="dropdown-item text-light bg-dark" href="/Demar/videos/">Vídeos</a>
                 
               
             </div>
@@ -231,7 +231,7 @@
         
           <li class="nav-item">
             
-              <a class="nav-link" href="/Demar/en/noticias/">News</a>
+              <a class="nav-link" href="/Demar/noticias/">Notícias</a>
             
           </li>
         
@@ -239,7 +239,7 @@
         
           <li class="nav-item">
             
-              <a class="nav-link" href="/Demar/en/contact/">Contact</a>
+              <a class="nav-link" href="/Demar/contact/">Contato</a>
             
           </li>
         
@@ -257,7 +257,7 @@
     <div class="my-2 my-lg-0">
       
       
-        <a href="/Demar/docentes/carlos-alberto-moreira-dos-santos.html"><img src="/Demar/assets/images/clipart/br.svg" height="20px" title="Versão em português"></a>
+        <a href="/Demar/en/docentes/carlos-alberto-moreira-dos-santos.html"><img src="/Demar/assets/images/clipart/en.svg" height="20px" title="English version"></a>
       
     </div>
   </div>
@@ -282,35 +282,35 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
   <ol class="carousel-indicators">
     
     
-    <li data-target="#maincarousel" data-slide-to="0" class="active">
+    <li data-target="#maincarousel" data-slide-to="0" class="active"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="1">
+    <li data-target="#maincarousel" data-slide-to="1"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="2">
+    <li data-target="#maincarousel" data-slide-to="2"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="3">
+    <li data-target="#maincarousel" data-slide-to="3"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="4">
+    <li data-target="#maincarousel" data-slide-to="4"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="5">
+    <li data-target="#maincarousel" data-slide-to="5"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="6">
+    <li data-target="#maincarousel" data-slide-to="6"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="7">
+    <li data-target="#maincarousel" data-slide-to="7"></li>
     
     
   </ol>
@@ -328,7 +328,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -360,7 +360,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -392,7 +392,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -424,7 +424,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -456,7 +456,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -488,7 +488,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -520,7 +520,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -552,7 +552,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -584,15 +584,11 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
       <div class="col-lg-9 mx-auto">
         <div class="clearfix">
           <div class="alert alert-warning mt-2" role="alert">
-            <img class="emoji" title=":warning:" alt=":warning:" src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png" height="20" width="20"> Devido à crise sanitária causada pela pandemia de COVID-19, o site encontra-se temporariamente hospedado no endereço <a href="https://computeel.org/Demar">https://computeel.org/Demar</a>, para onde você foi automaticamente redirecionado. Desculpe-nos por qualquer transtorno que isso possa causar.
+            :warning: Devido à crise sanitária causada pela pandemia de COVID-19, o site encontra-se temporariamente hospedado no endereço <a href="https://computeel.org/Demar">https://computeel.org/Demar</a>, para onde você foi automaticamente redirecionado. Desculpe-nos por qualquer transtorno que isso possa causar.
           </div>
           <style>
   body {
     text-align: left;
-  }
-  .social {
-    width:1.3em;
-    margin-right:.2em;
   }
 </style>
 
@@ -600,8 +596,8 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
 
   <nav class="shadow-sm" aria-label="breadcrumb">
     <ol class="breadcrumb">
-      <li class="breadcrumb-item"><a class="badge badge-info" href="/Demar/en/">Demar :: EEL :: USP</a></li>
-      <li class="breadcrumb-item"><a class="badge badge-info" href="/Demar/en/docentes/">Faculty</a></li>
+      <li class="breadcrumb-item"><a class="badge badge-info" href="/Demar/">Demar :: EEL :: USP</a></li>
+      <li class="breadcrumb-item"><a class="badge badge-info" href="/Demar/docentes/">Docentes</a></li>
       <li class="breadcrumb-item active" aria-current="page"><span class="badge badge-secondary">Carlos Alberto Moreira dos Santos</span></li>
     </ol>
   </nav>
@@ -611,28 +607,26 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
   <div class="row">
 
     <div class="col-md-3 mb-2 float-md-left w-50">
-
-      <img class=" w-100 rounded" src="/Demar/assets/images/people/docentes/susto.jpg" title="Carlos Alberto Moreira dos Santos" alt="Carlos Alberto Moreira dos Santos">
-
+      <img class="w-100 rounded" src="/Demar/assets/images/people/docentes/susto.jpg" title="Carlos Alberto Moreira dos Santos" alt="Carlos Alberto Moreira dos Santos">
     </div>
 
     <div class="col-md-9 my-auto">
 
-      <h2>Associate Professor</h2>
+      <h2>Professor Associado</h2>
 
       <h3>
         
-        <a id="no-ext-link" href="http://lattes.cnpq.br/6112685121071168" target="_blank"><img class="social" src="/Demar/assets/images/logos/lattes.jpg" title="Lattes"></a>
+        <a id="no-ext-link" href="http://lattes.cnpq.br/6112685121071168" target="_blank"><img class="social" src="/Demar/assets/images/logos/lattes.jpg" title="Lattes" ></a>
         
         
         <a id="no-ext-link" href="http://www.researcherid.com/rid/C-1619-2012" target="_blank"><img class="social" src="/Demar/assets/images/logos/ResID.gif" title="ResearcherID"></a>
         
         
         
-        <a id="no-ext-link" href="https://scholar.google.com.br/citations?hl=en&amp;user=yU632CMAAAAJ" target="_blank"><img class="social" src="/Demar/assets/images/logos/googlescholar.jpg" title="Google Scholar"></a>
+        <a id="no-ext-link" href="https://scholar.google.com.br/citations?hl=en&user=yU632CMAAAAJ" target="_blank"><img class="social" src="/Demar/assets/images/logos/googlescholar.jpg" title="Google Scholar" ></a>
         
         
-        <a id="no-ext-link" href="https://www.scopus.com/authid/detail.url?authorId=7102580302" target="_blank"><img class="social" src="/Demar/assets/images/logos/Elsevier.svg" title="Scopus"></a>
+        <a id="no-ext-link" href="https://www.scopus.com/authid/detail.url?authorId=7102580302" target="_blank"><img class="social" src="/Demar/assets/images/logos/Elsevier.svg" title="Scopus" ></a>
         
         
         
@@ -643,25 +637,26 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
       </h3>
 
       <p>
-        <img class="emoji" title=":email:" alt=":email:" src="https://github.githubassets.com/images/icons/emoji/unicode/2709.png" height="20" width="20"> <a href="mailto:cams-eel@usp.br">cams-eel@usp.br</a><br>
-        <img class="emoji" title=":telephone_receiver:" alt=":telephone_receiver:" src="https://github.githubassets.com/images/icons/emoji/unicode/1f4de.png" height="20" width="20"> +55 12 3159-9911
+        :email: <a href="mailto:cams-eel@usp.br">cams-eel@usp.br</a><br />
+        :telephone_receiver: +55 12 3159-9911
         
         
       </p>
 
-      
+  
 
+</div>
 
-    </div>
-  </div>
+</div>
+
 
   <ul class="nav nav-tabs" id="myTab" role="tablist">
     <li class="nav-item">
-      <a class="nav-link active" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="true">Profile</a>
+      <a class="nav-link active" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="true">Perfil</a>
     </li>
     
     <li class="nav-item">
-      <a class="nav-link" id="research-tab" data-toggle="tab" href="#research" role="tab" aria-controls="research" aria-selected="false">Research</a>
+      <a class="nav-link" id="research-tab" data-toggle="tab" href="#research" role="tab" aria-controls="research" aria-selected="false">Pesquisa</a>
     </li>
   </ul>
 
@@ -669,24 +664,22 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
 
   <div class="tab-pane fade show active" id="contact" role="tabpanel" aria-labelledby="contact-tab">
     <div class="clearfix">
-      
-        <style>
-          body { text-align: justify};
-        </style>
-      
-      <h1 class="alert bg-dark text-light">Academic background</h1>
-      
-
-      
-
+        
+          <style>
+            body { text-align: justify};
+          </style>
+        
+        <h1 class="alert bg-dark text-light">Histórico acadêmico</h1>
+        
+        
     </div>
   </div>
 
   <div class="tab-pane fade" id="teaching" role="tabpanel" aria-labelledby="teaching-tab">
     <div class="clearfix">
-      <h1 class="alert bg-dark text-light" style="text-align:left">Classes taught in the department</h1>
+      <h1 class="alert bg-dark text-light"  >Disciplinas ministradas no departamento</h1>
       <div class="container">
-      <h2 class="alert bg-dark text-light">Undergraduate</h2>
+      <h2 class="alert bg-dark text-light">Graduação</h2>
       <ul>
         
         
@@ -698,10 +691,11 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
 
   <div class="tab-pane fade" id="research" role="tabpanel" aria-labelledby="research-tab">
     <div class="clearfix">
-      <h1 class="alert bg-dark text-light">Research topics</h1>
+      <h1 class="alert bg-dark text-light">Tópicos de pesquisa</h1>
       <ul>
         
       </ul>
+
     </div>
   </div>
 
@@ -720,7 +714,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
 
     <div class="clearfix">
 
-      <h1 class="alert bg-dark text-light w-100" style="text-align:left">Breaking news</h1>
+      <h1 class="alert bg-dark text-light w-100" style="text-align:left">Últimas notícias</h1>
 
       
       
@@ -729,11 +723,11 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
           <div class="mx-auto mb-2">
             <img class="shadow rounded w-100" src="/Demar/assets/images/noticias/sematef-1.png" alt="SEMEF-SEMAT">
           </div>
-          <a href="/Demar/en/news/2021-09-08-semef-semat.html">
-            <h3 style="text-align:left">DEMAR academic weeks</h3>
+          <a href="/Demar/news/2021-09-08-semef-semat.html">
+            <h3 style="text-align:left">Semanas acadêmicas do DEMAR</h3>
           </a>
-          <a class="float-right btn btn-md btn-primary stretched-link" href="/Demar/en/news/2021-09-08-semef-semat.html">Read</a>
-          <h4>09/08/2021</h4>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="/Demar/news/2021-09-08-semef-semat.html">Leia</a>
+          <h4>08/09/2021</h4>
         </div>
       </div>
       
@@ -742,11 +736,11 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
           <div class="mx-auto mb-2">
             <img class="shadow rounded w-100" src="/Demar/assets/images/noticias/monitoria.webp" alt="Tutoring 0/2021">
           </div>
-          <a href="/Demar/en/news/2021-08-11-monitoria022021.html">
-            <h3 style="text-align:left">Selection of students for tutoring</h3>
+          <a href="/Demar/news/2021-08-11-monitoria022021.html">
+            <h3 style="text-align:left">Seleção para monitoria 02/2021</h3>
           </a>
-          <a class="float-right btn btn-md btn-primary stretched-link" href="/Demar/en/news/2021-08-11-monitoria022021.html">Read</a>
-          <h4>08/11/2021</h4>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="/Demar/news/2021-08-11-monitoria022021.html">Leia</a>
+          <h4>11/08/2021</h4>
         </div>
       </div>
       
@@ -755,11 +749,11 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
           <div class="mx-auto mb-2">
             <img class="shadow rounded w-100" src="/Demar/assets/images/noticias/falecimento-pinatti.png" alt="Prof. Daltro G. Pinatti (1940-2021)">
           </div>
-          <a href="/Demar/en/news/2021-07-23-rip-pinatti.html">
-            <h3 style="text-align:left">Prof. Pinatti the “Father of Niobium”</h3>
+          <a href="/Demar/news/2021-07-23-rip-pinatti.html">
+            <h3 style="text-align:left">Prof. Pinatti o “Pai do Nióbio”</h3>
           </a>
-          <a class="float-right btn btn-md btn-primary stretched-link" href="/Demar/en/news/2021-07-23-rip-pinatti.html">Read</a>
-          <h4>07/23/2021</h4>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="/Demar/news/2021-07-23-rip-pinatti.html">Leia</a>
+          <h4>23/07/2021</h4>
         </div>
       </div>
       
@@ -768,11 +762,11 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
           <div class="mx-auto mb-2">
             <img class="shadow rounded w-100" src="/Demar/assets/images/noticias/saimon.jpg" alt="Saimon Domenegheti">
           </div>
-          <a href="/Demar/en/news/2021-04-19-premio-video.html">
-            <h3 style="text-align:left">Video from undergrad student awarded</h3>
+          <a href="/Demar/news/2021-04-19-premio-video.html">
+            <h3 style="text-align:left">Vídeo de aluno de IC é premiado</h3>
           </a>
-          <a class="float-right btn btn-md btn-primary stretched-link" href="/Demar/en/news/2021-04-19-premio-video.html">Read</a>
-          <h4>04/19/2021</h4>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="/Demar/news/2021-04-19-premio-video.html">Leia</a>
+          <h4>19/04/2021</h4>
         </div>
       </div>
       
@@ -781,16 +775,16 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
           <div class="mx-auto mb-2">
             <img class="shadow rounded w-100" src="/Demar/assets/images/noticias/ppgem.png" alt="PPGEM EEL/USP">
           </div>
-          <a href="/Demar/en/news/2021-04-12-ppgem-novo-site.html">
-            <h3 style="text-align:left">New PPGEM webpage</h3>
+          <a href="/Demar/news/2021-04-12-ppgem-novo-site.html">
+            <h3 style="text-align:left">PPGEM com novo site</h3>
           </a>
-          <a class="float-right btn btn-md btn-primary stretched-link" href="/Demar/en/news/2021-04-12-ppgem-novo-site.html">Read</a>
-          <h4>04/12/2021</h4>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="/Demar/news/2021-04-12-ppgem-novo-site.html">Leia</a>
+          <h4>12/04/2021</h4>
         </div>
       </div>
       
 
-    <a class="btn btn-md btn-primary float-left" href="/Demar/en/noticias/">See all</a>
+    <a class="btn btn-md btn-primary float-left" href="/Demar/noticias/">Ver todas</a>
 
   </div>
 
@@ -819,13 +813,13 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
       Área II - Pólo-Urbo Industrial, Gleba AI-6,s/nº - Tel.: (12) 3159-9900
     </p>
     <p>
-CEP 12602-810 – Lorena - SP</p>
+CEP 12602-810 &ndash; Lorena - SP</p>
       <!-- Call to action -->
     </div>
     <!-- Footer Elements -->
     <!-- Copyright -->
       © 2021
-      <a href="/Demar/en/docentes/luiz-tadeu-fernandes-eleno.html">Prof. Luiz T. F. Eleno</a> &amp; Demar :: EEL :: USP
+      <a href="/Demar/docentes/luiz-tadeu-fernandes-eleno.html">Prof. Luiz T. F. Eleno</a> &amp; Demar :: EEL :: USP
     <!-- Copyright -->
 
   </footer>

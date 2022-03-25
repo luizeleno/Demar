@@ -1,4 +1,15 @@
-I"A1
+I"H3
+<div class="card w-100 my-2">
+  <div class="card-body">
+    <div class="col-md-5 float-md-right mb-2">
+      <img class="shadow rounded w-100" src="/Demar/assets/images/people/docentes/viktor.jpg" alt="Prof. Viktor Pastoukhov" />
+    </div>
+    <a class="stretched-link" href="/Demar/news/2022-03-25-viktor.html"><h2 style="text-align:left">Falecimento do Prof. Viktor Pastoukhov</h2></a>
+    <h3>25/03/2022</h3>
+    <a class="btn btn-lg btn-primary" href="/Demar/news/2022-03-25-viktor.html">Leia</a>
+  </div>
+</div>
+
 <div class="card w-100 my-2">
   <div class="card-body">
     <div class="col-md-5 float-md-right mb-2">

@@ -10,8 +10,8 @@ permalink: /dados-docentes/
 {% for prof in site.docentes %}
 
 - {{prof.nome}}
-    - ResearcherID: {{prof.ResearcherID}}
-    - ORCID: {{prof.ORCID}}
+    - ResearcherID: {% if prof.ResearcherID%}<http://www.researcherid.com/rid/{{prof.ResearcherID}}>{% endif %}
+    - ORCID: {% if prof.ORCID%}<https://orcid.org/{{prof.ORCID}}>{% endif %}
 
 {% if prof.ORCID %}
     {% capture WEBOFSCIENCE %}{{WEBOFSCIENCE}} {{OR}} AI=({{prof.ORCID}}){% endcapture %}
@@ -28,7 +28,7 @@ permalink: /dados-docentes/
 
 ---
 
-- String para busca no Web of Science : 
+## String para busca no Web of Science : 
 
 <div class="card">
   <div class="card-body">

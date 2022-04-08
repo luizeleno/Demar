@@ -28,13 +28,13 @@ coc-ef:
       suplente: emerson
   outros:
     - titular: Prof. Dr. Antonio Iacono (representante do DEQUI)
-      suplente: Prof. Paulo César Ribeiro
+      suplente: Prof. Eduardo Triboni
     - titular: Vinicius Gabriel Gomes de Albuquerque (representante discente)
       suplente: Geovani Augusto Xavier Ribeiro
 
 cg:
-  - titular: tiao
-    vice: ismenia
+  - titular: ismenia
+    vice: tiao
   - titular: eleno
     vice: katia
 

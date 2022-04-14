@@ -1,0 +1,17 @@
+
+{% assign WEBOFSCIENCE='' %}
+{% assign OR='' %}
+
+{% for prof in site.docentes %}
+
+{% if prof.ORCID %}
+    {% capture WEBOFSCIENCE %}{{WEBOFSCIENCE}} {{OR}} AI=({{prof.ORCID}}){% endcapture %}
+{% elsif prof.ResearcherID %}
+    {% capture WEBOFSCIENCE %}{{WEBOFSCIENCE}} {{OR}} AI=({{prof.ResearcherID}}){% endcapture %}
+{% endif %}
+
+{% unless OR %}
+    {% assign OR='OR' %}
+{% endunless %}
+
+{% endfor %}

@@ -1,0 +1,521 @@
+I"Y
+<h2 id="earth_americas-sitesuspbrlabeel">:earth_americas: <a href="https://sites.usp.br/labeel/" target="_blank">sites.usp.br/labeel</a></h2>
+
+<p>Bem vindo ao Laboratório de Impressão 3D, coordenado pela <a href="/docentes/katia-cristiane-gandolpho-candioto.html">Profa. Dra. Katia Cristiane Gandolpho Candioto</a>.</p>
+
+<p>Aqui trabalhamos com desenhos e criação de pequenos projetos de engenharia.</p>
+
+<h2 id="visão">Visão</h2>
+<ul>
+  <li>​Promover habilidades de desenvolvimento de projetos baseados na prototipagem por impressão 3D.</li>
+</ul>
+
+<h2 id="missão">Missão</h2>
+<ul>
+  <li>​Desenvolver projetos de manufatura aditiva em tecnologia/inovação de engenharia por meio de impressão 3D. Identificar novas tendências e aplicação.</li>
+  <li>Formar recursos humanos na área projeto e prototipagem.</li>
+</ul>
+
+<h2 id="grupo-de-trabalho-em-fabricação">Grupo de Trabalho em Fabricação</h2>
+<ul>
+  <li>Responsável: <a href="/docentes/katia-cristiane-gandolpho-candioto.html">Profa. Dra. Katia Cristiane Gandolpho Candioto</a></li>
+  <li>Colaborador: <a href="/docentes/carlos-yujiro-shigue.html">Prof. Dr. Carlos Yujiro Shigue</a></li>
+  <li>Monitores (Graduação)</li>
+</ul>
+
+<hr />
+
+<h2 id="links">Links</h2>
+
+<ul>
+  <li>Página oficial do LabEEL: <a href="https://sites.usp.br/labeel/">https://sites.usp.br/labeel/</a></li>
+  <li>Página do LabEEL no Facebook: <a href="https://www.facebook.com/usp.labeel/">https://www.facebook.com/usp.labeel/</a></li>
+  <li>Grupo do LabEEL no Facebook: <a href="https://www.facebook.com/groups/475162976543578/">https://www.facebook.com/groups/475162976543578/</a></li>
+  <li>Perfil do LabEEL no Instagram: <a href="https://www.instagram.com/labeel.usp/">https://www.instagram.com/labeel.usp/</a></li>
+  <li>Canal do LabEEL no YouTube: <a href="https://www.youtube.com/channel/UC9kL6UL-iEq4nJKGs1nezQQ">https://www.youtube.com/channel/UC9kL6UL-iEq4nJKGs1nezQQ</a></li>
+</ul>
+
+<hr />
+
+<h2 id="impressora-3d--gtmax-core-a3">Impressora 3D – GTMax-core-A3</h2>
+
+<div class="col-md-7 float-md-left mb-2">
+<!--
+uso num tag liquid:
+include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=zzzz
+-->
+
+<div id="imp3d" class="carousel slide" data-ride="carousel">
+
+  <ol class="carousel-indicators">
+    
+    
+    <li data-target="#imp3d" data-slide-to="0" class="active"></li>
+    
+    
+  </ol>
+  <div class="carousel-inner my-0">
+    
+    <div class="carousel-item active">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dtrinc1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d/GTMax-core-A3.jpg" alt="Impressora GTMax-core-A3" title="Impressora GTMax-core-A3" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dtrinc1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title">Impressora GTMax-core-A3</h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d/GTMax-core-A3.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d/GTMax-core-A3.jpg" alt="Impressora GTMax-core-A3" title="Impressora GTMax-core-A3" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5>Impressora GTMax-core-A3</h5>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+</div>
+<div class="col-md-5 float-md-left mb-2">
+<!--
+uso num tag liquid:
+include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=zzzz
+-->
+
+<div id="imp3dExemplos" class="carousel slide" data-ride="carousel">
+
+  <ol class="carousel-indicators">
+    
+    
+    <li data-target="#imp3dExemplos" data-slide-to="0" class="active"></li>
+    
+    
+    
+    <li data-target="#imp3dExemplos" data-slide-to="1"></li>
+    
+    
+    
+    <li data-target="#imp3dExemplos" data-slide-to="2"></li>
+    
+    
+    
+    <li data-target="#imp3dExemplos" data-slide-to="3"></li>
+    
+    
+    
+    <li data-target="#imp3dExemplos" data-slide-to="4"></li>
+    
+    
+    
+    <li data-target="#imp3dExemplos" data-slide-to="5"></li>
+    
+    
+    
+    <li data-target="#imp3dExemplos" data-slide-to="6"></li>
+    
+    
+    
+    <li data-target="#imp3dExemplos" data-slide-to="7"></li>
+    
+    
+    
+    <li data-target="#imp3dExemplos" data-slide-to="8"></li>
+    
+    
+    
+    <li data-target="#imp3dExemplos" data-slide-to="9"></li>
+    
+    
+    
+    <li data-target="#imp3dExemplos" data-slide-to="10"></li>
+    
+    
+  </ol>
+  <div class="carousel-inner my-0">
+    
+    <div class="carousel-item active">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dExemplos3dexa1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115629820.jpg-web.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dExemplos3dexa1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d-exemplos/IMG_20190731_115629820.jpg-web.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115629820.jpg-web.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dExemplos3dexb1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_120348888.jpg-web.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dExemplos3dexb1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d-exemplos/IMG_20190731_120348888.jpg-web.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_120348888.jpg-web.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dExemplos3dexc1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_114911357.jpg-web.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dExemplos3dexc1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d-exemplos/IMG_20190731_114911357.jpg-web.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_114911357.jpg-web.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dExemplos3dexd1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_120305992.jpg-web.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dExemplos3dexd1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d-exemplos/IMG_20190731_120305992.jpg-web.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_120305992.jpg-web.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dExemplos3dexe1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115728572.jpg-web.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dExemplos3dexe1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d-exemplos/IMG_20190731_115728572.jpg-web.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115728572.jpg-web.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dExemplos3dexf1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115616194.jpg-web.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dExemplos3dexf1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d-exemplos/IMG_20190731_115616194.jpg-web.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115616194.jpg-web.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dExemplos3dexg1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115954152.jpg-web.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dExemplos3dexg1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d-exemplos/IMG_20190731_115954152.jpg-web.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115954152.jpg-web.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dExemplos3dexh1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115919515.jpg-web.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dExemplos3dexh1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d-exemplos/IMG_20190731_115919515.jpg-web.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115919515.jpg-web.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dExemplos3dexi1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_120215077.jpg-web.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dExemplos3dexi1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d-exemplos/IMG_20190731_120215077.jpg-web.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_120215077.jpg-web.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dExemplos3dexj1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115701049.jpg-web.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dExemplos3dexj1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d-exemplos/IMG_20190731_115701049.jpg-web.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115701049.jpg-web.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#imp3dExemplos3dexk1">
+        <img class="w-100 img-responsive img-carousel" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115947435.jpg-web.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="imp3dExemplos3dexk1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/labs/imp3d-exemplos/IMG_20190731_115947435.jpg-web.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/assets/images/labs/imp3d-exemplos/IMG_20190731_115947435.jpg-web.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+</div>
+
+<h2 id="impressão-3d">Impressão 3D:</h2>
+<ul>
+  <li>Volume de impressão: 300 x 300 x 300mm</li>
+  <li>Velocidade de impressão 180mm/s</li>
+  <li>Velocidade de movimentação: até 400mm/s</li>
+  <li>Altura de camada mínima: 0,05 a 0,4mm</li>
+  <li>Temperatura máximo: 295ºC</li>
+  <li>Materiais de impressão: 1,75mm (PLA, ABS, PET-G, PC, Flex, Tritan, Fibra de Carbono e Madeira)</li>
+  <li>Formato de arquivo: GCode (outros)</li>
+  <li>Conectividade: USB, cartão SD (autoprint)</li>
+  <li>Consumo: 60W</li>
+</ul>
+:ET

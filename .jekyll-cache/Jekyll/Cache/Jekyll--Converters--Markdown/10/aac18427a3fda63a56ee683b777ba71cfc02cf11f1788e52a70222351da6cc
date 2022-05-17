@@ -1,0 +1,31 @@
+I"-<style>
+body {text-align: left;}
+</style>
+
+<h1 id="correios">Correios</h1>
+
+<table class="table table-striped table-hover">
+  <tbody>
+    <tr>
+      <td>Orientacoes.doc</td>
+      <td><a href="/assets/correios/Orientacoes.doc" class="btn btn-primary">Baixar</a></td>
+    </tr>
+    <tr>
+      <td>DOC1 - Autorização de postagem.doc</td>
+      <td><a href="/assets/correios/DOC1%20-%20Autorização%20de%20postagem.doc" class="btn btn-primary">Baixar</a></td>
+    </tr>
+    <tr>
+      <td>DOC2 - Declaracao de conteudo.docx</td>
+      <td><a href="/assets/correios/DOC2%20-%20Declaracao%20de%20conteudo.docx" class="btn btn-primary">Baixar</a></td>
+    </tr>
+    <tr>
+      <td>DOC3 - Declaracao amostra exterior.doc</td>
+      <td><a href="/assets/correios/DOC3%20-%20Declaracao%20amostra%20exterior.doc" class="btn btn-primary">Baixar</a></td>
+    </tr>
+    <tr>
+      <td>DOC4 - Declaracao isencao de NF.doc</td>
+      <td><a href="/assets/correios/DOC4%20-%20Declaracao%20isencao%20de%20NF.doc" class="btn btn-primary">Baixar</a></td>
+    </tr>
+  </tbody>
+</table>
+:ET

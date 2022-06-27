@@ -1,6 +1,6 @@
 ---
 nome: Antonio Jefferson da Silva Machado
-NUSP:
+NUSP: 5840730
 email:  ajefferson@usp.br
 fone:  +55 12 3159 9911
 Lattes: 6078967748876171

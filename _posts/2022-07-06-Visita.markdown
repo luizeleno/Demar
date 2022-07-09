@@ -1,0 +1,26 @@
+---
+layout: post
+title:
+  br: Visita de alunos da Bioquímica ao Demar
+  en: Visit of Biochemistry students to Demar
+image: /assets/images/noticias/visita-hugo.jpg
+caption:
+  br: "Os alunos visitantes"
+  en: "The visiting students"
+---
+
+{% contentfor br %}
+
+O DEMAR recebeu a visita dos discentes da turma de Introdução à Ciência dos Materiais (ICMat) do curso de Engenharia Bioquímica no último dia 29/6. O Prof. Hugo Sandim preparou cinco experimentos diversos sobre os temas ministrados em sala de aula.
+
+Além de permitir aos alunos de outros cursos da EEL a possibilidade de acompanhar a operação dos equipamentos de processamento e de caracterização aqui instalados, propicia aos alunos de ICMat a chance de conhecer a Área 2 da EEL, a infraestrutura de pesquisa existente e um pouco mais sobre os cursos sob nossa responsabilidade.
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+DEMAR received a visit from students from the Introduction to Materials Science (ICMat) class of the Biochemical Engineering course on 6/29. Prof. Hugo Sandim prepared five different experiments on the topics taught in the classroom.
+
+In addition to allowing students from other EEL courses the possibility of knowing the operation of the processing and characterization equipment installed here, it gives ICMat students the chance to get to know Area 2 of EEL, its existing research infrastructure and a little more about the courses under our responsibility.
+
+{% endcontentfor %}

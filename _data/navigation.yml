@@ -43,6 +43,10 @@ menu:
           en: Tutoring opportunities
         url: /monitoria/
       - title:
+          br: Trabalhos de Conclusão de Curso
+          en: End Papers
+        url: /TCC/
+      - title:
           br: Pós-Graduação
           en: Graduate
         url: /posgrad/

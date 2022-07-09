@@ -97,7 +97,7 @@
 <div class="text-center">
 <figure class="figure">
   <a href="#" data-toggle="modal" data-target="#prgEF">
-    <img class="figure-img img-fluid rounded" src="http://img.youtube.com/vi/fPPh8xU8qeM/0.jpg" alt="Engenharia Física - EEL/USP (2020)" title="Engenharia Física - EEL/USP (2020)" />
+    <img class="figure-img img-fluid rounded" src="http://img.youtube.com/vi/3bHVUZ7mqV0/0.jpg" alt="Engenharia Física - EEL/USP (2020)" title="Engenharia Física - EEL/USP (2020)" />
   </a>
   <figcaption class="figure-caption">
     Engenharia Física - EEL/USP (2020)
@@ -131,7 +131,7 @@
           }
         </style>
         <div class="embed-container">
-          <iframe id="prgEFvid" title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/fPPh8xU8qeM" frameborder="0" allowfullscreen="">
+          <iframe id="prgEFvid" title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/3bHVUZ7mqV0" frameborder="0" allowfullscreen="">
           </iframe>
         </div>
       </div>
@@ -185,7 +185,7 @@ $(document).ready(function(){
 <div class="text-center">
 <figure class="figure">
   <a href="#" data-toggle="modal" data-target="#prgEM">
-    <img class="figure-img img-fluid rounded" src="http://img.youtube.com/vi/r7OZw8eABsc/0.jpg" alt="Engenharia de Materiais - EEL/USP (2020)" title="Engenharia de Materiais - EEL/USP (2020)" />
+    <img class="figure-img img-fluid rounded" src="http://img.youtube.com/vi/nA03Q3SlAeY/0.jpg" alt="Engenharia de Materiais - EEL/USP (2020)" title="Engenharia de Materiais - EEL/USP (2020)" />
   </a>
   <figcaption class="figure-caption">
     Engenharia de Materiais - EEL/USP (2020)
@@ -219,7 +219,7 @@ $(document).ready(function(){
           }
         </style>
         <div class="embed-container">
-          <iframe id="prgEMvid" title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/r7OZw8eABsc" frameborder="0" allowfullscreen="">
+          <iframe id="prgEMvid" title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/nA03Q3SlAeY" frameborder="0" allowfullscreen="">
           </iframe>
         </div>
       </div>

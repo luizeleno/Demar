@@ -1,4 +1,4 @@
-I"�<div class="container mb-3">
+I")<div class="container mb-3">
   <div class="row">
     <div class="col">
         <div class="text-center">
@@ -93,37 +93,47 @@
 
 <h1 class="alert bg-dark text-light">Engineering Physics</h1>
 
-<div class="m-3 float-right" style="width:30%">
+<div class="col-md-5 float-md-right">
 <div class="text-center">
 <figure class="figure">
-  
-  <a href="#" data-toggle="modal" data-target="#ilustra-EF">
-  
-    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/dta.jpg" alt="" title="" />
-  
+  <a href="#" data-toggle="modal" data-target="#prgEF">
+    <img class="figure-img img-fluid rounded" src="http://img.youtube.com/vi/3bHVUZ7mqV0/0.jpg" alt="Engenharia Física - EEL/USP (2020)" title="Engenharia Física - EEL/USP (2020)" />
   </a>
-  
-  
   <figcaption class="figure-caption">
-    
+    Engenharia Física - EEL/USP (2020)
   </figcaption>
-  
 
 <!-- Modal -->
-
-<div class="modal fade" id="ilustra-EF" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal fade" id="prgEF" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header text-light bg-dark">
-        <h5></h5>
+        <h5>Engenharia Física - EEL/USP (2020)</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span class="text-light" aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        <a id="no-ext-link" href="/assets/images/demar/dta.jpg" target="_blank">
-        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/dta.jpg" alt="" title="" />
-        </a>
+        <style>
+          .embed-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+          }
+          .embed-container iframe, .embed-container object, .embed-container embed {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          }
+        </style>
+        <div class="embed-container">
+          <iframe id="prgEFvid" title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/3bHVUZ7mqV0" frameborder="0" allowfullscreen="">
+          </iframe>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
@@ -132,9 +142,26 @@
   </div>
 </div>
 
-
 </figure>
 </div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    /* Get iframe src attribute value i.e. YouTube video url
+    and store it in a variable */
+    var url = $("#prgEFvid").attr('src');
+    /* Assign empty url value to the iframe src attribute when
+    modal hide, which stop the video playing */
+    $("#prgEF").on('hide.bs.modal', function(){
+        $("#prgEFvid").attr('src', '');
+    });
+    /* Assign the initially stored url back to the iframe src
+    attribute when modal is displayed again */
+    $("#prgEF").on('show.bs.modal', function(){
+        $("#prgEFvid").attr('src', url);
+    });
+});
+</script>
 
 </div>
 
@@ -150,37 +177,47 @@
 
 <h1 class="alert bg-dark text-light">Materials Engineering</h1>
 
-<div class="m-3 float-right" style="width:30%">
+<div class="col-md-5 float-md-right">
 <div class="text-center">
 <figure class="figure">
-  
-  <a href="#" data-toggle="modal" data-target="#ilustra-EM">
-  
-    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/aula-vernilli.jpg" alt="" title="" />
-  
+  <a href="#" data-toggle="modal" data-target="#prgEM">
+    <img class="figure-img img-fluid rounded" src="http://img.youtube.com/vi/nA03Q3SlAeY/0.jpg" alt="Engenharia de Materiais - EEL/USP (2020)" title="Engenharia de Materiais - EEL/USP (2020)" />
   </a>
-  
-  
   <figcaption class="figure-caption">
-    
+    Engenharia de Materiais - EEL/USP (2020)
   </figcaption>
-  
 
 <!-- Modal -->
-
-<div class="modal fade" id="ilustra-EM" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal fade" id="prgEM" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header text-light bg-dark">
-        <h5></h5>
+        <h5>Engenharia de Materiais - EEL/USP (2020)</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span class="text-light" aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        <a id="no-ext-link" href="/assets/images/demar/aula-vernilli.jpg" target="_blank">
-        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/aula-vernilli.jpg" alt="" title="" />
-        </a>
+        <style>
+          .embed-container {
+            position: relative;
+            padding-bottom: 56.25%;
+            height: 0;
+            overflow: hidden;
+            max-width: 100%;
+          }
+          .embed-container iframe, .embed-container object, .embed-container embed {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+          }
+        </style>
+        <div class="embed-container">
+          <iframe id="prgEMvid" title="YouTube video player" width="640" height="390" src="https://www.youtube.com/embed/nA03Q3SlAeY" frameborder="0" allowfullscreen="">
+          </iframe>
+        </div>
       </div>
       <div class="modal-footer">
         <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
@@ -189,9 +226,26 @@
   </div>
 </div>
 
-
 </figure>
 </div>
+
+<script type="text/javascript">
+$(document).ready(function(){
+    /* Get iframe src attribute value i.e. YouTube video url
+    and store it in a variable */
+    var url = $("#prgEMvid").attr('src');
+    /* Assign empty url value to the iframe src attribute when
+    modal hide, which stop the video playing */
+    $("#prgEM").on('hide.bs.modal', function(){
+        $("#prgEMvid").attr('src', '');
+    });
+    /* Assign the initially stored url back to the iframe src
+    attribute when modal is displayed again */
+    $("#prgEM").on('show.bs.modal', function(){
+        $("#prgEMvid").attr('src', url);
+    });
+});
+</script>
 
 </div>
 

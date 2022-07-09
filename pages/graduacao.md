@@ -17,7 +17,7 @@ permalink: /grad/
 <h1 class="alert bg-dark text-light">Curso de Graduação em Engenharia Física</h1>
 
 <div class="col-md-5 float-md-right">
-{% include video.html video='fPPh8xU8qeM' id='prgEF' caption='Engenharia Física - EEL/USP (2020)' %}
+{% include video.html video='3bHVUZ7mqV0' id='prgEF' caption='Engenharia Física - EEL/USP (2020)' %}
 </div>
 
 **Duração:** 10 semestres
@@ -36,7 +36,7 @@ Forma um engenheiro com perfil generalista, com sólida base cientifica e tecnol
 <h1 class="alert bg-dark text-light">Curso de Graduação em Engenharia de Materiais</h1>
 
 <div class="col-md-5 float-md-right">
-{% include video.html video='r7OZw8eABsc' id='prgEM' caption='Engenharia de Materiais - EEL/USP (2020)' %}
+{% include video.html video='nA03Q3SlAeY' id='prgEM' caption='Engenharia de Materiais - EEL/USP (2020)' %}
 </div>
 
 **Duração:** 10 semestres

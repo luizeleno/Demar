@@ -1,4 +1,26 @@
-I"�1
+I"<5
+<div class="card w-100 my-2">
+  <div class="card-body">
+    <div class="col-md-5 float-md-right mb-2">
+      <img class="shadow rounded w-100" src="/assets/images/noticias/tcc.jpg" alt="a" />
+    </div>
+    <a class="stretched-link" href="/news/2022-07-08-tccs.html"><h2 style="text-align:left">Novo! Calendário de TCCs</h2></a>
+    <h3>08/07/2022</h3>
+    <a class="btn btn-lg btn-primary" href="/news/2022-07-08-tccs.html">Leia</a>
+  </div>
+</div>
+
+<div class="card w-100 my-2">
+  <div class="card-body">
+    <div class="col-md-5 float-md-right mb-2">
+      <img class="shadow rounded w-100" src="/assets/images/noticias/visita-hugo.jpg" alt="Os alunos visitantes" />
+    </div>
+    <a class="stretched-link" href="/news/2022-07-06-visita.html"><h2 style="text-align:left">Visita de alunos da Bioquímica ao Demar</h2></a>
+    <h3>06/07/2022</h3>
+    <a class="btn btn-lg btn-primary" href="/news/2022-07-06-visita.html">Leia</a>
+  </div>
+</div>
+
 <div class="card w-100 my-2">
   <div class="card-body">
     <div class="col-md-5 float-md-right mb-2">

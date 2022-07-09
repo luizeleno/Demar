@@ -1,0 +1,30 @@
+---
+layout: post
+title:
+  br: "Novo! Calendário de TCCs"
+  en: "New! TCC schedule"
+image: /assets/images/noticias/tcc.jpg
+caption:
+  br: "a"
+  en: "a"
+---
+
+{% contentfor br %}
+
+A partir deste semestre, a lista de TCCs (Trabalhos de Conclusão de Curso) mais recentes estará disponível aqui. Os dados são extraídos do cadastro feito pelos alunos no Sistema EEL online. Maiores detalhes (caso o local, data e horário da apresentação não apareçam na lista, por exemplo) podem ser buscados junto ao aluno ou a seu orientador.
+
+A lista de TCCs esta [aqui.]({{site.baseurl}}/TCC/)
+
+Após a defesa, os TCCs que se destacam  ficam disponíveis na Biblioteca Digital da EEL: <https://www.bibliotecas.eel.usp.br/bibliotecas-digitais/monografias>{: target='_blank'}
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+Starting this semester, the list of recent TCCs (Course Completion Work) will be available here. The data are extracted from the registration made by the students in the online EEL system. Further details (if the place, date and time of the presentation do not appear in the list, for example) can be obtained from the student or his/her advisor.
+
+The list of TCCs is [here.]({{site.baseurl}}/en/TCC/)
+
+After the defense, the outstanding TCCs are available in the EEL Digital Library: <https://www.bibliotecas.eel.usp.br/bibliotecas-digitais/monografias>{: target='_blank'}
+
+{% endcontentfor %}

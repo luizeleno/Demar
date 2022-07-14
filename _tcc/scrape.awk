@@ -35,7 +35,7 @@
     }
     
     if($0 ~ /Local:/) {
-        local = $2;
+        local = "\"" $2 "\"";
         print("  local: ", local, "\n");
     }
 }

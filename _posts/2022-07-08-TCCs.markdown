@@ -5,8 +5,8 @@ title:
   en: "New! TCC schedule"
 image: /assets/images/noticias/tcc.jpg
 caption:
-  br: "a"
-  en: "a"
+  br: "TCC: Trabalho de Conclusão de Curso"
+  en: "TCC: End Paper"
 ---
 
 {% contentfor br %}

@@ -3,13 +3,13 @@ title: Indicadores
 permalink: /en/indicadores/
 ---
 
-## Updated in 04 april 2022
+## Updated in 14 july 2022
 
-{% include figure.html image='/assets/images/demar/ISI-2022-04-04-data.png' caption='Source: Web of Science' id='a' link='http://apps.webofknowledge.com'%}
+{% include figure.html image='/assets/images/demar/ISI-data.png' caption='Fonte: Web of Science' id='a' link='http://apps.webofknowledge.com'%}
 
-{% include figure.html image='/assets/images/demar/ISI-2022-04-04.png' caption='Fonte: Web of Science' id='b' link='http://apps.webofknowledge.com'%}
+{% include figure.html image='/assets/images/demar/ISI-citations.png' caption='Fonte: Web of Science' id='b' link='http://apps.webofknowledge.com'%}
 
-{% include figure.html image='/assets/images/demar/ISI-2019-04-03-areas.png' id='c' caption='Main publication areas'%}
+{% include figure.html image='/assets/images/demar/ISI-areas.png' id='c' caption='Principais áreas de publicação'%}
 
 ## String usad to search Web of Science:
 

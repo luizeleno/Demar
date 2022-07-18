@@ -2,7 +2,7 @@
 {
     if($0 ~ /Prezado/) {
         orientador = ""
-        for(i=3;i<=NF;++i)
+        for(i=3;i<=NF;i++)
             orientador = orientador $i " ";
         print("- orientador: ", orientador);
     }
@@ -36,6 +36,7 @@
     
     if($0 ~ /Local:/) {
         local = "\"" $2 "\"";
+        # TODO: pegar toda a string até o final do registro
         print("  local: ", local, "\n");
     }
 }

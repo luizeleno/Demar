@@ -18,8 +18,8 @@ body {text-align: left;}
         <h1> Escola de Engenharia de Lorena da USP &mdash; Área II </h1>
         <h2> Departamento de Engenharia de Materiais</h2>
         <address>
-        Pólo-Urbo Industrial, Gleba AI-6, s/nº<br>
-        CEP 12602-810 &ndash; Lorena - SP
+        Estrada Municipal Chiquito de Aquino, Nº 1000, Mondesir.<br>
+        CEP: 12612-550 &ndash; Lorena - SP
       </address>
         <p>
         :email: <a href="mailto:{{site.email}}">{{site.email}}</a><br />

@@ -1,17 +1,17 @@
-I"�<h2 id="updated-in-04-april-2022">Updated in 04 april 2022</h2>
+I"�<h2 id="updated-in-16-august-2022">Updated in 16 august 2022</h2>
 
 <div class="text-center">
 <figure class="figure">
   
   <a href="#" data-toggle="modal" data-target="#a">
   
-    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-2022-04-04-data.png" alt="Source: Web of Science" title="Source: Web of Science" />
+    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-data.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
   
   </a>
   
   
   <figcaption class="figure-caption">
-    Source: Web of Science
+    Fonte: Web of Science
   </figcaption>
   
 
@@ -21,14 +21,14 @@
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header text-light bg-dark">
-        <h5>Source: Web of Science</h5>
+        <h5>Fonte: Web of Science</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span class="text-light" aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
         <a id="no-ext-link" href="http://apps.webofknowledge.com" target="_blank">
-        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-2022-04-04-data.png" alt="Source: Web of Science" title="Source: Web of Science" />
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-data.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
         </a>
       </div>
       <div class="modal-footer">
@@ -47,7 +47,7 @@
   
   <a href="#" data-toggle="modal" data-target="#b">
   
-    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-2022-04-04.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
+    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-citations.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
   
   </a>
   
@@ -70,7 +70,7 @@
       </div>
       <div class="modal-body">
         <a id="no-ext-link" href="http://apps.webofknowledge.com" target="_blank">
-        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-2022-04-04.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-citations.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
         </a>
       </div>
       <div class="modal-footer">
@@ -89,13 +89,13 @@
   
   <a href="#" data-toggle="modal" data-target="#c">
   
-    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-2019-04-03-areas.png" alt="Main publication areas" title="Main publication areas" />
+    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-areas.png" alt="Principais áreas de publicação" title="Principais áreas de publicação" />
   
   </a>
   
   
   <figcaption class="figure-caption">
-    Main publication areas
+    Principais áreas de publicação
   </figcaption>
   
 
@@ -105,14 +105,14 @@
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header text-light bg-dark">
-        <h5>Main publication areas</h5>
+        <h5>Principais áreas de publicação</h5>
         <button type="button" class="close" data-dismiss="modal" aria-label="Close">
           <span class="text-light" aria-hidden="true">&times;</span>
         </button>
       </div>
       <div class="modal-body">
-        <a id="no-ext-link" href="/assets/images/demar/ISI-2019-04-03-areas.png" target="_blank">
-        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-2019-04-03-areas.png" alt="Main publication areas" title="Main publication areas" />
+        <a id="no-ext-link" href="/assets/images/demar/ISI-areas.png" target="_blank">
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-areas.png" alt="Principais áreas de publicação" title="Principais áreas de publicação" />
         </a>
       </div>
       <div class="modal-footer">

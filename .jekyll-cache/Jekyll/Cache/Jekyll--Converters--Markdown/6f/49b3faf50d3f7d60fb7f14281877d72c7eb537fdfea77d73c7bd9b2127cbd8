@@ -1,11 +1,11 @@
-I"�<h2 id="atualizado-em-04-de-abril-de-2022">Atualizado em 04 de abril de 2022</h2>
+I"�<h2 id="atualizado-em-16-de-agosto-de-2022">Atualizado em 16 de agosto de 2022</h2>
 
 <div class="text-center">
 <figure class="figure">
   
   <a href="#" data-toggle="modal" data-target="#a">
   
-    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-2022-04-04-data.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
+    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-data.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
   
   </a>
   
@@ -28,7 +28,7 @@
       </div>
       <div class="modal-body">
         <a id="no-ext-link" href="http://apps.webofknowledge.com" target="_blank">
-        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-2022-04-04-data.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-data.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
         </a>
       </div>
       <div class="modal-footer">
@@ -47,7 +47,7 @@
   
   <a href="#" data-toggle="modal" data-target="#b">
   
-    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-2022-04-04.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
+    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-citations.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
   
   </a>
   
@@ -70,7 +70,7 @@
       </div>
       <div class="modal-body">
         <a id="no-ext-link" href="http://apps.webofknowledge.com" target="_blank">
-        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-2022-04-04.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-citations.png" alt="Fonte: Web of Science" title="Fonte: Web of Science" />
         </a>
       </div>
       <div class="modal-footer">
@@ -89,7 +89,7 @@
   
   <a href="#" data-toggle="modal" data-target="#c">
   
-    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-2019-04-03-areas.png" alt="Principais áreas de publicação" title="Principais áreas de publicação" />
+    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/ISI-areas.png" alt="Principais áreas de publicação" title="Principais áreas de publicação" />
   
   </a>
   
@@ -111,8 +111,8 @@
         </button>
       </div>
       <div class="modal-body">
-        <a id="no-ext-link" href="/assets/images/demar/ISI-2019-04-03-areas.png" target="_blank">
-        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-2019-04-03-areas.png" alt="Principais áreas de publicação" title="Principais áreas de publicação" />
+        <a id="no-ext-link" href="/assets/images/demar/ISI-areas.png" target="_blank">
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/demar/ISI-areas.png" alt="Principais áreas de publicação" title="Principais áreas de publicação" />
         </a>
       </div>
       <div class="modal-footer">

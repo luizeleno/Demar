@@ -1,0 +1,264 @@
+I"�*<style>
+body {text-align: left;}
+</style>
+
+<div class="col-md-6 float-md-right mb-2">
+<!--
+uso num tag liquid:
+include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=zzzz
+-->
+
+<div id="biblioteca" class="carousel slide" data-ride="carousel">
+
+  <ol class="carousel-indicators">
+    
+    
+    <li data-target="#biblioteca" data-slide-to="0" class="active"></li>
+    
+    
+    
+    <li data-target="#biblioteca" data-slide-to="1"></li>
+    
+    
+    
+    <li data-target="#biblioteca" data-slide-to="2"></li>
+    
+    
+    
+    <li data-target="#biblioteca" data-slide-to="3"></li>
+    
+    
+    
+    <li data-target="#biblioteca" data-slide-to="4"></li>
+    
+    
+    
+    <li data-target="#biblioteca" data-slide-to="5"></li>
+    
+    
+  </ol>
+  <div class="carousel-inner my-0">
+    
+    <div class="carousel-item active">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#bibliotecafoto11">
+        <img class="w-100 img-responsive img-carousel" src="/Demar/assets/images/carousel/biblioteca/biblioteca-07.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="bibliotecafoto11" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/carousel/biblioteca/biblioteca-07.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/Demar/assets/images/carousel/biblioteca/biblioteca-07.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#bibliotecafoto21">
+        <img class="w-100 img-responsive img-carousel" src="/Demar/assets/images/carousel/biblioteca/biblioteca-02.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="bibliotecafoto21" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/carousel/biblioteca/biblioteca-02.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/Demar/assets/images/carousel/biblioteca/biblioteca-02.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#bibliotecafoto31">
+        <img class="w-100 img-responsive img-carousel" src="/Demar/assets/images/carousel/biblioteca/biblioteca-03.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="bibliotecafoto31" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/carousel/biblioteca/biblioteca-03.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/Demar/assets/images/carousel/biblioteca/biblioteca-03.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#bibliotecafoto71">
+        <img class="w-100 img-responsive img-carousel" src="/Demar/assets/images/carousel/biblioteca/biblioteca-01.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="bibliotecafoto71" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/carousel/biblioteca/biblioteca-01.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/Demar/assets/images/carousel/biblioteca/biblioteca-01.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#bibliotecafoto81">
+        <img class="w-100 img-responsive img-carousel" src="/Demar/assets/images/carousel/biblioteca/biblioteca-08.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="bibliotecafoto81" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/carousel/biblioteca/biblioteca-08.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/Demar/assets/images/carousel/biblioteca/biblioteca-08.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+    <div class="carousel-item ">
+      
+      <a id="no-ext-link" href="#" target="_blank" data-toggle="modal" data-target="#bibliotecafoto91">
+        <img class="w-100 img-responsive img-carousel" src="/Demar/assets/images/carousel/biblioteca/biblioteca-09.jpg" alt="" title="" style="height: " />
+      </a>
+      <!-- Modal -->
+      <div class="modal fade" id="bibliotecafoto91" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog modal-dialog-centered" role="document">
+          <div class="modal-content">
+            <div class="modal-header bg-dark text-light">
+              <h5 class="modal-title"></h5>
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span class="text-light" aria-hidden="true">&times;</span>
+              </button>
+            </div>
+            <div class="modal-body">
+                <a id="no-ext-link" target="_blank" href="/assets/images/carousel/biblioteca/biblioteca-09.jpg" title="">
+                  <img class="figure-img img-fluid rounded" src="/Demar/assets/images/carousel/biblioteca/biblioteca-09.jpg" alt="" title="" />
+                </a>
+            </div>
+            <div class="modal-footer">
+              <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <div class="carousel-caption d-none d-md-block">
+        <h5></h5>
+      </div>
+    </div>
+    
+  </div>
+</div>
+
+</div>
+
+<h1 id="atendimento">Atendimento</h1>
+
+<p>Segunda a Sexta-Feira
+8h15 às 17h45</p>
+
+<p>:telephone_receiver: +55 12 3159 9923</p>
+
+<h1 id="informações-e-serviços-online">Informações e serviços online</h1>
+
+<p>Página da biblioteca: <a target="_blank" href="http://bibliotecas2.eel.usp.br">bibliotecas2.eel.usp.br</a><br />
+Acervo virtual da USP: <a target="_blank" href="http://www.buscaintegrada.usp.br">www.buscaintegrada.usp.br</a></p>
+
+<h1 id="equipe">Equipe</h1>
+
+<p><strong>Ludmila A. V. N. Osuna</strong> – Bibliotecária CRB 8/2517<br />
+:email: <a href="mailto:ludmila@demar.eel.usp.br">ludmila@demar.eel.usp.br</a><br />
+:telephone_receiver: + 55 12 3159 9802</p>
+
+<p><strong>Regina M. L. A. e Silva</strong> – Bibliotecária CRB 8/2963<br />
+:email: <a href="mailto:amorim@demar.eel.usp.br">amorim@demar.eel.usp.br</a><br />
+:telephone_receiver: +55 12 3159 9945</p>
+
+<p><strong>Tiago Antunes Domingos</strong><br />
+ :email: <a href="mailto:tiago@demar.eel.usp.br">tiago@demar.eel.usp.br</a><br />
+:telephone_receiver: +55 12 3159 9923</p>
+:ET

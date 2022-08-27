@@ -1,6 +1,6 @@
 ---
 title: 2nd Meeting - Technological Frontiers in Engineering
-permalink: /en/fronteiras/
+permalink: /en/fronteiras2019/
 hidecarousel: true
 ---
 

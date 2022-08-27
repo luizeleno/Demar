@@ -1,1 +1,1 @@
-Sitemap: http://www.demar.eel.usp.br/Demar/sitemap.xml
+Sitemap: https://www.demar.eel.usp.br/Demar/sitemap.xml

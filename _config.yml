@@ -27,7 +27,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  localizam-se na Área II da EEL/USP.
 baseurl: /Demar # the subpath of your site, e.g. /blog
 # google_analytics: "UA-143315747-1"
-url: http://www.demar.eel.usp.br # the base hostname & protocol for your site, e.g. http://example.com
+url: https://www.demar.eel.usp.br # the base hostname & protocol for your site, e.g. http://example.com
 # github:  luizeleno
 
 # location of built site:

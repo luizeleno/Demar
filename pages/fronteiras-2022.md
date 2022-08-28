@@ -5,6 +5,8 @@ hidecarousel: true
 layout: workchopp
 ---
 
+<img src="{{site.baseurl}}/assets/images/fronteiras-3/Banner.jpg" class="img-fluid">
+
 Workshop de engenharia, tecnologia, pesquisa e inovação
 {: .lead}
 
@@ -21,18 +23,32 @@ Mantendo a tradição iniciada com a primeira edição do evento (leia mais a re
 Mas nossos objetivos continuam: promover a interação dos docentes e alunos da Escola de Engenharia de Lorena – EEL com pesquisadores nacionais
 e internacionais, cobrindo temas da área de Engenharias e aproximar pesquisadores de diversas áreas, desde as ciências básicas até suas aplicações tecnológicas, e proporcionar um fórum de discussão e integração.
 
-<a class="btn btn-lg btn-primary my-1" href="https://www.even3.com.br/3-workshop-fronteiras-cientificas-em-engenharia/" target="_blank">Mais informações e inscrição</a>
+## Palestrantes
+{: .alert .bg-dark .text-light .w-100}
 
-## Palestrantes convidados
+Serão aceitos trabalhos para apresentação oral e em formato pôster (ver mais abaixo como submeter trabalhos). Além disso, temos confirmadas a presença dos seguintes palestrantes convidados, trabalhando em áreas científicas e tecnológicas de ponta em engenharia:
 
-- **Emilie Gaudry** (Université Lorraine, Nancy, França): *Complex intermetallic compounds: (nano-)structured and elexctronically modified surfaces for unique surface properties*
+- **Emilie Gaudry** (Université Lorraine, Nancy, França): *Complex intermetallic compounds: (nano-)structured and electronically modified surfaces for unique surface properties*
 - **Bruno Pedras** (Universidade de Lisboa, Portugal): *Luminescence-based sensors: from industrial to biological applications*
-- **Antonio José Felix Carvalho** ((EESC, São Carlos)): *Nanocelulose: Um material avançado derivado de fonte renovável*
+- **Antonio José Felix Carvalho** (EESC, São Carlos): *Nanocelulose: Um material avançado derivado de fonte renovável*
 - **Ana Paola Villalva Braga** (IPT): *Pesquisa aplicada na Unidade Materiais Avançados do IPT*
 - **Sergio Souto Maior Tavares** (UFF): *Aços inoxidáveis supermartensíticos aplicados na indústria do petróleo*
 - **Elcio Abdalla** (IFUSP): *O Radio Telescópio BINGO: Cosmologia e detalhes astrofísicos do Universo em um projeto liderado pelo Brasil, com participação chinesa e internacional*
 
+## Submissão de trabalhos
+{: .alert .bg-dark .text-light .w-100}
+
+- Inscrição com desconto: até 14/10/2022
+- Inscrição sem desconto: até 23/10/2022
+- Submissão de trabalhos: até 14/10/2022
+- Evento: 24-25/10/2022
+
+<a class="btn btn-lg btn-primary my-1" href="https://www.even3.com.br/3-workshop-fronteiras-cientificas-em-engenharia/" target="_blank">Mais informações e inscrição</a>
+
+{% include figure.html image='/assets/images/fronteiras-3/Poster-small.jpg' id='banner' caption='Poster para divulgação' %}
+
 ## Comissão organizadora
+{: .alert .bg-dark .text-light .w-100}
 
 - Prof. Dr. Eduardo Rezende Triboni – DEQUI (coordenador)
 - Prof. Dr. Luiz Tadeu Fernandes Eleno - DEMAR
@@ -42,13 +58,8 @@ e internacionais, cobrindo temas da área de Engenharias e aproximar pesquisador
 - Profa. Dra. Celia Regina Tomachuk dos Santos Catuogno - DEBAS
 - Profa. Dra. Flavia Reis Cardoso Rojas – DEBAS
 
-## Apoio:
+## Apoio
+{: .alert .bg-dark .text-light .w-100}
 
-<div class="col-md-6">
-<figure class="figure">
-  <a href="http://www.fapesp.br" id="no-ext-link" target="\_blank"><img class="figure-img img-fluid" src="{{site.baseurl}}/assets/images/logos/logo-fapesp-1200x480.jpg"></a>
-  <figcaption class="figure-caption">Apoio FAPESP</figcaption>
-</figure>
-</div>
 
-{% include figure.html image='/assets/images/fronteiras-2/banner.png' id='banner' static=true %}
+<a href="http://www.fapesp.br" id="no-ext-link" target="_blank"><img src="{{site.baseurl}}/assets/images/logos/logo-fapesp-1200x480.jpg" class="img-fluid w-50"></a>

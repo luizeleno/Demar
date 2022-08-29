@@ -51,12 +51,12 @@ Serão aceitos trabalhos para apresentação oral e em formato pôster (ver mais
 {: .alert .bg-dark .text-light .w-100}
 
 - Prof. Dr. Eduardo Rezende Triboni – DEQUI (coordenador)
-- Prof. Dr. Luiz Tadeu Fernandes Eleno - DEMAR
 - Profa. Dra. Talita Martins Lacerda - DEBIQ
-- Prof. Dr. Fabio Rodolfo Miguel Batista – DEQUI
-- Profa. Dra. Bertha M. Cuadros-Melgar - DEBAS
+- Prof. Dr. Luiz Tadeu Fernandes Eleno - DEMAR
 - Profa. Dra. Celia Regina Tomachuk dos Santos Catuogno - DEBAS
+- Profa. Dra. Bertha M. Cuadros-Melgar - DEBAS
 - Profa. Dra. Flavia Reis Cardoso Rojas – DEBAS
+- Prof. Dr. Fabio Rodolfo Miguel Batista – DEQUI
 
 ## Apoio
 {: .alert .bg-dark .text-light .w-100}

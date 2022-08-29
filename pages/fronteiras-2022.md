@@ -38,10 +38,10 @@ Serão aceitos trabalhos para apresentação oral e em formato pôster (ver mais
 ## Submissão de trabalhos
 {: .alert .bg-dark .text-light .w-100}
 
-- Inscrição com desconto: até 14/10/2022
-- Inscrição sem desconto: até 23/10/2022
-- Submissão de trabalhos: até 14/10/2022
-- Evento: 24-25/10/2022
+- Inscrição com desconto: até 30/09/2022
+- Inscrição sem desconto: até 21/10/2022
+- Submissão de trabalhos: até 07/10/2022
+- Evento: 24 e 25/10/2022
 
 <a class="btn btn-lg btn-primary my-1" href="https://www.even3.com.br/3-workshop-fronteiras-cientificas-em-engenharia/" target="_blank">Mais informações e inscrição</a>
 

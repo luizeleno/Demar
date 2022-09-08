@@ -30,11 +30,12 @@ Serão aceitos trabalhos para apresentação oral e em formato pôster (ver mais
 
 - **Emilie Gaudry** (Université Lorraine, Nancy, França): *Complex intermetallic compounds: (nano-)structured and electronically modified surfaces for unique surface properties*
 - **Bruno Pedras** (Universidade de Lisboa, Portugal): *Luminescence-based sensors: from industrial to biological applications*
-- **Antonio José Felix Carvalho** (EESC, São Carlos): *Nanocelulose: Um material avançado derivado de fonte renovável*
+- **Antonio José Felix Carvalho** (EESC): *Nanocelulose: Um material avançado derivado de fonte renovável*
 - **Ana Paola Villalva Braga** (IPT): *Pesquisa aplicada na Unidade Materiais Avançados do IPT*
 - **Sergio Souto Maior Tavares** (UFF): *Aços inoxidáveis supermartensíticos aplicados na indústria do petróleo*
+- **Luís Eduardo Antunes Vieira** (INPE): *The Galileo Solar Space Telescope Mission: Concept and Challenges*
 - **Elcio Abdalla** (IFUSP): *O Radio Telescópio BINGO: Cosmologia e detalhes astrofísicos do Universo em um projeto liderado pelo Brasil, com participação chinesa e internacional*
-
+  
 ## Submissão de trabalhos
 {: .alert .bg-dark .text-light .w-100}
 

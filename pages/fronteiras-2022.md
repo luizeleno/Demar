@@ -39,7 +39,7 @@ Serão aceitos trabalhos para apresentação oral e em formato pôster (ver mais
 ## Submissão de trabalhos
 {: .alert .bg-dark .text-light .w-100}
 
-- **Inscrição com desconto:** até 30/09/2022
+- **Inscrição com desconto:** até 15/10/2022
 - **Inscrição sem desconto:** até 21/10/2022
 - **Submissão de trabalhos:** até 07/10/2022
 - **Evento:** 24 e 25/10/2022

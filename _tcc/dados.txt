@@ -1,17 +1,10 @@
-Prezado(a) Prof(a). João Paulo Pascon
-A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Gustavo Valenca Caralli intitulada SIMULAÇÃO COMPUTACIONAL NA ENGENHARIA DE MATERIAIS: UMA ABORDAGEM SOBRE SEUS IMPACTOS E PERSPECTIVAS PARA O FUTURO foi estabelecida da seguinte forma:
-
-Data: 17/08/2022
+rezado(a) Prof(a). João Paulo Pascon
+A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Natalia Cristina Santos Pereira intitulada ANÁLISE DE TENSÃO E FLEXIBILIDADE DE TUBULAÇÕES INDUSTRIAIS SOB A INFLUÊNCIA DOS CONJUNTOS DESLIZANTES. foi estabelecida da seguinte forma:
+ 
+Data: 14/10/2022
 Hora: 15:00
-Local: https://meet.google.com/sau-jjvz-xrq
-
+Local: meet.google.com/baz.uagx.szp
+ 
 A apresentação deverá ocorrer em 30 minutos com tolerãncia de 5 minutos e cada avaliador terá até 30 minutos para arguição.
-
+ 
 Encontra-se, em anexo, a FICHA DE AVALIAÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO. Favor levá-la no dia da apresentação para registro da avaliação.
-
-FICHA DE AVALIAÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO
-
-LINK MONOGRAFIA
-
-Prof. Gilberto Carvalho Coelho
-Coordenador da disciplina TG II

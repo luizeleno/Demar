@@ -46,7 +46,7 @@ Serão aceitos trabalhos para apresentação oral e em formato pôster (ver mais
 
 <a class="btn btn-lg btn-primary my-1" href="https://www.even3.com.br/3-workshop-fronteiras-cientificas-em-engenharia/" target="_blank">Mais informações e inscrição</a>
 
-{% include figure.html image='/assets/images/fronteiras-3/NovoPoster-area2.jpg' id='banner' caption='Poster para divulgação' %}
+{% include figure.html image='/assets/images/fronteiras-3/NovoPoster-small.jpg' id='banner' caption='Poster para divulgação' %}
 
 ## Comissão organizadora
 {: .alert .bg-dark .text-light .w-100}

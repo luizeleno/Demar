@@ -1,6 +1,183 @@
-I"�<p><img src="/assets/images/fronteiras-3/Banner.jpg" class="img-fluid" /></p>
+I"/+<p><img src="/assets/images/fronteiras-3/Banner.jpg" class="img-fluid" /></p>
 
 <p class="lead">Workshop de engenharia, tecnologia, pesquisa e inovação</p>
+
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm">
+      <div class="text-center">
+<figure class="figure">
+  
+  <a href="#" data-toggle="modal" data-target="#fotoa">
+  
+    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO1.jpeg" alt="" title="" />
+  
+  </a>
+  
+  
+  <figcaption class="figure-caption">
+    
+  </figcaption>
+  
+
+<!-- Modal -->
+
+<div class="modal fade" id="fotoa" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-light bg-dark">
+        <h5></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a id="no-ext-link" href="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO1.jpeg" target="_blank">
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO1.jpeg" alt="" title="" />
+        </a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</figure>
+</div>
+
+      <div class="text-center">
+<figure class="figure">
+  
+  <a href="#" data-toggle="modal" data-target="#fotob">
+  
+    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO2.jpeg" alt="" title="" />
+  
+  </a>
+  
+  
+  <figcaption class="figure-caption">
+    
+  </figcaption>
+  
+
+<!-- Modal -->
+
+<div class="modal fade" id="fotob" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-light bg-dark">
+        <h5></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a id="no-ext-link" href="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO2.jpeg" target="_blank">
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO2.jpeg" alt="" title="" />
+        </a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</figure>
+</div>
+
+    </div>
+    <div class="col-sm">
+      <div class="text-center">
+<figure class="figure">
+  
+  <a href="#" data-toggle="modal" data-target="#fotoc">
+  
+    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO3.jpeg" alt="" title="" />
+  
+  </a>
+  
+  
+  <figcaption class="figure-caption">
+    
+  </figcaption>
+  
+
+<!-- Modal -->
+
+<div class="modal fade" id="fotoc" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-light bg-dark">
+        <h5></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a id="no-ext-link" href="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO3.jpeg" target="_blank">
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO3.jpeg" alt="" title="" />
+        </a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</figure>
+</div>
+
+      <div class="text-center">
+<figure class="figure">
+  
+  <a href="#" data-toggle="modal" data-target="#fotod">
+  
+    <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO4.jpeg" alt="" title="" />
+  
+  </a>
+  
+  
+  <figcaption class="figure-caption">
+    
+  </figcaption>
+  
+
+<!-- Modal -->
+
+<div class="modal fade" id="fotod" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+    <div class="modal-content">
+      <div class="modal-header text-light bg-dark">
+        <h5></h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span class="text-light" aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <a id="no-ext-link" href="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO4.jpeg" target="_blank">
+        <img class="figure-img img-fluid rounded w-100mx-auto" src="/assets/images/fronteiras-3/GROUP_PHOTO/FOTO4.jpeg" alt="" title="" />
+        </a>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-dismiss="modal">OK</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</figure>
+</div>
+
+    </div>
+  </div>
+</div>
 
 <!-- <h2 class="text-danger">Inscrições prorrogadas até 08 de outubro!</h2> -->
 

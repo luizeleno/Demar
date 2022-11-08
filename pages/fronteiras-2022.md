@@ -10,6 +10,19 @@ layout: workchopp
 Workshop de engenharia, tecnologia, pesquisa e inovação
 {: .lead}
 
+<div class="container-fluid">
+  <div class="row">
+    <div class="col-sm">
+      {% include figure.html image='/assets/images/fronteiras-3/GROUP_PHOTO/FOTO1.jpeg' id='fotoa' caption='' %}
+      {% include figure.html image='/assets/images/fronteiras-3/GROUP_PHOTO/FOTO2.jpeg' id='fotob' caption='' %}
+    </div>
+    <div class="col-sm">
+      {% include figure.html image='/assets/images/fronteiras-3/GROUP_PHOTO/FOTO3.jpeg' id='fotoc' caption='' %}
+      {% include figure.html image='/assets/images/fronteiras-3/GROUP_PHOTO/FOTO4.jpeg' id='fotod' caption='' %}
+    </div>
+  </div>
+</div>
+
 <!-- <h2 class="text-danger">Inscrições prorrogadas até 08 de outubro!</h2> -->
 
 <!-- <a class="btn btn-lg btn-primary mb-2" href="https://forms.gle/Nhd6sqa2YUNYr7AE8" id="no-ext-link" target="\_blank">Inscreva-se!</a> -->

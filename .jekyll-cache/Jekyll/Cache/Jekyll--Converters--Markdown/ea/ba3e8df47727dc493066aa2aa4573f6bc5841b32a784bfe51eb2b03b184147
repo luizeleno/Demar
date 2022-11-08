@@ -1,4 +1,4 @@
-I"�*<div class="container mb-3">
+I")<div class="container mb-3">
   <div class="row">
     <div class="col">
         <div class="text-center">
@@ -48,7 +48,7 @@
           <div class="text-center">
 <figure class="figure">
   
-  <a href="#" data-toggle="modal" data-target="#selo-EM">
+  <a href="#" data-toggle="modal" data-target="#selo-EF">
   
     <img class="figure-img img-fluid rounded mx-auto" src="/assets/images/demar/selo-EM.png" alt="" title="" />
   
@@ -62,7 +62,7 @@
 
 <!-- Modal -->
 
-<div class="modal fade" id="selo-EM" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="modal fade" id="selo-EF" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
     <div class="modal-content">
       <div class="modal-header text-light bg-dark">
@@ -91,7 +91,7 @@
   </div>
 </div>
 
-<h1 class="alert bg-dark text-light">Curso de Graduação em Engenharia Física</h1>
+<h1 class="alert bg-dark text-light">Engineering Physics</h1>
 
 <div class="col-md-5 float-md-right">
 <div class="text-center">
@@ -165,21 +165,17 @@ $(document).ready(function(){
 
 </div>
 
-<p><strong>Duração:</strong> 10 semestres
-<strong>Período integral:</strong> 40 vagas</p>
-
-<p>Forma um engenheiro com perfil generalista, com sólida base cientifica e tecnológica nas disciplinas de Física, Química e Matemática, preparados para aplicar esses conhecimentos básicos na inovação e resolução de problemas tecnológicos em diversas áreas, tais como Energias Alternativas, Nanotecnologia, Eletrônica Quântica, Óptica e Fotônica, Transporte, Microfabricação e desenvolvimento de novos materiais e dispositivos. A formação enfatiza simultaneamente as visões de cientista e de engenheiro que fundamentarão seu desempenho profissional. O Engenheiro Físico estará apto à pesquisa, ao desenvolvimento tecnológico e ao desempenho de papéis de liderança na introdução de novas tecnologias, processos e produtos no segmento industrial com elevado valor agregado, pesquisando e solucionando problemas das diversas áreas da tecnologia moderna.</p>
+<p>Forms an engineer with a general profile, with a solid scientific and technological base in the disciplines of Physics, Chemistry and Mathematics, prepared to apply this basic knowledge in the innovation and resolution of technological problems in several areas, such as Alternative Energies, Nanotechnology, Quantum Electronics, Optics and Photonics, Transportation, Microfabrication and development of new materials and devices. The training emphasizes simultaneously the visions of scientist and engineer that will base their professional performance. The Physical Engineer will be able to research, technological development and leadership roles in the introduction of new technologies, processes and products in the industrial segment with high added value, researching and solving problems of the various areas of modern technology.</p>
 
 <p>
-<b>Coordenador do curso:</b> <!-- usando dummy variable names to avoid possible clashes -->
-<a href="/docentes/luiz-tadeu-fernandes-eleno.html">Prof. Dr. Luiz Tadeu Fernandes Eleno</a><br />
-:email: <a href="mailto:luizeleno@usp.br">luizeleno@usp.br</a><br />
-:telephone_receiver: +55 12 3159 9810
+<b>Course coordinator: </b><a href="/en//docentes/katia-cristiane-gandolpho-candioto.html">Profa. Dra. Katia Cristiane Gandolpho Candioto</a><br />
+:email: <a href="mailto:kcandioto@usp.br">kcandioto@usp.br</a><br />
+:telephone_receiver: +55 12 3159 9943
 </p>
 
-<p><a href="https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=88&amp;codcur=88301&amp;codhab=0&amp;tipo=N" target="_blank">Matriz Curricular</a></p>
+<p><a href="https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=88&amp;codcur=88301&amp;codhab=0&amp;tipo=N" target="_blank">Course Program</a></p>
 
-<h1 class="alert bg-dark text-light">Curso de Graduação em Engenharia de Materiais</h1>
+<h1 class="alert bg-dark text-light">Materials Engineering</h1>
 
 <div class="col-md-5 float-md-right">
 <div class="text-center">
@@ -253,16 +249,13 @@ $(document).ready(function(){
 
 </div>
 
-<p><strong>Duração:</strong> 10 semestres
-<strong>Período integral:</strong> 40 vagas</p>
+<p>Forms an engineer with profile to work in the area of ​​research and development of materials with technological application with inter and multidisciplinary vision of the traditional areas of Materials Engineering: Metallurgy, Ceramics, Polymers and Composites. Materials engineers study the relationship between material structure, properties, and performance to obtain new applications or improve the quality of existing materials. From the car to the kitchen utensils, from the cell phone to the fabrics of the clothes, practically everything has the intervention of a professional of materials engineering. Material engineers operate in a variety of industrial sectors: metal-mechanics, metallurgical and steel industries, plastics processing industries, automotive industries, ceramic tile and tile manufacturing industries, textile and synthetic fiber manufacturing industries, aeronautical industry and electro-electronic sector. The Materials Engineer will also be able to research, technological development and leadership roles in the introduction of new technologies, processes and products in the industrial segment.</p>
 
-<p>Forma um engenheiro com perfil para atuar na área de pesquisa e desenvolvimento de materiais com aplicação tecnológica com visão inter e multidisciplinar das áreas tradicionais de Engenharia de Materiais: Metalurgia, Cerâmicas, Polímeros e Compósitos. Os engenheiros de materiais estudam a relação entre a estrutura, as propriedades e o desempenho dos materiais, visando obter novas aplicações ou melhorar a qualidade dos materiais existentes. Do carro aos utensílios de cozinha, do telefone celular aos tecidos das roupas, praticamente tudo tem a intervenção de um profissional de engenharia de materiais. Os engenheiros de materiais atuam em diversos setores industriais: metal-mecânico, indústrias metalúrgicas e siderúrgicas, indústrias de transformação de plásticos, indústrias automobilísticas, indústrias de produção de revestimentos e pisos cerâmicos, indústrias têxteis e de fabricação de fibras sintéticas, indústria aeronáutica e no setor eletro-eletrônico. O Engenheiro de Materiais estará ainda apto à pesquisa, ao desenvolvimento tecnológico e ao desempenho de papéis de liderança na introdução de novas tecnologias, processos e produtos no segmento industrial.</p>
-
-<p><b>Coordenador do curso:</b> <!-- usando dummy variable names to avoid possible clashes -->
-<a href="/docentes/maria-ismenia-sodero-toledo-faria.html">Profa. Dra. Maria Ismenia Sodero Toledo Faria</a><br />
-:email: <a href="mailto:maria.ismenia@usp.br">maria.ismenia@usp.br</a><br />
+<p>
+<b>Course coordinator: </b><a href="/en//docentes/maria-ismenia-sodero-toledo-faria.html">Profa. Dra. Maria Ismenia Sodero Toledo Faria</a><br />
+:email: <a href="mailto:kcandioto@usp.br">maria.ismenia@usp.br</a><br />
 :telephone_receiver: +55 12 3159 9808
 </p>
 
-<p><a href="https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=88&amp;codcur=88202&amp;codhab=0&amp;tipo=N" target="_blank">Matriz Curricular</a></p>
+<p><a href="https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=88&amp;codcur=88202&amp;codhab=0&amp;tipo=N" target="_blank">Course program</a></p>
 :ET

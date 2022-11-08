@@ -17,20 +17,20 @@ coc-em:
       suplente: Guilherme Bresser Ribeiro
 
 coc-ef:
-  coordenador: eleno
-  vice: katia
+  coordenador: katia
+  vice: jeff
   membros:
-    - titular: eleno
-      suplente: durval
     - titular: katia
-      suplente: mariajose
+      suplente: paulo
+    - titular: mariajose
+      suplente: eleno
     - titular: jeff
       suplente: emerson
   outros:
-    - titular: Prof. Dr. Antonio Iacono (representante do DEQUI)
+    - titular: Profª Drª Daniela Helena Pelegrine Guimarães (representante do DEQUI)
       suplente: Prof. Eduardo Triboni
-    - titular: Vinicius Gabriel Gomes de Albuquerque (representante discente)
-      suplente: Higor Natan Alves Ferreira
+    - titular: Bruno Gomes Cordeiro (representante discente)
+      suplente: Vinicius Gabriel Gomes de Albuquerque
 
 cg:
   - titular: ismenia

@@ -5,3 +5,45 @@
   horario:  " 08:00 "
   local:  "Escola" 
 
+- orientador:  Carlos Yujiro Shigue 
+  aluno:  Ana Beatriz Yumi Mihara 
+  titulo:  "APLICAÇÃO DE DATA SCIENCE E MACHINE LEARNING NO ENEM: O REFLEXO SOCIOCULTURAL NO DESEMPENHO DOS ALUNOS  "
+  data:  09/12/2022
+  horario:  " 17:00 "
+  local:  "Google" 
+
+- orientador:  Ronan Arraes Jardim Chagas 
+  aluno:  Geovani Augusto Xavier Ribeiro 
+  titulo:  "ANÁLISE DA INTERFERÊNCIA DO ALBEDO TERRESTRE NA DETERMINAÇÃO DE ATITUDE DO SATÉLITE AMAZONIA 1  "
+  data:  07/12/2022
+  horario:  " 19:00 "
+  local:  "Online" 
+
+- orientador:  José Renato Cassinelli 
+  aluno:  Jessica Thayna Fernandes da Silva 
+  titulo:  "ESTUDO DA APLICAÇÃO DE ABS RECICLADO PARA A INJEÇÃO DE ITENS DE ASPETO VISUAL  "
+  data:  08/12/2022
+  horario:  " 08:00 "
+  local:  "Google" 
+
+- orientador:  Luiz Tadeu Fernandes Eleno 
+  aluno:  Bruno Brunello Vieira 
+  titulo:  "A UTILIZAÇÃO DE ALGORITMO DE MACHINE LEARNING PARA PREDIÇÃO DE EMISSÃO DE DIÓXIDO DE CARBONO EM CIDADES BRASILEIRAS  "
+  data:  12/12/2022
+  horario:  " 19:00 "
+  local:  "Online" 
+
+- orientador:  Adriano Francisco Siqueira 
+  aluno:  Vitor Braz de Almeida 
+  titulo:  "REDES NEURAIS PARA DETECÇÃO DE TUMORES CEREBRAIS UTILIZANDO IMAGENS DE RESSONÂNCIA MAGNÉTICA  "
+  data:  21/12/2022
+  horario:  " 19:00 "
+  local:  "Online" 
+
+- orientador:  Emerson Gonçalves de Melo 
+  aluno:  Kauan Costa Silva 
+  titulo:  "ENGENHARIA DE DADOS E COMPUTAÇÃO EM NUVEM COMO BASE PARA A TOMADA DE DECISÃO ORIENTADA A DADOS EM GRANDES EMPRESAS  "
+  data:  13/12/2022
+  horario:  " 19:00 "
+  local:  "Online" 
+

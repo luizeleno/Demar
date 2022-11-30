@@ -5,10 +5,45 @@ Data: 08/12/2022
 Hora: 08:00
 Local: Escola de Engenharia de Lorena, área 2 (DEMAR)
 
-A apresentação deverá ocorrer em 30 minutos com tolerãncia de 5 minutos e cada avaliador terá até 30 minutos para arguição.
+Prezado(a) Prof(a). Carlos Yujiro Shigue
+A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Ana Beatriz Yumi Mihara intitulada APLICAÇÃO DE DATA SCIENCE E MACHINE LEARNING NO ENEM: O REFLEXO SOCIOCULTURAL NO DESEMPENHO DOS ALUNOS foi estabelecida da seguinte forma:
 
-Encontra-se, em anexo, a FICHA DE AVALIAÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO. Favor levá-la no dia da apresentação para registro da avaliação.
+Data: 09/12/2022
+Hora: 17:00
+Local: Google Meet
 
-FICHA DE AVALIAÇÃO DO TRABALHO DE CONCLUSÃO DE CURSO
+Prezado(a) Prof(a). Ronan Arraes Jardim Chagas
+A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Geovani Augusto Xavier Ribeiro intitulada ANÁLISE DA INTERFERÊNCIA DO ALBEDO TERRESTRE NA DETERMINAÇÃO DE ATITUDE DO SATÉLITE AMAZONIA 1 foi estabelecida da seguinte forma:
+ 
+Data: 07/12/2022
+Hora: 19:00
+Local: Online - Plataforma Meet
 
-LINK MONOGRAFIA
+Prezado(a) Prof(a). José Renato Cassinelli
+A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Jessica Thayna Fernandes da Silva intitulada ESTUDO DA APLICAÇÃO DE ABS RECICLADO PARA A INJEÇÃO DE ITENS DE ASPETO VISUAL foi estabelecida da seguinte forma:
+
+Data: 08/12/2022
+Hora: 08:00
+Local: Google Meet
+
+Prezado(a) Prof(a). Luiz Tadeu Fernandes Eleno
+A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Bruno Brunello Vieira intitulada A UTILIZAÇÃO DE ALGORITMO DE MACHINE LEARNING PARA PREDIÇÃO DE EMISSÃO DE DIÓXIDO DE CARBONO EM CIDADES BRASILEIRAS foi estabelecida da seguinte forma:
+
+Data: 12/12/2022
+Hora: 19:00
+Local: Online - Plataforma Google Meet
+
+Prezado(a) Prof(a). Adriano Francisco Siqueira
+A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Vitor Braz de Almeida intitulada REDES NEURAIS PARA DETECÇÃO DE TUMORES CEREBRAIS UTILIZANDO IMAGENS DE RESSONÂNCIA MAGNÉTICA foi estabelecida da seguinte forma:
+
+Data: 21/12/2022
+Hora: 19:00
+Local: Online - Plataforma Google Meet
+
+Prezado(a) Prof(a). Emerson Gonçalves de Melo
+A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Kauan Costa Silva intitulada ENGENHARIA DE DADOS E COMPUTAÇÃO EM NUVEM COMO BASE PARA A TOMADA DE DECISÃO ORIENTADA A DADOS EM GRANDES EMPRESAS foi estabelecida da seguinte forma:
+ 
+Data: 13/12/2022
+Hora: 19:00
+Local: Online - Google Meet
+ 

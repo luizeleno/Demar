@@ -1,38 +1,3 @@
-Prezado(a) Prof(a). Rosa Ana Conte
-A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Henrique Jardim Alvares da Silva Campos intitulada A VIABILIDADE DA ENERGIA NUCLEAR COMO FONTE DE ENERGIA LIMPA foi estabelecida da seguinte forma:
-
-Data: 08/12/2022
-Hora: 08:00
-Local: Escola de Engenharia de Lorena, área 2 (DEMAR)
-
-Prezado(a) Prof(a). Carlos Yujiro Shigue
-A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Ana Beatriz Yumi Mihara intitulada APLICAÇÃO DE DATA SCIENCE E MACHINE LEARNING NO ENEM: O REFLEXO SOCIOCULTURAL NO DESEMPENHO DOS ALUNOS foi estabelecida da seguinte forma:
-
-Data: 09/12/2022
-Hora: 17:00
-Local: Google Meet
-
-Prezado(a) Prof(a). Ronan Arraes Jardim Chagas
-A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Geovani Augusto Xavier Ribeiro intitulada ANÁLISE DA INTERFERÊNCIA DO ALBEDO TERRESTRE NA DETERMINAÇÃO DE ATITUDE DO SATÉLITE AMAZONIA 1 foi estabelecida da seguinte forma:
- 
-Data: 07/12/2022
-Hora: 19:00
-Local: Online - Plataforma Meet
-
-Prezado(a) Prof(a). José Renato Cassinelli
-A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Jessica Thayna Fernandes da Silva intitulada ESTUDO DA APLICAÇÃO DE ABS RECICLADO PARA A INJEÇÃO DE ITENS DE ASPETO VISUAL foi estabelecida da seguinte forma:
-
-Data: 08/12/2022
-Hora: 08:00
-Local: Google Meet
-
-Prezado(a) Prof(a). Luiz Tadeu Fernandes Eleno
-A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Bruno Brunello Vieira intitulada A UTILIZAÇÃO DE ALGORITMO DE MACHINE LEARNING PARA PREDIÇÃO DE EMISSÃO DE DIÓXIDO DE CARBONO EM CIDADES BRASILEIRAS foi estabelecida da seguinte forma:
-
-Data: 12/12/2022
-Hora: 19:00
-Local: Online - Plataforma Google Meet
-
 Prezado(a) Prof(a). Adriano Francisco Siqueira
 A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Vitor Braz de Almeida intitulada REDES NEURAIS PARA DETECÇÃO DE TUMORES CEREBRAIS UTILIZANDO IMAGENS DE RESSONÂNCIA MAGNÉTICA foi estabelecida da seguinte forma:
 
@@ -55,17 +20,10 @@ Hora: 14:00
 Local: meet.google.com/njh-mphm-byz
 
 Prezado(a) Prof(a). Luiz Tadeu Fernandes Eleno
-A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Eliza Carolina Feltrin intitulada DETERMINAÇÃO DA ENERGIA DE FORMAÇÃO E DA DENSIDADE DE ESTADOS DO COMPOSTO IN3SN A PARTIR DE CÁLCULOS AB INITIO do qual participará como membro avaliador foi estabelecida da seguinte forma:
+A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Eliza Carolina Feltrin intitulada DETERMINAÇÃO DA ENERGIA DE FORMAÇÃO E DA DENSIDADE DE ESTADOS DO COMPOSTO IN3SN A PARTIR DE CÁLCULOS AB INITIO foi estabelecida da seguinte forma:
 
 Data: 19/12/2022
 Hora: 16:30:00
-Local: Online
-
-Prezado(a) Prof(a). Fabio Florenzano
-A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Késsiley Caroline Chaves Vilela intitulada AVALIAÇÃO POR CROMATOGRAFIA GASOSA DA CONCENTRAÇÃO DO ÓLEO ESSENCIAL DE EUCALIPTO DE UM PRODUTO FARMACÊUTICO EM EMBALAGENS METÁLICAS DE FOLHA DE FLANDRES E DE POLIPROPILENO. foi estabelecida da seguinte forma:
-
-Data: 09/12/2022
-Hora: 08:00
 Local: Online
 
 Prezado(a) Prof(a). Henrique Giacomini
@@ -82,19 +40,13 @@ Data: 20/12/2022
 Hora: 10:00
 Local: Online
 
-Prezado(a) Prof(a). Adriano Francisco Siqueira
-A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Guilherme Lucchesi Alves Balio intitulada FERRAMENTAS DE SINCRONIZAÇÃO DE TAREFAS EM SISTEMAS OPERACIONAIS DE TEMPO REAL (RTOS). foi estabelecida da seguinte forma:
-
-Data: //
-Hora:
-Local:
-
 Prezado(a) Prof(a). Katia Cristiane Gandolpho Candioto
 A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Isabela Boanova Lourenço intitulada O CURSO DE GRADUAÇÃO EM ENGENHARIA FÍSICA NO BRASIL E AS PRINCIPAIS ÁREAS DE ATUAÇÃO DOS EGRESSOS. foi estabelecida da seguinte forma:
 
 Data: 16/12/2022
 Hora: 09:30
 Local: meet.google.com/ego-ocdt-kdk
+
 Prezado(a) Prof(a). Ana Claudia Oliveira Carreira Nishyama
 A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Pedro Enrique Soares de Lima intitulada ESTUDO DOS EFEITOS DE ADIÇÃO DE ÓXIDO DE GRAFENO (GO) E DO PROCESSO DE AUTOCLAVAGEM NO PLLA foi estabelecida da seguinte forma:
 
@@ -115,3 +67,25 @@ A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orie
 Data: 19/12/2022
 Hora: 10:00
 Local: Escola de Engenharia de Lorena - Área II (DEMAR)
+
+Prezado(a) Prof(a). Sebastião Ribeiro
+A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) João Pedro Brandão Leoni intitulada AVALIAÇÃO DO COMPORTAMENTO MECÂNICO DE ARGAMASSAS COM DIFERENTES PROPORÇÕES DE FIBRA DE BAMBU EM SUA COMPOSIÇÃO foi estabelecida da seguinte forma:
+ 
+Data: 16/12/2022
+Hora: 10:00
+Local: Departamento de Engenharia de Materiais
+
+Prezado(a) Prof(a). Fernando Vernilli Junior
+A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) Camilla Nogueira Rocha dos Santos intitulada ESTUDO SOBRE A POSSIBILIDADE DE UM SEGUNDO ENVASE EM GARRAFAS NÃO RETORNÁVEIS foi estabelecida da seguinte forma:
+
+Data: 21/12/2022
+Hora: 16:00
+Local: Online
+
+Prezado(a) Prof(a). Danilo Alencar de Abreu
+A apresentação da monografia de Trabalho de Conclusão de Curso do seu(s) orientado(a)(s) João Vitor Muezerie Costa intitulada ESTUDO DO COMPORTAMENTO MECÂNICO DE UMA MODIFICAÇÃO DO AÇO AISI P20 APÓS TRATAMENTOS TÉRMICOS DISTINTOS DE TÊMPERA E REVENIMENTO foi estabelecida da seguinte forma:
+
+Data: 20/12/2022
+Hora: 09:30
+Local: Online
+

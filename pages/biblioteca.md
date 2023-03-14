@@ -13,10 +13,11 @@ body {text-align: left;}
 
 # Atendimento
 
-Segunda a Sexta-Feira
-8h15 às 17h45
+Segunda a Sexta-Feira,
+8h15-11h45 &mdash; 13h-17h45
 
 :telephone_receiver: +55 12 3159 9923
+:email: [biblio2@eel.usp.br](mailto:biblio2@eel.usp.br)
 
 # Informações e serviços online
 
@@ -25,14 +26,15 @@ Acervo virtual da USP: <a target="_blank" href="http://www.buscaintegrada.usp.br
 
 # Equipe
 
-**Ludmila A. V. N. Osuna** -- Bibliotecária CRB 8/2517  
-:email: [ludmila@demar.eel.usp.br](mailto:ludmila@demar.eel.usp.br)  
-:telephone_receiver: + 55 12 3159 9802
+**Roselayne Laura dos Santos** -- Chefia Técnica do Serviço de Biblioteca  
+Bibliotecária CRB 8/8805  
+:email: [roselayne@usp.br](mailto:roselayne@usp.br)  
+:telephone_receiver: (12) 3159 9804
 
 **Regina M. L. A. e Silva** -- Bibliotecária CRB 8/2963  
 :email: [amorim@demar.eel.usp.br](mailto:amorim@demar.eel.usp.br)  
-:telephone_receiver: +55 12 3159 9945
+:telephone_receiver: (12) 3159 9945
 
 **Tiago Antunes Domingos**  
  :email: [tiago@demar.eel.usp.br](mailto:tiago@demar.eel.usp.br)  
-:telephone_receiver: +55 12 3159 9923
+:telephone_receiver: (12) 3159 9923

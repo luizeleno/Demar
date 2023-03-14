@@ -1,0 +1,26 @@
+---
+layout: post
+title:
+  br: "Visita do Prof. Baldan"
+  en: "Prof. Baldan's visit"
+image: /assets/images/noticias/visita-baldan.jpg
+caption:
+  br: "Visita do Prof. Baldan"
+  en: "Prof. Baldan's visit"
+---
+
+{% contentfor br %}
+
+O DEMAR recebeu a visita do Prof. Carlos Alberto Baldan e sua esposa, Sra. Maria Isabel Baldan, na data de 13/12/2023.
+
+O Prof. Baldan foi um dos principais responsáveis pela implantação do Projeto Nióbio, criado ainda na época da Fundação de Tecnologia Industrial. Dentre suas inúmeras atividades, dedicou-se tanto à parte científica do projeto, mas principalmente à gestão administrativa, respondendo pela gestão do contrato com a CBMM e ativamente na busca de recursos para continuidade e expansão do projeto. O Prof. Baldan se aposentou este ano após mais de 45 anos de dedicação ao Projeto Nióbio, embrião da criação deste Departamento e, mais adiante, dos cursos de graduação e pós-graduação. A foto mostra parte da equipe que atuou diretamente com ele nos anos de 1990 e 2000.
+
+{% endcontentfor %}
+
+{% contentfor en %}
+
+DEMAR received Prof. Carlos Alberto Baldan and his wife, Mrs. Maria Isabel Baldan, on 12/13/2023.
+
+Prof. Baldan was one of the main people responsible for implementing the Niobium Project, created at the time of the Industrial Technology Foundation. Among his numerous activities, he dedicated himself not only to the scientific part of the project, but mainly to administrative management, being responsible for managing the contract with CBMM and actively seeking resources for the continuity and expansion of the project. Prof. Baldan retired this year after more than 45 years of dedication to the Niobium Project, the embryo of the creation of this Department and, later on, of undergraduate and graduate courses. The photo shows part of the team that worked directly with him in the 1990s and 2000s.
+
+{% endcontentfor %}

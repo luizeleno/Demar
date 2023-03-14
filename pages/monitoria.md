@@ -1,39 +1,32 @@
 ---
-title: Monitoria 20201
+title: Monitoria 20231
 permalink: /monitoria/
 
-encerrado: true
+encerrado: false
 
-periodo: 02/2021
+periodo: 01/2023
 
 disciplinas:
-  - 
-    sigla: LOM3047
-    nome: Técnicas de Análise Química
-    docente: angelo
-    periodo: 12 a 17 de agosto de 2021
-    edital: LOM3047.pdf
-    ficha:
   - 
     sigla: LOM3049
     nome: Termodinâmica de Máquinas
     docente: rosa
-    periodo: 11 a 15 de agosto de 2021
-    edital: LOM3049.docx
+    periodo: 08 a 15 de março de 2023
+    edital: LOM3049.pdf
     ficha: 
+  -
+    sigla: LOM3087
+    nome: Laboratório de Engenharia de Materiais III
+    docente: gilberto
+    periodo: 08 a 15 de março de 2023
+    edital: LOM3087.pdf
+    ficha:
   - 
-    sigla: LOM3204
-    nome: Desenho técnico e Projeto Assistido por Computador
-    docente: katia
-    periodo: 10 a 15 de agosto de 2021
-    edital: LOM3204.pdf
-    ficha: 
-  - 
-    sigla: LOM3254
-    nome: Laboratório de Circuitos Elétricos
-    docente: emerson
-    periodo: 11 a 18 de agosto de 2021
-    edital: LOM3254.pdf
+    sigla: LOM3227
+    nome: Métodos Computacionais da Física
+    docente: eleno
+    periodo: 10 a 16 de março de 2023
+    edital: LOM3227.pdf
     ficha: 
 
 ---

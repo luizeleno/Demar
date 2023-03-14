@@ -35,7 +35,10 @@
     }
     
     if($0 ~ /Local:/) {
-        local = "\"" $2 "\"";
+        local = ""
+        for(i=2; i <= NF; i++)
+            local =  local $i " ";
+        local = "\"" local "\"";
         # TODO: pegar toda a string até o final do registro
         print("  local: ", local, "\n");
     }

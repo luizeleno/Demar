@@ -1,119 +1,91 @@
-- orientador:  Rosa Ana Conte 
-  aluno:  Henrique Jardim Alvares da Silva Campos 
-  titulo:  "A VIABILIDADE DA ENERGIA NUCLEAR COMO FONTE DE ENERGIA LIMPA  "
-  data:  08/12/2022
-  horario:  " 08:00 "
-  local:  "Escola" 
-
-- orientador:  Carlos Yujiro Shigue 
-  aluno:  Ana Beatriz Yumi Mihara 
-  titulo:  "APLICAÇÃO DE DATA SCIENCE E MACHINE LEARNING NO ENEM: O REFLEXO SOCIOCULTURAL NO DESEMPENHO DOS ALUNOS  "
-  data:  09/12/2022
-  horario:  " 17:00 "
-  local:  "Google" 
-
-- orientador:  Ronan Arraes Jardim Chagas 
-  aluno:  Geovani Augusto Xavier Ribeiro 
-  titulo:  "ANÁLISE DA INTERFERÊNCIA DO ALBEDO TERRESTRE NA DETERMINAÇÃO DE ATITUDE DO SATÉLITE AMAZONIA 1  "
-  data:  07/12/2022
-  horario:  " 19:00 "
-  local:  "Online" 
-
-- orientador:  José Renato Cassinelli 
-  aluno:  Jessica Thayna Fernandes da Silva 
-  titulo:  "ESTUDO DA APLICAÇÃO DE ABS RECICLADO PARA A INJEÇÃO DE ITENS DE ASPETO VISUAL  "
-  data:  08/12/2022
-  horario:  " 08:00 "
-  local:  "Google" 
-
-- orientador:  Luiz Tadeu Fernandes Eleno 
-  aluno:  Bruno Brunello Vieira 
-  titulo:  "A UTILIZAÇÃO DE ALGORITMO DE MACHINE LEARNING PARA PREDIÇÃO DE EMISSÃO DE DIÓXIDO DE CARBONO EM CIDADES BRASILEIRAS  "
-  data:  12/12/2022
-  horario:  " 19:00 "
-  local:  "Online" 
-
 - orientador:  Adriano Francisco Siqueira 
   aluno:  Vitor Braz de Almeida 
   titulo:  "REDES NEURAIS PARA DETECÇÃO DE TUMORES CEREBRAIS UTILIZANDO IMAGENS DE RESSONÂNCIA MAGNÉTICA  "
   data:  21/12/2022
   horario:  " 19:00 "
-  local:  "Online" 
+  local:  "Online - Plataforma Google Meet " 
 
 - orientador:  Emerson Gonçalves de Melo 
   aluno:  Kauan Costa Silva 
   titulo:  "ENGENHARIA DE DADOS E COMPUTAÇÃO EM NUVEM COMO BASE PARA A TOMADA DE DECISÃO ORIENTADA A DADOS EM GRANDES EMPRESAS  "
   data:  13/12/2022
   horario:  " 19:00 "
-  local:  "Online" 
+  local:  "Online - Google Meet " 
 
 - orientador:  Julio César Lourenço 
   aluno:  Lorenzo Petermann de Souza 
   titulo:  "AVALIAÇÃO DO REPARO SMAW UTILIZADO EM TUBOS COM COSTURA SOLDADOS POR SAW APLICANDO TÉCNICAS ELETROQUÍMICAS E MICROESTRUTURAIS  "
   data:  16/12/2022
   horario:  " 14:00 "
-  local:  "meet.google.com/njh-mphm-byz" 
+  local:  "meet.google.com/njh-mphm-byz " 
 
 - orientador:  Luiz Tadeu Fernandes Eleno 
   aluno:  Eliza Carolina Feltrin 
-  titulo:  "DETERMINAÇÃO DA ENERGIA DE FORMAÇÃO E DA DENSIDADE DE ESTADOS DO COMPOSTO IN3SN A PARTIR DE CÁLCULOS AB INITIO do qual participará como membro avaliador  "
+  titulo:  "DETERMINAÇÃO DA ENERGIA DE FORMAÇÃO E DA DENSIDADE DE ESTADOS DO COMPOSTO IN3SN A PARTIR DE CÁLCULOS AB INITIO  "
   data:  19/12/2022
   horario:  " 16:30:00 "
-  local:  "Online" 
-
-- orientador:  Fabio Florenzano 
-  aluno:  Késsiley Caroline Chaves Vilela 
-  titulo:  "AVALIAÇÃO POR CROMATOGRAFIA GASOSA DA CONCENTRAÇÃO DO ÓLEO ESSENCIAL DE EUCALIPTO DE UM PRODUTO FARMACÊUTICO EM EMBALAGENS METÁLICAS DE FOLHA DE FLANDRES E DE POLIPROPILENO.  "
-  data:  09/12/2022
-  horario:  " 08:00 "
-  local:  "Online" 
+  local:  "Online " 
 
 - orientador:  Henrique Giacomini 
   aluno:  Cainan Akira Yano Miranda 
   titulo:  "DIMENSIONAMENTO RESIDENCIAL DE UM SISTEMA FOTOVOLTAICO  "
   data:  21/12/2022
   horario:  " 19:00 "
-  local:  "Online" 
+  local:  "Online " 
 
 - orientador:  Carlos Yujiro Shigue 
   aluno:  Maria Eduarda de Oliveira D'Avila Gardingo 
   titulo:  "DESENVOLVIMENTO DE METODOLOGIA PARA CARACTERIZAÇÃO DE RESINAS USADAS EM BOBINAS SUPERCONDUTORAS  "
   data:  20/12/2022
   horario:  " 10:00 "
-  local:  "Online" 
-
-- orientador:  Adriano Francisco Siqueira 
-  aluno:  Guilherme Lucchesi Alves Balio 
-  titulo:  "FERRAMENTAS DE SINCRONIZAÇÃO DE TAREFAS EM SISTEMAS OPERACIONAIS DE TEMPO REAL (RTOS).  "
-  data:  //
-  horario:  "  "
-  local:  "" 
+  local:  "Online " 
 
 - orientador:  Katia Cristiane Gandolpho Candioto 
   aluno:  Isabela Boanova Lourenço 
   titulo:  "O CURSO DE GRADUAÇÃO EM ENGENHARIA FÍSICA NO BRASIL E AS PRINCIPAIS ÁREAS DE ATUAÇÃO DOS EGRESSOS.  "
   data:  16/12/2022
   horario:  " 09:30 "
-  local:  "meet.google.com/ego-ocdt-kdk" 
+  local:  "meet.google.com/ego-ocdt-kdk " 
 
 - orientador:  Ana Claudia Oliveira Carreira Nishyama 
   aluno:  Pedro Enrique Soares de Lima 
   titulo:  "ESTUDO DOS EFEITOS DE ADIÇÃO DE ÓXIDO DE GRAFENO (GO) E DO PROCESSO DE AUTOCLAVAGEM NO PLLA  "
   data:  16/12/2022
   horario:  " 15:00 "
-  local:  "https://meet.google.com/seq-zvzv-ajx?pli=1&authuse" 
+  local:  "https://meet.google.com/seq-zvzv-ajx?pli=1&authuse " 
 
 - orientador:  Daniela Camargo Vernilli 
   aluno:  Giovana Faria Rosa 
   titulo:  "OBTENÇÃO DE HIDROXIAPATITA POR VIA ÚMIDA A PARTIR DA CA(OH)2 E K2HPO4  "
   data:  20/12/2022
   horario:  " 14:30 "
-  local:  "Lorena" 
+  local:  "Lorena - Demar " 
 
 - orientador:  Katia Cristiane Gandolpho Candioto 
   aluno:  Philip Antony Cardoso Silveira 
   titulo:  "DESENVOLVIMENTO DE CONTROLES PARA PRECIFICAÇÃO DE SWAPS DE JUROS AUSTRALIANOS E OPÇÕES SOBRE O ÍNDICE DI.  "
   data:  19/12/2022
   horario:  " 10:00 "
-  local:  "Escola" 
+  local:  "Escola de Engenharia de Lorena - Área II (DEMAR) " 
+
+- orientador:  Sebastião Ribeiro 
+  aluno:  João Pedro Brandão Leoni 
+  titulo:  "AVALIAÇÃO DO COMPORTAMENTO MECÂNICO DE ARGAMASSAS COM DIFERENTES PROPORÇÕES DE FIBRA DE BAMBU EM SUA COMPOSIÇÃO  "
+  data:  16/12/2022
+  horario:  " 10:00 "
+  local:  "Departamento de Engenharia de Materiais " 
+
+- orientador:  Fernando Vernilli Junior 
+  aluno:  Camilla Nogueira Rocha dos Santos 
+  titulo:  "ESTUDO SOBRE A POSSIBILIDADE DE UM SEGUNDO ENVASE EM GARRAFAS NÃO RETORNÁVEIS  "
+  data:  21/12/2022
+  horario:  " 16:00 "
+  local:  "Online " 
+
+- orientador:  Danilo Alencar de Abreu 
+  aluno:  João Vitor Muezerie Costa 
+  titulo:  "ESTUDO DO COMPORTAMENTO MECÂNICO DE UMA MODIFICAÇÃO DO AÇO AISI P20 APÓS TRATAMENTOS TÉRMICOS DISTINTOS DE TÊMPERA E REVENIMENTO  "
+  data:  20/12/2022
+  horario:  " 09:30 "
+  local:  "Online " 
 

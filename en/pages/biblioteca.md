@@ -14,9 +14,10 @@ body {text-align: left;}
 # Opening times
 
 Monday--Friday  
-8h15 às 17h45
+8h15-11h45 &mdash; 13h-17h45
 
 :telephone_receiver: +55 12 3159 9923
+:email: [biblio2@eel.usp.br](mailto:biblio2@eel.usp.br)
 
 # Information and online services
 
@@ -25,11 +26,13 @@ USP virtual collection: <a target="_blank" href="http://www.buscaintegrada.usp.b
 
 # Staff
 
-**Ludmila A. V. N. Osuna** -- Librarian CRB 8/2517  
-:email: [ludmila@demar.eel.usp.br](mailto:ludmila@demar.eel.usp.br)  
-:telephone_receiver: + 55 12 3159 9802
+**Roselayne Laura dos Santos** -- Head librarian  
+Bibliotecária CRB 8/8805  
+:email: [roselayne@usp.br](mailto:roselayne@usp.br)  
+:telephone_receiver: +55 12 3159 9804
 
-**Regina M. L. A. e Silva** -- Librarian CRB 8/2963  
+**Regina M. L. A. e Silva**  
+Librarian CRB 8/2963  
 :email: [amorim@demar.eel.usp.br](mailto:amorim@demar.eel.usp.br)  
 :telephone_receiver: +55 12 3159 9945
 

@@ -19,7 +19,15 @@ caption:
 
 Mais detalhes em [Edital ATAc/EEL/USP – 18/2023 - Abertura das inscrições](https://www.atac.eel.usp.br/sites/files/atac/publico/docentes/processo_seletivo/2023/edital_18-2023_-_abertura_de_inscricao_de_processo_seletivo_-_lom_-_doutores_e_mestres.pdf){: target='_blank'}
 
-## Programa para o exame:
+O candidato aprovado, ao ser contratado, deverá ministrar as seguintes disciplinas: 
+
+* [LOM3233: Microprocessadores](https://computeel.org/pyjupiter/disciplinas/lom3233.html){: target='_blank'}
+* [LOM3262: Circuitos Elétricos - Teoria e Prática](https://computeel.org/pyjupiter/disciplinas/lom3262.html){: target='_blank'}
+* [LOM3263: Eletrônica Fundamental e Aplicada](https://computeel.org/pyjupiter/disciplinas/lom3263.html){: target='_blank'}
+* [LOM3264: Fundamentos de Controle](https://computeel.org/pyjupiter/disciplinas/lom3264.html){: target='_blank'}
+* [LOM3265: Automação](https://computeel.org/pyjupiter/disciplinas/lom3265.html){: target='_blank'}
+
+## Programa para as provas:
 
 1. Controle em malha aberta e malha fechada;
 1. Controles proporcional, integral e derivativo;
@@ -33,12 +41,10 @@ Mais detalhes em [Edital ATAc/EEL/USP – 18/2023 - Abertura das inscrições](h
 1. Amplificadores operacionais;
 1. Circuitos retificadores de tensão; fontes de alimentação.
 
+
 {% endcontentfor %}
 
 {% contentfor en %}
 
-DEMAR received Prof. Carlos Alberto Baldan and his wife, Mrs. Maria Isabel Baldan, on 12/13/2023.
-
-Prof. Baldan was one of the main people responsible for implementing the Niobium Project, created at the time of the Industrial Technology Foundation. Among his numerous activities, he dedicated himself not only to the scientific part of the project, but mainly to administrative management, being responsible for managing the contract with CBMM and actively seeking resources for the continuity and expansion of the project. Prof. Baldan retired this year after more than 45 years of dedication to the Niobium Project, the embryo of the creation of this Department and, later on, of undergraduate and graduate courses. The photo shows part of the team that worked directly with him in the 1990s and 2000s.
 
 {% endcontentfor %}

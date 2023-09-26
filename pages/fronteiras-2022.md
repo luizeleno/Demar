@@ -1,6 +1,6 @@
 ---
 title: 3° Encontro - Fronteiras Científicas em Engenharia
-permalink: /fronteiras/
+permalink: /fronteiras2022/
 hidecarousel: true
 layout: workchopp
 ---

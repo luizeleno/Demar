@@ -4,11 +4,8 @@ title: 'Departamento de Engenharia de Materiais - DEMAR'
 ---
 
 <div class='row'>
-    <div class="col-md-6 float-md-right mb-2">
-        <a href='{{site.baseurl}}/fronteiras/'><img class='w-100' src='{{site.baseurl}}/assets/images/fronteiras-3/Banner.jpg'></a>
-    </div>
-    <div class="col-md-6 float-md-right mb-2">
-        <a href='https://caef-eel-usp.com.br/' id='no-ext-link'><img class='w-100' src='{{site.baseurl}}/assets/images/semef2022/sbefbannersemef.png'></a>
+    <div class="col-md-12 float-md-right mb-2">
+        <a href='{{site.baseurl}}/en/fronteiras/'><img class='w-100' src='{{site.baseurl}}/assets/images/fronteiras-4/logo.jpeg'></a>
     </div>
 </div>
 

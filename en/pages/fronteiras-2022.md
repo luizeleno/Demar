@@ -1,6 +1,6 @@
 ---
 title: 3° Meeting - Scientific Frontiers in Engineering
-permalink: /en/fronteiras/
+permalink: /en/fronteiras2022/
 hidecarousel: true
 layout: workchopp
 ---

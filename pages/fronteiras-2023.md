@@ -37,12 +37,13 @@ Serão aceitos trabalhos para apresentação oral e em formato pôster (ver mais
 - **José Antônio da Cunha Ponciano Gomes** (UFRJ/COPPE): *Monitoração e controle de corrosão em equipamentos submarinos – do projeto ao descomissionamento*
 - **Milton S. Torikachvili** (San Diego State University): *High-pressure studies of novel topological materials*
   
-## Submissão de trabalhos
+## Inscrições e submissão de trabalhos
 {: .alert .bg-dark .text-light .w-100}
 
-- **Inscrição com desconto:** até 22/10/2023
-- **Inscrição sem desconto:** até 31/10/2023
-- **Submissão de trabalhos:** até 22/10/2023
+- **Inscrição com desconto:** até 15/10/2023
+- **Inscrição sem desconto:** até 29/10/2023
+- **Inscrição de última hora:** 30 e 31/10/2023
+- **Submissão de trabalhos:** até 20/10/2023
 - **Evento:** 30 e 31/10/2023
 
 <a class="btn btn-lg btn-primary my-1" href="https://www.even3.com.br/iv-fronteiras-cientificas-em-engenharia-394546/" target="_blank">Mais informações e inscrição</a>

@@ -1,5 +1,5 @@
 ---
-title: 4th Scientific Frontiers in Engineering
+title: 4th Technological Frontiers in Engineering
 permalink: /en/fronteiras/
 hidecarousel: true
 layout: workchopp
@@ -16,9 +16,9 @@ Engineering, technology, research and innovation workshop
 <!-- <a class="btn btn-lg btn-primary my-1" href="{{site.baseurl}}/assets/images/fronteiras-2/booklet_online.pdf" target="\_blank">Caderno de resumos (pdf)</a><br> -->
 <!-- <a class="btn btn-lg btn-primary my-1" href="{{site.baseurl}}/fronteiras2/fotos">Fotos</a> -->
 
-Keeping the tradition started with the first edition of the event (read more about it on page 7 of <a href="https://site.eel.usp.br/sites/files/eel/publico/boletim/Boletim_EEL_USP_29.pdf" target="\_blank">29th EEL bulletin</a>), and continued with the [last edition (2022)]({{site.baseurl}}/en/fronteiras2022){: target="_blank"}, the **4th Scientific Frontiers in Engineering** returns even better!
+Keeping the tradition started with the first edition of the event (read more about it on page 7 of <a href="https://site.eel.usp.br/sites/files/eel/publico/boletim/Boletim_EEL_USP_29.pdf" target="\_blank">29th EEL bulletin</a>), and continued with the [last edition (2022)]({{site.baseurl}}/en/fronteiras2022){: target="_blank"}, the **4th Technological Frontiers in Engineering** returns even better!
 
-Our goals continue: to promote the interaction of teachers and students of the School of Engineering of Lorena – EEL with national researchers
+Our goals remain: to promote the interaction of teachers and students of the School of Engineering of Lorena – EEL with national researchers
 and international, covering topics in the area of ​​Engineering and bringing together researchers from different areas, from basic sciences to their technological applications, and providing a forum for discussion and integration.
 
 <a class="btn btn-lg btn-primary my-1" href="https://www.even3.com.br/iv-fronteiras-cientificas-em-engenharia-394546/" target="_blank">More information and registration</a>

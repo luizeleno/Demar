@@ -7,7 +7,7 @@ Lattes: 9830532822625339
 ResearcherID: C-9445-2012
 ORCID: 0000-0001-8600-5467
 Scopus: 6507023050
-GoogleScholar: 7tWZmNcAAAAJ
+GoogleScholar: 5VPcXM4AAAAJ
 ResearchGate: "K_Candioto"
 Linkedin: "katia-candioto-2a0aa240"
 staff:

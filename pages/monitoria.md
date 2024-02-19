@@ -1,10 +1,10 @@
 ---
-title: Monitoria 20231
+title: Monitoria 20241
 permalink: /monitoria/
 
 encerrado: false
 
-periodo: 01/2023
+periodo: "01/2024"
 
 disciplinas:
   - 
@@ -14,20 +14,7 @@ disciplinas:
     periodo: 08 a 15 de março de 2023
     edital: LOM3049.pdf
     ficha: 
-  -
-    sigla: LOM3087
-    nome: Laboratório de Engenharia de Materiais III
-    docente: gilberto
-    periodo: 08 a 15 de março de 2023
-    edital: LOM3087.pdf
-    ficha:
-  - 
-    sigla: LOM3227
-    nome: Métodos Computacionais da Física
-    docente: eleno
-    periodo: 10 a 16 de março de 2023
-    edital: LOM3227.pdf
-    ficha: 
+  
 
 ---
 
@@ -47,10 +34,10 @@ Consulte abaixo as disciplinas disponíveis:
   - **Responsável:** {%include docente.html docente=disc.docente%}
   - **Inscrições:** {{disc.periodo}}
 
-<div class="btn-group" role="group" aria-label="Monitoria{{disc.sigla}}">
-  <a role="button" class="btn btn-primary mr-1" href="{{site.baseurl}}/assets/docs/{{disc.edital}}">Edital</a>
-  {% if disc.ficha %}<a role="button" class="btn btn-primary" href="{{site.baseurl}}/assets/docs/{{disc.ficha}}">Ficha de inscrição</a>{% endif %}
-</div>
+  <div class="btn-group" role="group" aria-label="Monitoria{{disc.sigla}}">
+    <a role="button" class="btn btn-primary mr-1" href="{{site.baseurl}}/assets/docs/{{disc.edital}}">Edital</a>
+      {% if disc.ficha %}<a role="button" class="btn btn-primary" href="{{site.baseurl}}/assets/docs/{{disc.ficha}}">Ficha de inscrição</a>{% endif %}
+  </div>
 
 ---
 {% endfor %}

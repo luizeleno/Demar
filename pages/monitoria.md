@@ -11,7 +11,7 @@ disciplinas:
     sigla: LOM3049
     nome: Termodinâmica de Máquinas
     docente: rosa
-    periodo: 08 a 15 de março de 2023
+    periodo: 19 a 22 de fevereiro de 2024
     edital: LOM3049.pdf
     ficha: 
   

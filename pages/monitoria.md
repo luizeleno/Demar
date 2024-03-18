@@ -2,7 +2,7 @@
 title: Monitoria 20241
 permalink: /monitoria/
 
-encerrado: false
+encerrado: true
 
 periodo: "01/2024"
 

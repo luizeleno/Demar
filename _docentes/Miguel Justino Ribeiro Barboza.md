@@ -2,7 +2,7 @@
 nome: Miguel Justino Ribeiro Barboza
 NUSP:  5840622
 fone: +55 12 3159 9914
-email: miguelbarbosa@usp.br
+email: miguelbarboza@usp.br
 Lattes: 7437254523145444
 ResearcherID: I-3600-2012
 ORCID:

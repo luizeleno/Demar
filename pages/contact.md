@@ -28,9 +28,6 @@ body {text-align: left;}
         :triangular_flag_on_post: <a href="https://goo.gl/maps/3PnarWXHFq52">22°45'59.56''S 45°06'08.01''W</a>
         </p>
         <h2>Secretaria:</h2>
-        <p><b>Maria Alice Alves da Silva</b><br />
-        :email: <a href="mailto:malice@demar.eel.usp.br">malice@demar.eel.usp.br</a><br />
-        :telephone_receiver: +55 12 3159 9902</p>
         <p><b>Giseli Maria de Freitas Salomão Bittencourt de Azevedo</b><br />
         :email: <a href="mailto:malice@demar.eel.usp.br">giseli@demar.eel.usp.br</a><br />
         :telephone_receiver: +55 12 3159 9903</p>

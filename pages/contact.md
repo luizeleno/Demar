@@ -24,6 +24,7 @@ body {text-align: left;}
         <p>
         :email: <a href="mailto:{{site.email}}">{{site.email}}</a><br />
         :telephone_receiver: +55 12 3159 9900<br />
+        Portaria: :telephone_receiver: +55 12 3159 9900<br />
         :triangular_flag_on_post: <a href="https://goo.gl/maps/3PnarWXHFq52">22°45'59.56''S 45°06'08.01''W</a>
         </p>
         <h2>Secretaria:</h2>

@@ -8,6 +8,11 @@ loq:
       br: Engenharia da Qualidade I
       en: Quality Engineering I
 
+  - sigla: LOQ4242
+    title:
+      br: Automação e Controle de Processos Produtivos
+      en: Automation and Process Control
+
   - sigla: LOQ4250
     title:
       br: Fundamentos de Administração da Produção
@@ -184,6 +189,16 @@ lom:
     title:
       br: Processos da Indústria Metalúrgica e Siderúrgica
       en: Processes of Metallurgical and Steel Industry
+
+  - sigla: LOM3262
+    title:
+      br: Circuitos Elétricos - teoria e prática
+      en: Electrical Circuits
+
+  - sigla: LOM3265
+    title:
+      br: Automação
+      en: Automação
 
   - sigla: LOM3022
     title:

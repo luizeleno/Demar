@@ -12,7 +12,7 @@ image: sartori
 short_name: sartori
 
 disciplinas:
-  lom: [LOB1018, LOB1021, LOM3008,LOM300, LOM3228, LOM3087]
+  lom: [LOB1018, LOB1021, LOM3008, LOM300, LOM3228, LOM3087]
 
 pesquisa:
   br: ["Eletrodeposição (Eletrorevestimento, Eletrorrefino, Eletroformação, Eletroextração) de Nióbio em meio de sais fundidos", "Eletrodeposição de metais, ligas e compósitos em meio aquoso"]

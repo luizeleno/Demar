@@ -4,9 +4,7 @@
 <head>
   <meta charset="utf-8">
   
-    
-      <title>Demar :: EEL :: USP :: Laboratório de Cerâmica - Via Úmida</title>
-    
+    <title>Demar :: EEL :: USP :: Emerson gonçalves de melo</title>
   
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -28,22 +26,24 @@
   </script>
 
 <!-- Begin Jekyll SEO tag v2.8.0 -->
-<title>{“br”=&gt;”Laboratório de Cerâmica - Via Úmida”, “en”=&gt;”Ceramics Lab - wet methods”} | Demar :: EEL :: USP</title>
+<title>Emerson gonçalves de melo | Demar :: EEL :: USP</title>
 <meta name="generator" content="Jekyll v4.3.3" />
-<meta property="og:title" content="{“br”=&gt;”Laboratório de Cerâmica - Via Úmida”, “en”=&gt;”Ceramics Lab - wet methods”}" />
+<meta property="og:title" content="Emerson gonçalves de melo" />
 <meta name="author" content="Prof. Luiz T. F. Eleno" />
-<meta property="og:locale" content="br" />
+<meta property="og:locale" content="en" />
 <meta name="description" content="O Departamento de Engenharia de Materiais (DEMAR) iniciou suas atividades em 1978 com o Projeto Nióbio (veja o Histórico) e desde 2006 integra a Escola de Engenharia de Lorena (EEL), uma das Unidades de Ensino e Pesquisa da Universidade de São Paulo (USP). Atualmente o DEMAR conta com 34 docentes, 31 dos quais com doutorado. Desses, 12 têm título de Livre-Docente e 13 são bolsistas de produtividade do CNPq. O DEMAR coordena e ministra as disciplinas específicas dos cursos de graduação em Engenharia Física e Engenharia de Materiais, além de disciplinas relacionadas à área de materiais do Ciclo Básico da EEL/USP. Docentes do departamento também ministram disciplinas e orientam teses e dissertações no Programa de Pós Graduação em Engenharia de Materiais (mestrado e doutorado) e no Programa de Pós Graduação em Projetos Educacionais de Ciências (mestrado profissional). As instalações do DEMAR localizam-se na Área II da EEL/USP." />
 <meta property="og:description" content="O Departamento de Engenharia de Materiais (DEMAR) iniciou suas atividades em 1978 com o Projeto Nióbio (veja o Histórico) e desde 2006 integra a Escola de Engenharia de Lorena (EEL), uma das Unidades de Ensino e Pesquisa da Universidade de São Paulo (USP). Atualmente o DEMAR conta com 34 docentes, 31 dos quais com doutorado. Desses, 12 têm título de Livre-Docente e 13 são bolsistas de produtividade do CNPq. O DEMAR coordena e ministra as disciplinas específicas dos cursos de graduação em Engenharia Física e Engenharia de Materiais, além de disciplinas relacionadas à área de materiais do Ciclo Básico da EEL/USP. Docentes do departamento também ministram disciplinas e orientam teses e dissertações no Programa de Pós Graduação em Engenharia de Materiais (mestrado e doutorado) e no Programa de Pós Graduação em Projetos Educacionais de Ciências (mestrado profissional). As instalações do DEMAR localizam-se na Área II da EEL/USP." />
-<link rel="canonical" href="https://www.demar.eel.usp.br/labs/laborat%C3%B3rio-de-cer%C3%A2mica-via-%C3%BAmida.html" />
-<meta property="og:url" content="https://www.demar.eel.usp.br/labs/laborat%C3%B3rio-de-cer%C3%A2mica-via-%C3%BAmida.html" />
+<link rel="canonical" href="https://www.demar.eel.usp.br/en/docentes/emerson-gon%C3%A7alves-de-melo.html" />
+<meta property="og:url" content="https://www.demar.eel.usp.br/en/docentes/emerson-gon%C3%A7alves-de-melo.html" />
 <meta property="og:site_name" content="Demar :: EEL :: USP" />
+<meta property="og:image" content="https://www.demar.eel.usp.br/emerson" />
 <meta property="og:type" content="article" />
 <meta property="article:published_time" content="2024-06-26T08:22:05-03:00" />
-<meta name="twitter:card" content="summary" />
-<meta property="twitter:title" content="{“br”=&gt;”Laboratório de Cerâmica - Via Úmida”, “en”=&gt;”Ceramics Lab - wet methods”}" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="https://www.demar.eel.usp.br/emerson" />
+<meta property="twitter:title" content="Emerson gonçalves de melo" />
 <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Prof. Luiz T. F. Eleno"},"dateModified":"2024-06-26T08:22:05-03:00","datePublished":"2024-06-26T08:22:05-03:00","description":"O Departamento de Engenharia de Materiais (DEMAR) iniciou suas atividades em 1978 com o Projeto Nióbio (veja o Histórico) e desde 2006 integra a Escola de Engenharia de Lorena (EEL), uma das Unidades de Ensino e Pesquisa da Universidade de São Paulo (USP). Atualmente o DEMAR conta com 34 docentes, 31 dos quais com doutorado. Desses, 12 têm título de Livre-Docente e 13 são bolsistas de produtividade do CNPq. O DEMAR coordena e ministra as disciplinas específicas dos cursos de graduação em Engenharia Física e Engenharia de Materiais, além de disciplinas relacionadas à área de materiais do Ciclo Básico da EEL/USP. Docentes do departamento também ministram disciplinas e orientam teses e dissertações no Programa de Pós Graduação em Engenharia de Materiais (mestrado e doutorado) e no Programa de Pós Graduação em Projetos Educacionais de Ciências (mestrado profissional). As instalações do DEMAR localizam-se na Área II da EEL/USP.","headline":"{“br”=&gt;”Laboratório de Cerâmica - Via Úmida”, “en”=&gt;”Ceramics Lab - wet methods”}","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.demar.eel.usp.br/labs/laborat%C3%B3rio-de-cer%C3%A2mica-via-%C3%BAmida.html"},"url":"https://www.demar.eel.usp.br/labs/laborat%C3%B3rio-de-cer%C3%A2mica-via-%C3%BAmida.html"}</script>
+{"@context":"https://schema.org","@type":"BlogPosting","author":{"@type":"Person","name":"Prof. Luiz T. F. Eleno"},"dateModified":"2024-06-26T08:22:05-03:00","datePublished":"2024-06-26T08:22:05-03:00","description":"O Departamento de Engenharia de Materiais (DEMAR) iniciou suas atividades em 1978 com o Projeto Nióbio (veja o Histórico) e desde 2006 integra a Escola de Engenharia de Lorena (EEL), uma das Unidades de Ensino e Pesquisa da Universidade de São Paulo (USP). Atualmente o DEMAR conta com 34 docentes, 31 dos quais com doutorado. Desses, 12 têm título de Livre-Docente e 13 são bolsistas de produtividade do CNPq. O DEMAR coordena e ministra as disciplinas específicas dos cursos de graduação em Engenharia Física e Engenharia de Materiais, além de disciplinas relacionadas à área de materiais do Ciclo Básico da EEL/USP. Docentes do departamento também ministram disciplinas e orientam teses e dissertações no Programa de Pós Graduação em Engenharia de Materiais (mestrado e doutorado) e no Programa de Pós Graduação em Projetos Educacionais de Ciências (mestrado profissional). As instalações do DEMAR localizam-se na Área II da EEL/USP.","headline":"Emerson gonçalves de melo","image":"https://www.demar.eel.usp.br/emerson","mainEntityOfPage":{"@type":"WebPage","@id":"https://www.demar.eel.usp.br/en/docentes/emerson-gon%C3%A7alves-de-melo.html"},"url":"https://www.demar.eel.usp.br/en/docentes/emerson-gon%C3%A7alves-de-melo.html"}</script>
 <!-- End Jekyll SEO tag -->
 
 
@@ -89,12 +89,12 @@
 <nav class="navbar navbar-expand-xl navbar-dark bg-dark py-0 my-0">
 
   
-    <a class="navbar-brand" href="/">
-      <img src="/assets/images/logos/eel-logo.png" height="30px" title="Departamento de Engenharia de Materiais — EEL/USP">
-      <span data-toggle="tooltip" data-placement="bottom" title="Departamento de Engenharia de Materiais — EEL/USP">
-        Demar :: EEL :: USP
+    <a class="navbar-brand" href="/en/">
+    <img src="/assets/images/logos/eel-logo.png" height="30px" title="Materials Engineering Department &mdash; EEL/USP">
+    <span data-toggle="tooltip" data-placement="bottom" title="Materials Engineering Department &mdash; EEL/USP">
+      Demar :: EEL :: USP
       </span>
-  
+      
   </a>
 
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -108,20 +108,20 @@
         
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Institucional
+              Institutional
             </a>
             <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/missao/">Missão</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/missao/">Mission</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/historico/">Nossa História</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/historico/">Our Story</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/adm/">Administração</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/adm/">Administration</a>
                 
               
             </div>
@@ -131,16 +131,16 @@
         
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Equipe
+              Team
             </a>
             <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/docentes/">Docentes</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/docentes/">Faculty</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/staff/">Equipe de Apoio</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/staff/">Supporting Staff</a>
                 
               
             </div>
@@ -150,24 +150,24 @@
         
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Ensino
+              Teaching
             </a>
             <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/grad/">Graduação</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/grad/">Undergraduate</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/monitoria/">Oportunidades de Monitoria</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/monitoria/">Tutoring opportunities</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/TCC/">Trabalhos de Conclusão de Curso</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/TCC/">End Papers</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/posgrad/">Pós-Graduação</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/posgrad/">Graduate</a>
                 
               
             </div>
@@ -177,20 +177,20 @@
         
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-              Pesquisa
+              Research
             </a>
             <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/linhas-de-pesquisa/">Grupos de Pesquisa</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/linhas-de-pesquisa/">Research Groups</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/labs/">Laboratórios</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/labs/">Laboratories</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/indicadores/">Indicadores</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/indicadores/">Indicators</a>
                 
               
             </div>
@@ -205,27 +205,27 @@
             <div class="dropdown-menu navbar-expand-lg bg-dark" aria-labelledby="navbarDropdown">
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/biblioteca/">Biblioteca</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/biblioteca/">Library</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/extensao/">Cultura e Extensão</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/extensao/">Culture and community</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/sistemas/">Sistemas Online</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/sistemas/">Online Systems</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/downloads/">Downloads</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/downloads/">Downloads</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/fronteiras/">Fronteiras Científicas em Engenharia</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/fronteiras/">Scientific Frontiers in Engineering</a>
                 
               
                 
-                  <a class="dropdown-item text-light bg-dark" href="/videos/">Vídeos</a>
+                  <a class="dropdown-item text-light bg-dark" href="/en/videos/">Videos</a>
                 
               
             </div>
@@ -235,7 +235,7 @@
         
           <li class="nav-item">
             
-              <a class="nav-link" href="/noticias/">Notícias</a>
+              <a class="nav-link" href="/en/noticias/">News</a>
             
           </li>
         
@@ -243,7 +243,7 @@
         
           <li class="nav-item">
             
-              <a class="nav-link" href="/contact/">Contato</a>
+              <a class="nav-link" href="/en/contact/">Contact</a>
             
           </li>
         
@@ -261,7 +261,7 @@
     <div class="my-2 my-lg-0">
       
       
-        <a href="/en/labs/laborat%C3%B3rio-de-cer%C3%A2mica-via-%C3%BAmida.html"><img src="/assets/images/clipart/en.svg" height="20px" title="English version"></a>
+        <a href="/docentes/emerson-gon%C3%A7alves-de-melo.html"><img src="/assets/images/clipart/br.svg" height="20px" title="Versão em português"></a>
       
     </div>
   </div>
@@ -286,35 +286,35 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
   <ol class="carousel-indicators">
     
     
-    <li data-target="#maincarousel" data-slide-to="0" class="active">
+    <li data-target="#maincarousel" data-slide-to="0" class="active"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="1">
+    <li data-target="#maincarousel" data-slide-to="1"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="2">
+    <li data-target="#maincarousel" data-slide-to="2"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="3">
+    <li data-target="#maincarousel" data-slide-to="3"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="4">
+    <li data-target="#maincarousel" data-slide-to="4"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="5">
+    <li data-target="#maincarousel" data-slide-to="5"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="6">
+    <li data-target="#maincarousel" data-slide-to="6"></li>
     
     
     
-    <li data-target="#maincarousel" data-slide-to="7">
+    <li data-target="#maincarousel" data-slide-to="7"></li>
     
     
   </ol>
@@ -332,7 +332,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -364,7 +364,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -396,7 +396,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -428,7 +428,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -460,7 +460,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -492,7 +492,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -524,7 +524,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -556,7 +556,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
             <div class="modal-header bg-dark text-light">
               <h5 class="modal-title"></h5>
               <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                <span class="text-light" aria-hidden="true">×</span>
+                <span class="text-light" aria-hidden="true">&times;</span>
               </button>
             </div>
             <div class="modal-body">
@@ -590,48 +590,776 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
           <!--<div class="alert alert-warning mt-2" role="alert">
             :warning: Devido à crise sanitária causada pela pandemia de COVID-19, o site encontra-se temporariamente hospedado no endereço <a href="https://computeel.org/Demar">https://computeel.org/Demar</a>, para onde você foi automaticamente redirecionado. Desculpe-nos por qualquer transtorno que isso possa causar.
           </div>-->
-          <div class="well">
+          <style>
+  body {
+    text-align: left;
+  }
+  .social {
+    width:1.3em;
+    margin-right:.2em;
+  }
+</style>
+
+<div class="well">
 
   <nav class="shadow-sm" aria-label="breadcrumb">
     <ol class="breadcrumb">
-      
-        <li class="breadcrumb-item"><a class="badge badge-info" href="/">Demar :: EEL :: USP</a></li>
-        <li class="breadcrumb-item"><a class="badge badge-info" href="/labs/">Laboratórios</a></li>
-        <li class="breadcrumb-item active" aria-current="page"><span class="badge badge-secondary">Laboratório de Cerâmica - Via Úmida</span></li>
-      
+      <li class="breadcrumb-item"><a class="badge badge-info" href="/en/">Demar :: EEL :: USP</a></li>
+      <li class="breadcrumb-item"><a class="badge badge-info" href="/en/docentes/">Faculty</a></li>
+      <li class="breadcrumb-item active" aria-current="page"><span class="badge badge-secondary">Emerson Gonçalves de Melo</span></li>
     </ol>
   </nav>
 
+  <h1 class="alert bg-dark text-light w-100 mb-2" style="text-align:left">Emerson Gonçalves de Melo</h1>
 
-  <h1 class="alert bg-dark text-light w-100 mb-1" style="text-align:left">Laboratório de Cerâmica - Via Úmida</h1>
+  <div class="row">
 
+    <div class="col-md-3 mb-2 float-md-left w-50">
 
+      <img class=" w-100 rounded" src="/assets/images/people/docentes/emerson.jpg" title="Emerson Gonçalves de Melo" alt="Emerson Gonçalves de Melo">
 
+    </div>
 
-<h2>Responsável: 
-  
-</h2>
+    <div class="col-md-9 my-auto">
 
-<hr>
+      <h2>Assistant Professor</h2>
 
-  <div class="clearfix">
+      <h3>
+        
+        <a id="no-ext-link" href="http://lattes.cnpq.br/6665790262381261" target="_blank"><img class="social" src="/assets/images/logos/lattes.jpg" title="Lattes" ></a>
+        
+        
+        <a id="no-ext-link" href="http://www.researcherid.com/rid/G-3115-2017" target="_blank"><img class="social" src="/assets/images/logos/ResID.gif" title="ResearcherID"></a>
+        
+        
+        <a id="no-ext-link" href="https://orcid.org/0000-0002-7026-5747" target="_blank"><img class="social" src="/assets/images/logos/ORCID.png" title="ORCID"></a>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </h3>
 
-    
-      <img class="w-50 mx-auto" src="/assets/images/clipart/en-construction.gif">
-    
+      <p>
+        :email: <a href="mailto:emerdemelo@usp.br">emerdemelo@usp.br</a><br />
+        :telephone_receiver: +55 12 3159 9917
+        
+        
+      </p>
 
-    
-
-    
-
-    
       
 
-    
-    
 
-
+    </div>
   </div>
+
+  <ul class="nav nav-tabs" id="myTab" role="tablist">
+    <li class="nav-item">
+      <a class="nav-link active" id="contact-tab" data-toggle="tab" href="#contact" role="tab" aria-controls="contact" aria-selected="true">Profile</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-link" id="teaching-tab" data-toggle="tab" href="#teaching" role="tab" aria-controls="teaching" aria-selected="false">Teaching</a>
+    </li>
+    
+    <li class="nav-item">
+      <a class="nav-link" id="research-tab" data-toggle="tab" href="#research" role="tab" aria-controls="research" aria-selected="false">Research</a>
+    </li>
+  </ul>
+
+<div class="tab-content" id="myTabContent">
+
+  <div class="tab-pane fade show active" id="contact" role="tabpanel" aria-labelledby="contact-tab">
+    <div class="clearfix">
+      
+        <style>
+          body { text-align: justify};
+        </style>
+      
+      <h1 class="alert bg-dark text-light">Academic background</h1>
+      
+      
+
+Reveiced his PhD degree in Electrical Engineering from the Polytechnic School of the University of São Paulo (2017) and holds a postdoctoral degree in Applied Physics from the State University of Campinas (2019). Dedicated to studies concerning optical phenomena and devices based on periodic nanostructures in dielectric and metallic materials. Research activities includes theoretical studies supported by numerical and analytical methods, optimizations of photonic devices, nanofabrication processes and optical/physical characterizations. Interested in photonics, plasmonics and nanotechnology.
+
+
+    </div>
+  </div>
+
+  <div class="tab-pane fade" id="teaching" role="tabpanel" aria-labelledby="teaching-tab">
+    <div class="clearfix">
+      <h1 class="alert bg-dark text-light" style="text-align:left">Classes taught in the department</h1>
+      <div class="container">
+      <h2 class="alert bg-dark text-light">Undergraduate</h2>
+      <ul>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li style="text-align:left">
+          <a href="https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3202&verdis=1" target="_blank">LOM3202:</a> Electrical Circuits
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        <li style="text-align:left">
+          <a href="https://uspdigital.usp.br/jupiterweb/jupDisciplina?sgldis=LOM3254&verdis=1" target="_blank">LOM3254:</a> Electrical Circuits Lab
+        </li>
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+      </ul>
+    </div>
+      
+    </div>
+  </div>
+
+  <div class="tab-pane fade" id="research" role="tabpanel" aria-labelledby="research-tab">
+    <div class="clearfix">
+      <h1 class="alert bg-dark text-light">Research topics</h1>
+      <ul>
+        
+        <li style="text-align:left">Photonics</li>
+        
+        <li style="text-align:left">Plasmonics</li>
+        
+        <li style="text-align:left">Nanotechnology</li>
+        
+      </ul>
+    </div>
+  </div>
+
+</div>
 
 </div>
 
@@ -646,7 +1374,7 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
 
     <div class="clearfix">
 
-      <h1 class="alert bg-dark text-light w-100" style="text-align:left">Últimas notícias</h1>
+      <h1 class="alert bg-dark text-light w-100" style="text-align:left">Breaking news</h1>
 
       
       
@@ -655,11 +1383,11 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
           <div class="mx-auto mb-2">
             <img class="shadow rounded w-100" src="/assets/images/noticias/rosa-sartori-tiao.webp" alt="Electron bveam historical picture">
           </div>
-          <a href="/news/2024-03-18-projetoniobio.html">
-            <h3 style="text-align:left">Celebrações no DEMAR (cont.)</h3>
+          <a href="/en/news/2024-03-18-projetoniobio.html">
+            <h3 style="text-align:left">DEMAR Celebrations (continued)</h3>
           </a>
-          <a class="float-right btn btn-md btn-primary stretched-link" href="/news/2024-03-18-projetoniobio.html">Leia</a>
-          <h4>18/03/2024</h4>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="/en/news/2024-03-18-projetoniobio.html">Read</a>
+          <h4>03/18/2024</h4>
         </div>
       </div>
       
@@ -668,11 +1396,11 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
           <div class="mx-auto mb-2">
             <img class="shadow rounded w-100" src="/assets/images/demar/labs.jpg" alt="Electron bveam historical picture">
           </div>
-          <a href="/news/2023-07-13-celebrademar.html">
-            <h3 style="text-align:left">Celebrações no DEMAR</h3>
+          <a href="/en/news/2023-07-13-celebrademar.html">
+            <h3 style="text-align:left">DEMAR Celebrations</h3>
           </a>
-          <a class="float-right btn btn-md btn-primary stretched-link" href="/news/2023-07-13-celebrademar.html">Leia</a>
-          <h4>13/07/2023</h4>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="/en/news/2023-07-13-celebrademar.html">Read</a>
+          <h4>07/13/2023</h4>
         </div>
       </div>
       
@@ -681,11 +1409,11 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
           <div class="mx-auto mb-2">
             <img class="shadow rounded w-100" src="/assets/images/noticias/controle_automacao.jpg" alt="Processo seletivo aberto">
           </div>
-          <a href="/news/2023-07-04-processoseletivo.html">
+          <a href="/en/news/2023-07-04-processoseletivo.html">
             <h3 style="text-align:left">Processo seletivo em Controle e Automação</h3>
           </a>
-          <a class="float-right btn btn-md btn-primary stretched-link" href="/news/2023-07-04-processoseletivo.html">Leia</a>
-          <h4>04/07/2023</h4>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="/en/news/2023-07-04-processoseletivo.html">Read</a>
+          <h4>07/04/2023</h4>
         </div>
       </div>
       
@@ -694,11 +1422,11 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
           <div class="mx-auto mb-2">
             <img class="shadow rounded w-100" src="/assets/images/noticias/visita-baldan.jpg" alt="Prof. Baldan's visit">
           </div>
-          <a href="/news/2022-12-14-baldan.html">
-            <h3 style="text-align:left">Visita do Prof. Baldan</h3>
+          <a href="/en/news/2022-12-14-baldan.html">
+            <h3 style="text-align:left">Prof. Baldan's visit</h3>
           </a>
-          <a class="float-right btn btn-md btn-primary stretched-link" href="/news/2022-12-14-baldan.html">Leia</a>
-          <h4>14/12/2022</h4>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="/en/news/2022-12-14-baldan.html">Read</a>
+          <h4>12/14/2022</h4>
         </div>
       </div>
       
@@ -707,16 +1435,16 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
           <div class="mx-auto mb-2">
             <img class="shadow rounded w-100" src="/assets/images/noticias/tcc.jpg" alt="TCC: End Paper">
           </div>
-          <a href="/news/2022-07-08-tccs.html">
-            <h3 style="text-align:left">Novo! Calendário de TCCs</h3>
+          <a href="/en/news/2022-07-08-tccs.html">
+            <h3 style="text-align:left">New! TCC schedule</h3>
           </a>
-          <a class="float-right btn btn-md btn-primary stretched-link" href="/news/2022-07-08-tccs.html">Leia</a>
-          <h4>08/07/2022</h4>
+          <a class="float-right btn btn-md btn-primary stretched-link" href="/en/news/2022-07-08-tccs.html">Read</a>
+          <h4>07/08/2022</h4>
         </div>
       </div>
       
 
-    <a class="btn btn-md btn-primary float-left" href="/noticias/">Ver todas</a>
+    <a class="btn btn-md btn-primary float-left" href="/en/noticias/">See all</a>
 
   </div>
 
@@ -745,13 +1473,13 @@ include carousel.html name='xxxxxxxxxx' data=yyyyyyyyyy modal=True/False height=
       Área II: Estrada Municipal Chiquito de Aquino, Nº 1000, Mondesir. CEP: 12612-550, Lorena/SP. Tel.: (12) 3159-9900
     </p>
     <p>
-CEP 12602-810 – Lorena - SP</p>
+CEP 12602-810 &ndash; Lorena - SP</p>
       <!-- Call to action -->
     </div>
     <!-- Footer Elements -->
     <!-- Copyright -->
       © 2024
-      <a href="/docentes/luiz-tadeu-fernandes-eleno.html">Prof. Luiz T. F. Eleno</a> &amp; Demar :: EEL :: USP
+      <a href="/en/docentes/luiz-tadeu-fernandes-eleno.html">Prof. Luiz T. F. Eleno</a> &amp; Demar :: EEL :: USP
     <!-- Copyright -->
 
   </footer>

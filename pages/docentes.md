@@ -29,7 +29,7 @@ body {text-align: left;}
         <a id="no-ext-link" href="http://lattes.cnpq.br/{{member.Lattes}}" target="_blank"><img class="social" src="{{site.baseurl}}/assets/images/logos/lattes.jpg" title="Lattes" ></a>
         {% endif %}
         {% if member.ResearcherID %}
-        <a id="no-ext-link" href="http://www.researcherid.com/rid/{{member.ResearcherID}}" target="_blank"><img class="social" src="{{site.baseurl}}/assets/images/logos/ResID.gif" title="ResearcherID"></a>
+        <a id="no-ext-link" href="https://www.webofscience.com/wos/author/record/{{member.ResearcherID}}" target="_blank"><img class="social" src="{{site.baseurl}}/assets/images/logos/ResID.gif" title="ResearcherID"></a>
         {% endif %}
         {% if member.ORCID %}
         <a id="no-ext-link" href="https://orcid.org/{{member.ORCID}}" target="_blank"><img class="social" src="{{site.baseurl}}/assets/images/logos/ORCID.png" title="ORCID"></a>

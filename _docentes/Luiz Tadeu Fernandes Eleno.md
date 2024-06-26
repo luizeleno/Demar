@@ -5,7 +5,7 @@ nome: Luiz Tadeu Fernandes Eleno
 NUSP: 1176388
 email: luizeleno@usp.br
 fone: +55 12 3159 9810
-webpage: "https://sites.usp.br/computeel"
+webpage: "https://computeel.org"
 altwebpage:
 
 # Agregadores científicos:

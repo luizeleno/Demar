@@ -3,7 +3,7 @@ title: Indicadores
 permalink: /indicadores/
 ---
 
-## Atualizado em 16 de agosto de 2022
+## Atualizado em 16 de junho de 2024
 
 {% include figure.html image='/assets/images/demar/ISI-data.png' caption='Fonte: Web of Science' id='a' link='http://apps.webofknowledge.com'%}
 

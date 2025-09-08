@@ -15,8 +15,8 @@ Linkedin: "durval-rodrigues-jr-95670622"
 Facebook: durvalrodriguesjr
 
 staff:
-  br: Professor Titular  (Vice-Diretor da EEL-USP)
-  en: Full Professor (EEL's Vice-Director)
+  br: Professor Titular (Diretor da EEL-USP)
+  en: Full Professor (EEL's Director)
 
 short_name: durval
 image: durval

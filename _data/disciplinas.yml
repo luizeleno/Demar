@@ -3,6 +3,12 @@
 
 loq:
 
+
+  - sigla: LOM3120
+    title:
+      br: Fundamentos de Engenharia de Superficie
+      en: Fundamentals of Surface Engineering
+
   - sigla: LOQ4209
     title:
       br: Engenharia da Qualidade I

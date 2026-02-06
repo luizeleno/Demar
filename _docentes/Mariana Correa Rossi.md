@@ -20,8 +20,8 @@ disciplinas:
   lom: [LOM3089, LOM3120, LOM3086]
 
 pesquisa:
-  br: [Ligas Multicomponentes, Ligas Biodegradáveis, Modificação Superficial oxidação anódica e à plasma, Tribocorrosão, Ligas de Ti e Nb densas e porosas]
-  en: [Multicomponent Alloys, Biodegradable Alloys, Surface Modification: Anodic Oxidation and Plasma Treatments, Tribocorrosion, Dense and Porous Ti and Nb Alloys]
+  br: [Ligas Multicomponentes, Ligas Biodegradáveis, "Modificação Superficial: oxidação anódica e à plasma", Tribocorrosão, Ligas de Ti e Nb densas e porosas]
+  en: [Multicomponent Alloys, Biodegradable Alloys, "Surface Modification: Anodic Oxidation and Plasma Treatments", Tribocorrosion, Dense and Porous Ti and Nb Alloys]
 
 ---
 

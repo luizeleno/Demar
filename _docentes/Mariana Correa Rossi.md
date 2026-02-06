@@ -2,7 +2,7 @@
 nome: Mariana Correa Rossi
 NUSP:
 fone: +55 12 3159 9907
-email: mariana.correa.rossi@usp.br
+email: m.rossi@usp.br
 Lattes: 3908115015799734
 ResearcherID: AAW-9366-2021
 ORCID: 0000-0002-1476-5990

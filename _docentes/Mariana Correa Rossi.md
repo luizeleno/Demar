@@ -8,7 +8,7 @@ ResearcherID: AAW-9366-2021
 ORCID: 0000-0002-1476-5990
 Scopus: 56927407300
 GoogleScholar: JvEU2-oAAAAJ
-ResearchGate: "Mariana Rossi"
+ResearchGate: "Mariana-Rossi-4"
 Linkedin: "mariana-correa-rossi"
 Facebook:
 Twitter:

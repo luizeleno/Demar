@@ -13,8 +13,8 @@ Linkedin: "mariana-correa-rossi"
 Facebook:
 Twitter:
 
-short_name: andy
-image: andy
+short_name: mariana
+image: mariana
 
 disciplinas:
   lom: [LOM3089, LOM3120, LOM3086]

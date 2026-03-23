@@ -19,7 +19,7 @@ GoogleScholar: V4ycRTQAAAAJ
 ResearchGate: "Luiz_Eleno"
 #Linkedin: "luiz-eleno-57a627142"
 #Facebook: luizeleno
-#Instagram: elenoluiz
+Instagram: elenoluiz
 #Twitter: ElenoLuiz
 Github: luizeleno
 

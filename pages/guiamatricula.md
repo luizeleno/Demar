@@ -4,7 +4,7 @@ permalink: /matricula/
 
 ---
 
-Guia Simples de Matrículas elaborado para orientar o processo de matrícula
+Guia elaborado para orientar o processo de matrícula
 {: .lead}
 
 [Baixar o guia (PDF)]({{site.baseurl}}/assets/docs/Guia simples de matriculas_atualizado2026.pdf){: .btn .btn-primary target="_blank"}

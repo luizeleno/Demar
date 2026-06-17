@@ -4,7 +4,7 @@ permalink: /en/matricula/
 
 ---
 
-Simple Enrollment Guide designed to guide the enrollment process
+Guide designed to help in the enrollment process
 {: .lead}
 
 [Download PDF (pt-BR only)]({{site.baseurl}}/assets/docs/Guia simples de matriculas_atualizado2026.pdf){: .btn .btn-primary target="_blank"}

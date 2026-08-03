@@ -1,7 +1,7 @@
 ---
 nome: João Vitor Campos
 NUSP:
-fone: +5516981583116
+fone: +55 16 9815 83116
 email: joao2.campos@alumni.usp.br
 Lattes: 6088346462110926
 ResearcherID: ITT-0495-2023
